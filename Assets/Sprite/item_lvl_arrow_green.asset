@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: item_lvl_arrow_green
+  m_Rect:
+    serializedVersion: 2
+    x: 813
+    y: 0
+    width: 82
+    height: 88
+  m_Offset: {x: 0, y: 0}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 200
+  m_Pivot: {x: 0.5, y: 0.5}
+  m_Extrude: 1
+  m_IsPolygon: 0
+  m_AtlasName:
+  m_PackingTag:
+  m_RD:
+    texture: {fileID: 2800000, guid: 9c17fd12957e5f14085b6d58c79496eb, type: 3}
+    alphaTexture: {fileID: 0}
+    vertices:
+    - serializedVersion: 2
+      pos: {x: 0.205, y: 0.055, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.15, y: -0.215, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.205, y: -0.01, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.145, y: -0.22, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.025, y: 0.22, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.045, y: 0.22, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.16, y: -0.22, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.205, y: 0.045, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.205, y: -0.105, z: 0}
+    indices:
+    - 8
+    - 7
+    - 6
+    - 5
+    - 6
+    - 7
+    - 3
+    - 6
+    - 5
+    - 4
+    - 3
+    - 5
+    - 0
+    - 3
+    - 4
+    - 1
+    - 3
+    - 0
+    - 2
+    - 1
+    - 0
+    textureRect:
+      serializedVersion: 2
+      x: 813
+      y: 0
+      width: 82
+      height: 88
+    textureRectOffset: {x: 0, y: 0}
+    settingsRaw: 67
+    uvTransform: {x: 200, y: 854, z: 200, w: 44}

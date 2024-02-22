@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67513b9d6fb19e70617fd433e4ecf63e, type: 3}
+  m_Name: "Mob_Skeleton_Tribal_Ranged_01"
+  m_EditorClassIdentifier: 
+  displayName: "Skeleton Javelineer"
+  meleePriority: 0
+  prefab: {fileID: 1791314569431989211, guid: 9bbe484577cce804daecc22666cf9b7c, type: 2}
+  baseStats:
+    hp: 300
+    def: 30
+    atk: 300
+    atkInterval: 3
+  perks: []

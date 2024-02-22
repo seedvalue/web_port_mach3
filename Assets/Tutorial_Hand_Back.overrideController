@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "Tutorial_Hand_Back"
+  m_Controller: {fileID: 9100000, guid: 24b16c36677142019d05ff5b34a0a0ac, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 596910f024e441e9b8f1900b65f1318a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 38b2b409e0b3416c999dbc827ee6cc69, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e9396873d9654c379bd605ae9dff8c56, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 404957568323427293a46912a212317e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 526b9c1368854a51a9fc3a117c90787a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cde858e041814c8eb554de2d156241ad, type: 2}

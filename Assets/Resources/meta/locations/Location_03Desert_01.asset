@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c6b6b6ee7d48974c602c4f85f0067b7, type: 3}
+  m_Name: "Location_03Desert_01"
+  m_EditorClassIdentifier: 
+  displayName: "Sands of Wonder"
+  bkgImage: {fileID: 21300000, guid: 622c268256f946d296b83ac09cc4864d, type: 3}
+  settingIndex: 3
+  index: 1
+  easyBronzeReward: 5
+  easySilverReward: 10
+  easyGoldReward: 15
+  mediumBronzeReward: 10
+  mediumSilverReward: 15
+  mediumGoldReward: 25
+  hardBronzeReward: 15
+  hardSilverReward: 25
+  hardGoldReward: 40

@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Sync.unity
+    guid: 8a7d9585c97d38242a635ab01ee18d0e
+  - enabled: 1
+    path: Assets/Scenes/Meta/Meta.unity
+    guid: 4d5f43378875a524c90beb37c73530e1
+  - enabled: 1
+    path: Assets/Scenes/Meta/MetaShop.unity
+    guid: 5483966158e1d2e4c9c7f0553095f157
+  - enabled: 1
+    path: Assets/Scenes/Meta/MetaHero.unity
+    guid: fb568ae58aad781498b053786fc92086
+  - enabled: 1
+    path: Assets/Scenes/Meta/MetaMain.unity
+    guid: 7d434dac17626814dacb6840a7bc42dc
+  - enabled: 1
+    path: Assets/Scenes/Meta/MetaGuilds.unity
+    guid: 3b895ecc60bdbcf4b9420c71affab0f8
+  - enabled: 1
+    path: Assets/Scenes/Meta/MetaPVP.unity
+    guid: f62bbce5ed5723846b99caa909fcbd74
+  - enabled: 1
+    path: Assets/Scenes/Meta/MetaCheats.unity
+    guid: 8530b27435b553e4d94336095df2cb1e
+  - enabled: 1
+    path: Assets/Scenes/Match3/match3.unity
+    guid: a3c1b303b33d4fe4592977ec983cce1a
+  - enabled: 1
+    path: Assets/Progression/Forrest/Levels/Level_Forest_01.unity
+    guid: 4b8e384440ded0c4083a16be5ffa2cd4
+  - enabled: 1
+    path: Assets/Progression/Forrest/Levels/Level_Forest_02.unity
+    guid: a6cb164f9c9185c4ba1b6ea4091bcc1d
+  - enabled: 1
+    path: Assets/Progression/Ruins/Levels/Level_Ruins_01.unity
+    guid: 52f0977fb6c7e464e85be8627b20dd89
+  - enabled: 1
+    path: Assets/Progression/Ruins/Levels/Level_Ruins_02.unity
+    guid: 00cef0dda02e2e644bde291a117bb261
+  - enabled: 1
+    path: Assets/Progression/Desert/Levels/Level_Desert_01.unity
+    guid: 5205407c287b053499027bed4a23d0e4
+  - enabled: 1
+    path: Assets/Progression/Desert/Levels/Level_Desert_02.unity
+    guid: 582d8fdcb45a11f4198767907aadfd16
+  - enabled: 1
+    path: Assets/Progression/Desert/Levels/Level_Desert_03.unity
+    guid: eae0523a2a3fae74fb63637f76c412a1
+  - enabled: 1
+    path: Assets/Scenes/Windows/StageWindow.unity
+    guid: 897ab92e05d5e284d905f00845315922
+  - enabled: 1
+    path: Assets/Scenes/Windows/LocationWindow.unity
+    guid: 4598d2e8866d05f4fadce68e866e965b
+  - enabled: 1
+    path: Assets/Scenes/Windows/M3InfoWindow.unity
+    guid: be611c9d82d08484db02c9419e0fd377
+  - enabled: 1
+    path: Assets/Scenes/Windows/M3SkillPreviewWindow.unity
+    guid: 3d91161466b7dab4080c483e78552ebc
+  - enabled: 1
+    path: Assets/Scenes/Windows/M3SkillWindow.unity
+    guid: 1b39f6678d706af4b8a79d547fdbfd70
+  - enabled: 1
+    path: Assets/Scenes/Windows/M3MobWindow.unity
+    guid: 425401187fb266544a8d1f11b584c05a
+  - enabled: 1
+    path: Assets/Scenes/Windows/PickItemWindow.unity
+    guid: 426792bc663ce8d41905e0abc7621c4b
+  - enabled: 1
+    path: Assets/Scenes/Windows/ItemWindow.unity
+    guid: 26651b7b91a8ff046ad4490b6fe36460
+  - enabled: 1
+    path: Assets/Scenes/Windows/ShopCoinsWindow.unity
+    guid: 2997a20fc36d6b04ca869ec47c911622
+  - enabled: 1
+    path: Assets/Scenes/Windows/ChestWindow.unity
+    guid: 57bf6544813972c4083828eeb5a1b643
+  - enabled: 1
+    path: Assets/Scenes/Windows/OpenChestWindow.unity
+    guid: 337cbcef3bcdcd646a32f8ca5ad8db47
+  - enabled: 1
+    path: Assets/Scenes/Windows/ShopItemWindow.unity
+    guid: 1e02071c29a481c4da1f9f4274ff340e
+  - enabled: 1
+    path: Assets/Scenes/Windows/GoToShopWindow.unity
+    guid: 0d787260482b0e7419ebe9e846d0a47e
+  - enabled: 1
+    path: Assets/Scenes/Windows/NotEnoughCoinsWindow.unity
+    guid: 18395fce5dbd29543a107c953c37f1ce
+  - enabled: 1
+    path: Assets/Scenes/Windows/StageWinWindow.unity
+    guid: b19f1523c3e6648478e0d88f02679684
+  - enabled: 1
+    path: Assets/Scenes/Windows/StageLoseWindow.unity
+    guid: 918b47a73b4855445b2140f42c1c1620
+  - enabled: 1
+    path: Assets/Scenes/Windows/EnterNameWindow.unity
+    guid: 60176650176ccdd4b8b24a96949570f8
+  - enabled: 1
+    path: Assets/Scenes/Windows/AreYouSureWindow.unity
+    guid: e44ee0ca9e41e6b4989548510d2b6d75
+  - enabled: 1
+    path: Assets/Scenes/Windows/M3PauseWindow.unity
+    guid: 663ad71680f5662408c3f532556f3fd2
+  - enabled: 1
+    path: Assets/Scenes/Windows/SettingsWindow.unity
+    guid: aa18b1cb3d52ee846b760bf4d8257d00
+  - enabled: 1
+    path: Assets/Scenes/Windows/ItemLevelUpWindow.unity
+    guid: 1bb442303281e39469f7530a5cd0811a
+  - enabled: 1
+    path: Assets/Scenes/Windows/LevelUpWindow.unity
+    guid: 96d125ee9409efa4aa42cdaee2cde20a
+  - enabled: 1
+    path: Assets/Scenes/Windows/SlotsAreFullWindow.unity
+    guid: d83a75401f6e0e4438e079d1169181ef

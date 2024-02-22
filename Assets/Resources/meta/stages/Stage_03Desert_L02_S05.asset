@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9520132690e88a6394e3b46ea989cbf4, type: 3}
+  m_Name: "Stage_03Desert_L02_S05"
+  m_EditorClassIdentifier: 
+  displayName: "Dune's Crest"
+  sceneName: "Level_Desert_02"
+  icon: {fileID: 21300004, guid: 2f7528175f6246e3b28bcf9685043d00, type: 3}
+  location: {fileID: 11400000, guid: c18a2fb1d33d4aed921b6af66f36b7fa, type: 2}
+  index: 5
+  star2: 20
+  star3: 10
+  easyExp: 10
+  easyCoinsMin: 22
+  easyCoinsMax: 44
+  easyFirstChest: {fileID: 0}
+  easyFirstChestContent: {fileID: 0}
+  easyTutorial: {fileID: 0}
+  easyFixedBoard: {fileID: 0}
+  easyChanceItem: {fileID: 11400000, guid: 3b0a5f44e70244be844dc3236cb4746d, type: 2}
+  easyMultipliers:
+    hp: 1
+    def: 1
+    atk: 1
+  mediumExp: 20
+  mediumCoinsMin: 24
+  mediumCoinsMax: 62
+  mediumChanceItem: {fileID: 11400000, guid: 3b0a5f44e70244be844dc3236cb4746d, type: 2}
+  mediumMultipliers:
+    hp: 2.5
+    def: 2
+    atk: 1.5
+  hardExp: 30
+  hardCoinsMin: 32
+  hardCoinsMax: 74
+  hardChanceItem: {fileID: 11400000, guid: 3b0a5f44e70244be844dc3236cb4746d, type: 2}
+  hardMultipliers:
+    hp: 5
+    def: 3
+    atk: 2

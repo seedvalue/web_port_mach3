@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd027e2971dbb65a9c6966c0b5a12fde, type: 3}
+  m_Name: "Item_Paladin_MainHand_01"
+  m_EditorClassIdentifier: 
+  displayName: "Edge of Righteousness"
+  icon: {fileID: 21300004, guid: 64eaefb036fb456a9b7e37793d6e7a22, type: 3}
+  rarity: 0
+  itemType: 3
+  itemClass: 1
+  perks: []
+  skill: {fileID: 11400000, guid: 071ba2ab97ab4eea9aca8a492ac595dc, type: 2}
+  description: 
+  vis3D: {fileID: 1791314569431989247, guid: 5f357fb98e929c2469ad1b5fd309b012, type: 2}
+  headVariant: 0
+  availableSoon: 0
+  baseStats:
+    HP: 0
+    Def: 0
+    Rcv: 0
+    Mel: 100
+    Rng: 0
+    Hrm: 50
+    Prm: 0
+    Vd: 0
+  basePercentStats:
+    HP: 0
+    Def: 0
+    Rcv: 0
+    Mel: 0
+    Rng: 0
+    Hrm: 0
+    Prm: 0
+    Vd: 0

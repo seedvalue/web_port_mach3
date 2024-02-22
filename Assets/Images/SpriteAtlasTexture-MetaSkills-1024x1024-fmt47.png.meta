@@ -1,0 +1,1308 @@
+fileFormatVersion: 2
+guid: a9237af87afb44fca63a556cafd16ccb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Skill_MarksmansAim_Icon
+  - first:
+      213: 21300002
+    second: Skill_SteelAlchemy_Icon
+  - first:
+      213: 21300004
+    second: Skill_OmnipotentAlchemy_Icon
+  - first:
+      213: 21300006
+    second: Skill_RangedCall_Icon
+  - first:
+      213: 21300008
+    second: Skill_Sunray_Icon
+  - first:
+      213: 21300010
+    second: Skill_PiercingShot_Icon
+  - first:
+      213: 21300012
+    second: Skill_HeavensWrath_Icon
+  - first:
+      213: 21300014
+    second: Skill_WarlocksArcana_Icon
+  - first:
+      213: 21300016
+    second: Skill_HarmonyCall_Icon
+  - first:
+      213: 21300018
+    second: Skill_VoidCall_Icon
+  - first:
+      213: 21300020
+    second: Skill_VoidToHarmony_Icon
+  - first:
+      213: 21300022
+    second: Skill_HarmonyHeal_Icon
+  - first:
+      213: 21300024
+    second: Skill_PyromancyHeal_Icon
+  - first:
+      213: 21300026
+    second: Skill_StunningBlow_Icon
+  - first:
+      213: 21300028
+    second: Skill_TrimagicAlchemy_Icon
+  - first:
+      213: 21300030
+    second: Skill_PaladinsPrayer_Icon
+  - first:
+      213: 21300032
+    second: Skill_PyromancyCall_Icon
+  - first:
+      213: 21300034
+    second: Skill_MeleeToRanged_Icon
+  - first:
+      213: 21300036
+    second: Skill_MeleeHeal_Icon
+  - first:
+      213: 21300038
+    second: Skill_HarmonyToPyromancy_Icon
+  - first:
+      213: 21300040
+    second: Skill_RangedToMelee_Icon
+  - first:
+      213: 21300042
+    second: Skill_VoidHeal_Icon
+  - first:
+      213: 21300044
+    second: Skill_RangersCreep_Icon
+  - first:
+      213: 21300046
+    second: Skill_Heal_Icon
+  - first:
+      213: 21300048
+    second: Skill_PyromancyToVoid_Icon
+  - first:
+      213: 21300050
+    second: Skill_Explosion_Icon
+  - first:
+      213: 21300052
+    second: Skill_Armageddon_Icon
+  - first:
+      213: 21300054
+    second: Skill_PyromancyToHarmony_Icon
+  - first:
+      213: 21300056
+    second: Skill_HardStrike_Icon
+  - first:
+      213: 21300058
+    second: Skill_BlackHole_Icon
+  - first:
+      213: 21300060
+    second: Skill_WizardsSorcery_Icon
+  - first:
+      213: 21300062
+    second: Skill_MeleeCall_Icon
+  - first:
+      213: 21300064
+    second: Skill_HarmonyToVoid_Icon
+  - first:
+      213: 21300066
+    second: Skill_VoidToMelee_Icon
+  - first:
+      213: 21300068
+    second: Skill_RainbowShout_Icon
+  - first:
+      213: 21300070
+    second: Skill_RangedHeal_Icon
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skill_MarksmansAim_Icon
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 142
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: -70}
+      - - {x: 70, y: 70}
+        - {x: 70, y: -70}
+        - {x: -70, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_StunningBlow_Icon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: -70}
+      - - {x: 70, y: 70}
+        - {x: 70, y: -70}
+        - {x: -70, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_VoidToMelee_Icon
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: -70}
+      - - {x: 70, y: 70}
+        - {x: 70, y: -70}
+        - {x: -70, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_OmnipotentAlchemy_Icon
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 710
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: -70}
+      - - {x: 70, y: 70}
+        - {x: 70, y: -70}
+        - {x: -70, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_HarmonyHeal_Icon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 426
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: -70}
+      - - {x: 70, y: 70}
+        - {x: 70, y: -70}
+        - {x: -70, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_PyromancyToHarmony_Icon
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: -70}
+      - - {x: 70, y: 70}
+        - {x: 70, y: -70}
+        - {x: -70, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_PyromancyHeal_Icon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: -70}
+      - - {x: 70, y: 70}
+        - {x: 70, y: -70}
+        - {x: -70, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_VoidCall_Icon
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 284
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: -70}
+      - - {x: 70, y: 70}
+        - {x: 70, y: -70}
+        - {x: -70, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_MeleeHeal_Icon
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 568
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: -70}
+      - - {x: 70, y: 70}
+        - {x: 70, y: -70}
+        - {x: -70, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_RangedToMelee_Icon
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: -70}
+      - - {x: 70, y: 70}
+        - {x: 70, y: -70}
+        - {x: -70, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_HarmonyToVoid_Icon
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 426
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: -70}
+      - - {x: 70, y: 70}
+        - {x: 70, y: -70}
+        - {x: -70, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_PiercingShot_Icon
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 710
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: -70}
+      - - {x: 70, y: 70}
+        - {x: 70, y: -70}
+        - {x: -70, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_HarmonyToPyromancy_Icon
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 142
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: -70}
+      - - {x: 70, y: 70}
+        - {x: 70, y: -70}
+        - {x: -70, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_Sunray_Icon
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 710
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: -70}
+      - - {x: 70, y: 70}
+        - {x: 70, y: -70}
+        - {x: -70, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_WarlocksArcana_Icon
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 142
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: -70}
+      - - {x: 70, y: 70}
+        - {x: 70, y: -70}
+        - {x: -70, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_Heal_Icon
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 426
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: -70}
+      - - {x: 70, y: 70}
+        - {x: 70, y: -70}
+        - {x: -70, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_RainbowShout_Icon
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 426
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: -70}
+      - - {x: 70, y: 70}
+        - {x: 70, y: -70}
+        - {x: -70, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_MeleeToRanged_Icon
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 0
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: -70}
+      - - {x: 70, y: 70}
+        - {x: 70, y: -70}
+        - {x: -70, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_VoidHeal_Icon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: -70}
+      - - {x: 70, y: 70}
+        - {x: 70, y: -70}
+        - {x: -70, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_RangedHeal_Icon
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 142
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: -70}
+      - - {x: 70, y: 70}
+        - {x: 70, y: -70}
+        - {x: -70, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_RangedCall_Icon
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 568
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: -70}
+      - - {x: 70, y: 70}
+        - {x: 70, y: -70}
+        - {x: -70, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_RangersCreep_Icon
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 284
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: -70}
+      - - {x: 70, y: 70}
+        - {x: 70, y: -70}
+        - {x: -70, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_PyromancyToVoid_Icon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 568
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: -70}
+      - - {x: 70, y: 70}
+        - {x: 70, y: -70}
+        - {x: -70, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_PyromancyCall_Icon
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 284
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: -70}
+      - - {x: 70, y: 70}
+        - {x: 70, y: -70}
+        - {x: -70, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_Armageddon_Icon
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 142
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: -70}
+      - - {x: 70, y: 70}
+        - {x: 70, y: -70}
+        - {x: -70, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_HardStrike_Icon
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 426
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: -70}
+      - - {x: 70, y: 70}
+        - {x: 70, y: -70}
+        - {x: -70, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_MeleeCall_Icon
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 568
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: -70}
+      - - {x: 70, y: 70}
+        - {x: 70, y: -70}
+        - {x: -70, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_HarmonyCall_Icon
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: -70}
+      - - {x: 70, y: 70}
+        - {x: 70, y: -70}
+        - {x: -70, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_VoidToHarmony_Icon
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 284
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: -70}
+      - - {x: 70, y: 70}
+        - {x: 70, y: -70}
+        - {x: -70, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_TrimagicAlchemy_Icon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 710
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: -70}
+      - - {x: 70, y: 70}
+        - {x: 70, y: -70}
+        - {x: -70, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_WizardsSorcery_Icon
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 568
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: -70}
+      - - {x: 70, y: 70}
+        - {x: 70, y: -70}
+        - {x: -70, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_BlackHole_Icon
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 284
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: -70}
+      - - {x: 70, y: 70}
+        - {x: 70, y: -70}
+        - {x: -70, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_Explosion_Icon
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 426
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: -70}
+      - - {x: 70, y: 70}
+        - {x: 70, y: -70}
+        - {x: -70, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_PaladinsPrayer_Icon
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 142
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: -70}
+      - - {x: 70, y: 70}
+        - {x: 70, y: -70}
+        - {x: -70, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_SteelAlchemy_Icon
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 284
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: -70}
+      - - {x: 70, y: 70}
+        - {x: 70, y: -70}
+        - {x: -70, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_HeavensWrath_Icon
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: -70}
+      - - {x: 70, y: 70}
+        - {x: 70, y: -70}
+        - {x: -70, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Skill_Armageddon_Icon: 21300052
+      Skill_BlackHole_Icon: 21300058
+      Skill_Explosion_Icon: 21300050
+      Skill_HardStrike_Icon: 21300056
+      Skill_HarmonyCall_Icon: 21300016
+      Skill_HarmonyHeal_Icon: 21300022
+      Skill_HarmonyToPyromancy_Icon: 21300038
+      Skill_HarmonyToVoid_Icon: 21300064
+      Skill_Heal_Icon: 21300046
+      Skill_HeavensWrath_Icon: 21300012
+      Skill_MarksmansAim_Icon: 21300000
+      Skill_MeleeCall_Icon: 21300062
+      Skill_MeleeHeal_Icon: 21300036
+      Skill_MeleeToRanged_Icon: 21300034
+      Skill_OmnipotentAlchemy_Icon: 21300004
+      Skill_PaladinsPrayer_Icon: 21300030
+      Skill_PiercingShot_Icon: 21300010
+      Skill_PyromancyCall_Icon: 21300032
+      Skill_PyromancyHeal_Icon: 21300024
+      Skill_PyromancyToHarmony_Icon: 21300054
+      Skill_PyromancyToVoid_Icon: 21300048
+      Skill_RainbowShout_Icon: 21300068
+      Skill_RangedCall_Icon: 21300006
+      Skill_RangedHeal_Icon: 21300070
+      Skill_RangedToMelee_Icon: 21300040
+      Skill_RangersCreep_Icon: 21300044
+      Skill_SteelAlchemy_Icon: 21300002
+      Skill_StunningBlow_Icon: 21300026
+      Skill_Sunray_Icon: 21300008
+      Skill_TrimagicAlchemy_Icon: 21300028
+      Skill_VoidCall_Icon: 21300018
+      Skill_VoidHeal_Icon: 21300042
+      Skill_VoidToHarmony_Icon: 21300020
+      Skill_VoidToMelee_Icon: 21300066
+      Skill_WarlocksArcana_Icon: 21300014
+      Skill_WizardsSorcery_Icon: 21300060
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

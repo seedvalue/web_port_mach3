@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edbf8ece4c55f5dcc26dff5e72da8167, type: 3}
+  m_Name: "Skill_RainbowShout"
+  m_EditorClassIdentifier: 
+  displayName: "Rainbow Shout"
+  description: "Randomly spawn 3 Orbs of an Attribute Orbs of which are currently
+  smallest in number."
+  icon: {fileID: 21300068, guid: a9237af87afb44fca63a556cafd16ccb, type: 3}
+  cooldown: 3
+  sfxSample: {fileID: 11400000, guid: 68f1272383a44d6cb8a9c70c50614e4e, type: 2}
+  fxPrefab: {fileID: 0}
+  duration: 1
+  orbCount: 3
+  delay: 0.2

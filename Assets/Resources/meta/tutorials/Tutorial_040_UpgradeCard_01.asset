@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7e53fb7f71eec6c232496375260a8b2, type: 3}
+  m_Name: "Tutorial_040_UpgradeCard_01"
+  m_EditorClassIdentifier: 
+  requirements:
+  - target: {fileID: 11400000, guid: f6bc9f177c75468687398a264992327d, type: 2}
+    property: "state"
+    value: "Completed"
+    compareType: 0
+  prefab: {fileID: 1791314571327814642, guid: 10d43d34474a2c343b26adecb77d794a, type: 2}

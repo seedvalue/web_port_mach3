@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: add_combo_range
+  m_Rect:
+    serializedVersion: 2
+    x: 0
+    y: 388
+    width: 192
+    height: 192
+  m_Offset: {x: 0, y: 0}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 2
+  m_Pivot: {x: 0.5, y: 0.5}
+  m_Extrude: 1
+  m_IsPolygon: 0
+  m_AtlasName:
+  m_PackingTag:
+  m_RD:
+    texture: {fileID: 2800000, guid: 3e550c43dd9c07640b954e875c580748, type: 3}
+    alphaTexture: {fileID: 0}
+    vertices:
+    - serializedVersion: 2
+      pos: {x: -48, y: 48, z: 0}
+    - serializedVersion: 2
+      pos: {x: 48, y: -48, z: 0}
+    - serializedVersion: 2
+      pos: {x: 48, y: 48, z: 0}
+    - serializedVersion: 2
+      pos: {x: -48, y: -48, z: 0}
+    indices:
+    - 3
+    - 0
+    - 1
+    - 2
+    - 1
+    - 0
+    textureRect:
+      serializedVersion: 2
+      x: 0
+      y: 388
+      width: 192
+      height: 192
+    textureRectOffset: {x: 0, y: 0}
+    settingsRaw: 67
+    uvTransform: {x: 2, y: 96, z: 2, w: 484}

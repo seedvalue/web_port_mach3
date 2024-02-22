@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4300000
+Mesh:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Marksman_MainHand_01_FX_Geo
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 24
+    topology: 0
+    firstVertex: 0
+    vertexCount: 9
+    localAABB:
+      m_Center: {x: 0.93323505, y: 0.8706889, z: 0.6351605}
+      m_Extent: {x: 0.37467563, y: 0.36426428, z: 0.28146034}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes: []
+  m_RootBoneNameHash: 0
+  m_MeshCompression: 0
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexBuffer: 000001000200010003000200030001000400010005000400020003000600030007000600070003000800030004000800
+  m_Skin: []
+  m_VertexData:
+    m_CurrentChannels: 15
+    m_VertexCount: 9
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 12
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 24
+      format: 2
+      dimension: 4
+    - stream: 0
+      offset: 28
+      format: 0
+      dimension: 2
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 324
+    _typelessdata: 80536b3f0ba5013fa919643f7bd201bf9aeaaa3e246b4b3ff5f5f5ff5c198d3eac5de83c29308c3fb47a363faaa76a3fa545c2be9967ef3ec1614c3ff5f5f5ffd62a8d3e9bcf1a3e14dd3a3f0f83693f1889193f872507bfdf1e9f3e17574a3fe3e3e3ff03032c3f0e908e3d89d3483ff217823fe5ef183feebbc4bee9e1f13e380f4b3fe3e3e3ff40812e3f1af91c3e412b643fb243883fa14d163fe4bd5cbe18e91a3f7432443fe3e3e3ff6e022c3fe7a8723e9e69a73fd9a15f3f41505c3f530075bea216163fd022463ff5f5f5fff6178d3ea8498c3ec0fd0e3f85ca983f5472ba3e8be40bbf9574a43e6700463fd5d5d5ff2e1c7a3f0e83d43de3b8103f3a629d3f2f18b53ebdb9cabe221df83eadad473fd5d5d5fff0867e3f68a01e3e142d1a3ff2129e3ffcb1b83ea8ec67bec7541f3f28cd3f3fd6d6d6ff081c7a3f0cfe523e
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_UVInfo: 0
+  m_LocalAABB:
+    m_Center: {x: 0.93323505, y: 0.8706889, z: 0.6351605}
+    m_Extent: {x: 0.37467563, y: 0.36426428, z: 0.28146034}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh:
+  m_BakedTriangleCollisionMesh:
+  m_MeshOptimized: 1

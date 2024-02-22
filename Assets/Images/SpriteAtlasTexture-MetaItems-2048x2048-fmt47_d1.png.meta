@@ -1,0 +1,1724 @@
+fileFormatVersion: 2
+guid: 64eaefb036fb456a9b7e37793d6e7a22
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Item_DemiGod_Head_01_Icon
+  - first:
+      213: 21300002
+    second: Item_Wizard_MainHand_01_Icon
+  - first:
+      213: 21300004
+    second: Item_Paladin_MainHand_01_Icon
+  - first:
+      213: 21300006
+    second: Item_Marksman_OffHand_01_Icon
+  - first:
+      213: 21300008
+    second: Item_Warrior_Torso_01_Icon
+  - first:
+      213: 21300010
+    second: Item_Wizard_Torso_02_Icon
+  - first:
+      213: 21300012
+    second: Item_Ranger_Back_01_Icon
+  - first:
+      213: 21300014
+    second: Item_Wizard_Back_01_Icon
+  - first:
+      213: 21300016
+    second: Item_Ranger_MainHand_01_Icon
+  - first:
+      213: 21300018
+    second: Item_Warlock_OffHand_01_Icon
+  - first:
+      213: 21300020
+    second: Item_Warlock_MainHand_01_Icon
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Item_Warlock_MainHand_01_Icon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 892
+        width: 336
+        height: 444
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -168, y: 218}
+        - {x: -168, y: 222}
+        - {x: -167, y: 218}
+      - - {x: -164, y: 222}
+        - {x: -167, y: 218}
+        - {x: -168, y: 222}
+      - - {x: -164, y: 221}
+        - {x: -167, y: 218}
+        - {x: -164, y: 222}
+      - - {x: -115, y: -153}
+        - {x: -80, y: -89}
+        - {x: -113, y: -162}
+      - - {x: -99, y: -170}
+        - {x: -113, y: -162}
+        - {x: -80, y: -89}
+      - - {x: -95, y: -170}
+        - {x: -99, y: -170}
+        - {x: -80, y: -89}
+      - - {x: -71, y: -129}
+        - {x: -95, y: -170}
+        - {x: -80, y: -89}
+      - - {x: -122, y: -174}
+        - {x: -122, y: -170}
+        - {x: -111, y: -184}
+      - - {x: -119, y: -169}
+        - {x: -111, y: -184}
+        - {x: -122, y: -170}
+      - - {x: -110, y: -177}
+        - {x: -111, y: -184}
+        - {x: -119, y: -169}
+      - - {x: -108, y: -182}
+        - {x: -111, y: -184}
+        - {x: -110, y: -177}
+      - - {x: -127, y: -102}
+        - {x: -127, y: 96}
+        - {x: -118, y: -102}
+      - - {x: 49, y: 213}
+        - {x: -118, y: -102}
+        - {x: -127, y: 96}
+      - - {x: -111, y: -98}
+        - {x: -118, y: -102}
+        - {x: 49, y: 213}
+      - - {x: -96, y: -89}
+        - {x: -111, y: -98}
+        - {x: 49, y: 213}
+      - - {x: -85, y: -82}
+        - {x: -96, y: -89}
+        - {x: 49, y: 213}
+      - - {x: -82, y: -87}
+        - {x: -85, y: -82}
+        - {x: 49, y: 213}
+      - - {x: -80, y: -89}
+        - {x: -82, y: -87}
+        - {x: 49, y: 213}
+      - - {x: -71, y: -129}
+        - {x: -80, y: -89}
+        - {x: 49, y: 213}
+      - - {x: -39, y: -146}
+        - {x: -71, y: -129}
+        - {x: 49, y: 213}
+      - - {x: 20, y: -140}
+        - {x: -39, y: -146}
+        - {x: 49, y: 213}
+      - - {x: 63, y: 103}
+        - {x: 20, y: -140}
+        - {x: 49, y: 213}
+      - - {x: 131, y: 42}
+        - {x: 20, y: -140}
+        - {x: 63, y: 103}
+      - - {x: 106, y: 156}
+        - {x: 131, y: 42}
+        - {x: 63, y: 103}
+      - - {x: 131, y: 169}
+        - {x: 131, y: 42}
+        - {x: 106, y: 156}
+      - - {x: 49, y: 213}
+        - {x: 131, y: 213}
+        - {x: 63, y: 103}
+      - - {x: 131, y: 204}
+        - {x: 63, y: 103}
+        - {x: 131, y: 213}
+      - - {x: -130, y: -186}
+        - {x: -130, y: -185}
+        - {x: -128, y: -188}
+      - - {x: -127, y: -182}
+        - {x: -128, y: -188}
+        - {x: -130, y: -185}
+      - - {x: -126, y: -188}
+        - {x: -128, y: -188}
+        - {x: -127, y: -182}
+      - - {x: -126, y: -182}
+        - {x: -126, y: -188}
+        - {x: -127, y: -182}
+      - - {x: -124, y: -186}
+        - {x: -126, y: -188}
+        - {x: -126, y: -182}
+      - - {x: -124, y: -184}
+        - {x: -124, y: -186}
+        - {x: -126, y: -182}
+      - - {x: 164, y: -222}
+        - {x: 164, y: -221}
+        - {x: 168, y: -222}
+      - - {x: 167, y: -218}
+        - {x: 168, y: -222}
+        - {x: 164, y: -221}
+      - - {x: 168, y: -218}
+        - {x: 168, y: -222}
+        - {x: 167, y: -218}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Warlock_OffHand_01_Icon
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 892
+        width: 336
+        height: 444
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -168, y: 218}
+        - {x: -168, y: 222}
+        - {x: -167, y: 218}
+      - - {x: -164, y: 222}
+        - {x: -167, y: 218}
+        - {x: -168, y: 222}
+      - - {x: -164, y: 221}
+        - {x: -167, y: 218}
+        - {x: -164, y: 222}
+      - - {x: -84, y: -83}
+        - {x: -72, y: -31}
+        - {x: -71, y: -54}
+      - - {x: -130, y: -4}
+        - {x: -130, y: 109}
+        - {x: -84, y: -83}
+      - - {x: -68, y: 221}
+        - {x: -84, y: -83}
+        - {x: -130, y: 109}
+      - - {x: -72, y: -31}
+        - {x: -84, y: -83}
+        - {x: -68, y: 221}
+      - - {x: -65, y: -37}
+        - {x: -72, y: -31}
+        - {x: -68, y: 221}
+      - - {x: -51, y: 221}
+        - {x: -65, y: -37}
+        - {x: -68, y: 221}
+      - - {x: -77, y: -84}
+        - {x: -73, y: -61}
+        - {x: -68, y: -134}
+      - - {x: -65, y: -37}
+        - {x: -68, y: -134}
+        - {x: -73, y: -61}
+      - - {x: -31, y: -134}
+        - {x: -68, y: -134}
+        - {x: -65, y: -37}
+      - - {x: -49, y: 86}
+        - {x: -31, y: -134}
+        - {x: -65, y: -37}
+      - - {x: -51, y: 221}
+        - {x: -49, y: 86}
+        - {x: -65, y: -37}
+      - - {x: -43, y: 103}
+        - {x: -31, y: -134}
+        - {x: -49, y: 86}
+      - - {x: -40, y: 107}
+        - {x: -31, y: -134}
+        - {x: -43, y: 103}
+      - - {x: -36, y: 113}
+        - {x: -31, y: -134}
+        - {x: -40, y: 107}
+      - - {x: -35, y: 114}
+        - {x: -31, y: -134}
+        - {x: -36, y: 113}
+      - - {x: -35, y: 115}
+        - {x: -31, y: -134}
+        - {x: -35, y: 114}
+      - - {x: 11, y: 196}
+        - {x: -31, y: -134}
+        - {x: -35, y: 115}
+      - - {x: 25, y: -114}
+        - {x: -31, y: -134}
+        - {x: 11, y: 196}
+      - - {x: 43, y: 221}
+        - {x: 25, y: -114}
+        - {x: 11, y: 196}
+      - - {x: 33, y: -79}
+        - {x: 25, y: -114}
+        - {x: 43, y: 221}
+      - - {x: 37, y: -57}
+        - {x: 33, y: -79}
+        - {x: 43, y: 221}
+      - - {x: 34, y: -79}
+        - {x: 37, y: -57}
+        - {x: 35, y: -134}
+      - - {x: 45, y: -134}
+        - {x: 35, y: -134}
+        - {x: 37, y: -57}
+      - - {x: 43, y: 221}
+        - {x: 45, y: -134}
+        - {x: 37, y: -57}
+      - - {x: 50, y: 221}
+        - {x: 45, y: -134}
+        - {x: 43, y: 221}
+      - - {x: 81, y: 97}
+        - {x: 45, y: -134}
+        - {x: 50, y: 221}
+      - - {x: 168, y: -27}
+        - {x: 45, y: -134}
+        - {x: 81, y: 97}
+      - - {x: 105, y: 153}
+        - {x: 168, y: -27}
+        - {x: 81, y: 97}
+      - - {x: 168, y: 180}
+        - {x: 168, y: -27}
+        - {x: 105, y: 153}
+      - - {x: 50, y: 221}
+        - {x: 84, y: 216}
+        - {x: 81, y: 97}
+      - - {x: 96, y: 181}
+        - {x: 81, y: 97}
+        - {x: 84, y: 216}
+      - - {x: -20, y: 156}
+        - {x: -49, y: 95}
+        - {x: -51, y: 221}
+      - - {x: -49, y: 86}
+        - {x: -51, y: 221}
+        - {x: -49, y: 95}
+      - - {x: -40, y: 107}
+        - {x: -49, y: 95}
+        - {x: -20, y: 156}
+      - - {x: -37, y: 112}
+        - {x: -40, y: 107}
+        - {x: -20, y: 156}
+      - - {x: -33, y: 122}
+        - {x: -37, y: 112}
+        - {x: -20, y: 156}
+      - - {x: -36, y: 113}
+        - {x: -37, y: 112}
+        - {x: -33, y: 122}
+      - - {x: -40, y: 107}
+        - {x: -37, y: 112}
+        - {x: -36, y: 113}
+      - - {x: 164, y: -222}
+        - {x: 164, y: -221}
+        - {x: 168, y: -222}
+      - - {x: 167, y: -218}
+        - {x: 168, y: -222}
+        - {x: 164, y: -221}
+      - - {x: 168, y: -218}
+        - {x: 168, y: -222}
+        - {x: 167, y: -218}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Wizard_Back_01_Icon
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 0
+        width: 336
+        height: 444
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -168, y: 218}
+        - {x: -168, y: 222}
+        - {x: -167, y: 218}
+      - - {x: -164, y: 222}
+        - {x: -167, y: 218}
+        - {x: -168, y: 222}
+      - - {x: -164, y: 221}
+        - {x: -167, y: 218}
+        - {x: -164, y: 222}
+      - - {x: -135, y: -147}
+        - {x: -135, y: 170}
+        - {x: -111, y: -181}
+      - - {x: -113, y: 204}
+        - {x: -111, y: -181}
+        - {x: -135, y: 170}
+      - - {x: -16, y: 170}
+        - {x: -111, y: -181}
+        - {x: -113, y: 204}
+      - - {x: 10, y: 204}
+        - {x: -16, y: 170}
+        - {x: -113, y: 204}
+      - - {x: -80, y: -181}
+        - {x: -111, y: -181}
+        - {x: -16, y: 170}
+      - - {x: 13, y: 193}
+        - {x: -16, y: 170}
+        - {x: 10, y: 204}
+      - - {x: 25, y: -72}
+        - {x: 29, y: -33}
+        - {x: 60, y: -105}
+      - - {x: 29, y: -32}
+        - {x: 60, y: -105}
+        - {x: 29, y: -33}
+      - - {x: 29, y: -25}
+        - {x: 60, y: -105}
+        - {x: 29, y: -32}
+      - - {x: 23, y: 195}
+        - {x: 28, y: 204}
+        - {x: 24, y: -22}
+      - - {x: 29, y: -25}
+        - {x: 24, y: -22}
+        - {x: 28, y: 204}
+      - - {x: 79, y: 204}
+        - {x: 29, y: -25}
+        - {x: 28, y: 204}
+      - - {x: 60, y: -105}
+        - {x: 29, y: -25}
+        - {x: 79, y: 204}
+      - - {x: 160, y: 29}
+        - {x: 60, y: -105}
+        - {x: 79, y: 204}
+      - - {x: 160, y: 166}
+        - {x: 160, y: 29}
+        - {x: 79, y: 204}
+      - - {x: -16, y: 170}
+        - {x: -13, y: 147}
+        - {x: -80, y: -181}
+      - - {x: 25, y: -41}
+        - {x: -80, y: -181}
+        - {x: -13, y: 147}
+      - - {x: -9, y: 142}
+        - {x: 25, y: -41}
+        - {x: -13, y: 147}
+      - - {x: -8, y: 163}
+        - {x: 25, y: -41}
+        - {x: -9, y: 142}
+      - - {x: -1, y: 178}
+        - {x: 25, y: -41}
+        - {x: -8, y: 163}
+      - - {x: 10, y: 189}
+        - {x: 25, y: -41}
+        - {x: -1, y: 178}
+      - - {x: 24, y: -22}
+        - {x: 25, y: -41}
+        - {x: 10, y: 189}
+      - - {x: 23, y: 195}
+        - {x: 24, y: -22}
+        - {x: 10, y: 189}
+      - - {x: 28, y: -27}
+        - {x: 25, y: -41}
+        - {x: 24, y: -22}
+      - - {x: 29, y: -32}
+        - {x: 25, y: -41}
+        - {x: 28, y: -27}
+      - - {x: -9, y: 142}
+        - {x: -10, y: 154}
+        - {x: -8, y: 163}
+      - - {x: -13, y: 147}
+        - {x: -16, y: 170}
+        - {x: -10, y: 159}
+      - - {x: 164, y: -222}
+        - {x: 164, y: -221}
+        - {x: 168, y: -222}
+      - - {x: 167, y: -218}
+        - {x: 168, y: -222}
+        - {x: 164, y: -221}
+      - - {x: 168, y: -218}
+        - {x: 168, y: -222}
+        - {x: 167, y: -218}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Ranger_MainHand_01_Icon
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 0
+        width: 336
+        height: 444
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -168, y: 218}
+        - {x: -168, y: 222}
+        - {x: -167, y: 218}
+      - - {x: -164, y: 222}
+        - {x: -167, y: 218}
+        - {x: -168, y: 222}
+      - - {x: -164, y: 221}
+        - {x: -167, y: 218}
+        - {x: -164, y: 222}
+      - - {x: -86, y: -183}
+        - {x: -70, y: -76}
+        - {x: -59, y: -183}
+      - - {x: -61, y: -156}
+        - {x: -59, y: -183}
+        - {x: -70, y: -76}
+      - - {x: -59, y: -182}
+        - {x: -59, y: -183}
+        - {x: -61, y: -156}
+      - - {x: -13, y: 69}
+        - {x: -12, y: 71}
+        - {x: -11, y: 71}
+      - - {x: -10, y: 73}
+        - {x: -11, y: 71}
+        - {x: -12, y: 71}
+      - - {x: -120, y: -49}
+        - {x: -120, y: 32}
+        - {x: -107, y: -176}
+      - - {x: -45, y: 14}
+        - {x: -107, y: -176}
+        - {x: -120, y: 32}
+      - - {x: -70, y: -76}
+        - {x: -107, y: -176}
+        - {x: -45, y: 14}
+      - - {x: -86, y: -183}
+        - {x: -107, y: -176}
+        - {x: -70, y: -76}
+      - - {x: -56, y: -181}
+        - {x: -70, y: -76}
+        - {x: -45, y: 14}
+      - - {x: -50, y: -183}
+        - {x: -56, y: -181}
+        - {x: -45, y: 14}
+      - - {x: -39, y: -183}
+        - {x: -50, y: -183}
+        - {x: -45, y: 14}
+      - - {x: -13, y: 69}
+        - {x: -39, y: -183}
+        - {x: -45, y: 14}
+      - - {x: -36, y: -182}
+        - {x: -39, y: -183}
+        - {x: -13, y: 69}
+      - - {x: 27, y: 35}
+        - {x: -36, y: -182}
+        - {x: -13, y: 69}
+      - - {x: -11, y: 71}
+        - {x: 27, y: 35}
+        - {x: -13, y: 69}
+      - - {x: -10, y: 73}
+        - {x: 27, y: 35}
+        - {x: -11, y: 71}
+      - - {x: -8, y: 75}
+        - {x: 27, y: 35}
+        - {x: -10, y: 73}
+      - - {x: -3, y: 99}
+        - {x: 27, y: 35}
+        - {x: -8, y: 75}
+      - - {x: 27, y: 39}
+        - {x: 27, y: 41}
+        - {x: 29, y: 36}
+      - - {x: 28, y: 46}
+        - {x: 29, y: 36}
+        - {x: 27, y: 41}
+      - - {x: 30, y: 53}
+        - {x: 29, y: 36}
+        - {x: 28, y: 46}
+      - - {x: 33, y: 33}
+        - {x: 29, y: 36}
+        - {x: 30, y: 53}
+      - - {x: -14, y: -175}
+        - {x: 63, y: 11}
+        - {x: -12, y: -183}
+      - - {x: -2, y: -183}
+        - {x: -12, y: -183}
+        - {x: 63, y: 11}
+      - - {x: 38, y: -93}
+        - {x: -2, y: -183}
+        - {x: 63, y: 11}
+      - - {x: 163, y: 192}
+        - {x: 38, y: -93}
+        - {x: 63, y: 11}
+      - - {x: 66, y: 218}
+        - {x: 163, y: 192}
+        - {x: 63, y: 11}
+      - - {x: 140, y: 218}
+        - {x: 163, y: 192}
+        - {x: 66, y: 218}
+      - - {x: 162, y: 212}
+        - {x: 163, y: 192}
+        - {x: 140, y: 218}
+      - - {x: 163, y: 207}
+        - {x: 163, y: 192}
+        - {x: 162, y: 212}
+      - - {x: -115, y: 93}
+        - {x: -93, y: 128}
+        - {x: -73, y: 49}
+      - - {x: 66, y: 218}
+        - {x: -73, y: 49}
+        - {x: -93, y: 128}
+      - - {x: -51, y: 52}
+        - {x: -73, y: 49}
+        - {x: 66, y: 218}
+      - - {x: -3, y: 99}
+        - {x: -51, y: 52}
+        - {x: 66, y: 218}
+      - - {x: -22, y: 62}
+        - {x: -51, y: 52}
+        - {x: -3, y: 99}
+      - - {x: -6, y: 92}
+        - {x: -22, y: 62}
+        - {x: -3, y: 99}
+      - - {x: -13, y: 69}
+        - {x: -22, y: 62}
+        - {x: -6, y: 92}
+      - - {x: -12, y: 71}
+        - {x: -13, y: 69}
+        - {x: -6, y: 92}
+      - - {x: -10, y: 73}
+        - {x: -12, y: 71}
+        - {x: -6, y: 92}
+      - - {x: -8, y: 78}
+        - {x: -10, y: 73}
+        - {x: -6, y: 92}
+      - - {x: 27, y: 44}
+        - {x: -3, y: 99}
+        - {x: 66, y: 218}
+      - - {x: 27, y: 35}
+        - {x: -3, y: 99}
+        - {x: 27, y: 44}
+      - - {x: 27, y: 39}
+        - {x: 27, y: 35}
+        - {x: 27, y: 44}
+      - - {x: 27, y: 41}
+        - {x: 27, y: 39}
+        - {x: 27, y: 44}
+      - - {x: 30, y: 53}
+        - {x: 27, y: 44}
+        - {x: 66, y: 218}
+      - - {x: 33, y: 33}
+        - {x: 30, y: 53}
+        - {x: 66, y: 218}
+      - - {x: 63, y: 11}
+        - {x: 33, y: 33}
+        - {x: 66, y: 218}
+      - - {x: 164, y: -222}
+        - {x: 164, y: -221}
+        - {x: 168, y: -222}
+      - - {x: 167, y: -218}
+        - {x: 168, y: -222}
+        - {x: 164, y: -221}
+      - - {x: 168, y: -218}
+        - {x: 168, y: -222}
+        - {x: 167, y: -218}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Wizard_MainHand_01_Icon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 446
+        width: 336
+        height: 444
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -168, y: 218}
+        - {x: -168, y: 222}
+        - {x: -167, y: 218}
+      - - {x: -164, y: 222}
+        - {x: -167, y: 218}
+        - {x: -168, y: 222}
+      - - {x: -164, y: 221}
+        - {x: -167, y: 218}
+        - {x: -164, y: 222}
+      - - {x: -47, y: 157}
+        - {x: 15, y: 204}
+        - {x: -42, y: 147}
+      - - {x: -20, y: -176}
+        - {x: -42, y: 147}
+        - {x: 15, y: 204}
+      - - {x: 11, y: -175}
+        - {x: -20, y: -176}
+        - {x: 15, y: 204}
+      - - {x: 51, y: -162}
+        - {x: 11, y: -175}
+        - {x: 15, y: 204}
+      - - {x: 59, y: 217}
+        - {x: 51, y: -162}
+        - {x: 15, y: 204}
+      - - {x: 96, y: -126}
+        - {x: 51, y: -162}
+        - {x: 59, y: 217}
+      - - {x: 90, y: 217}
+        - {x: 96, y: -126}
+        - {x: 59, y: 217}
+      - - {x: 99, y: 216}
+        - {x: 96, y: -126}
+        - {x: 90, y: 217}
+      - - {x: 114, y: -104}
+        - {x: 96, y: -126}
+        - {x: 99, y: 216}
+      - - {x: 109, y: 72}
+        - {x: 114, y: -104}
+        - {x: 99, y: 216}
+      - - {x: 121, y: 52}
+        - {x: 114, y: -104}
+        - {x: 109, y: 72}
+      - - {x: 120, y: -89}
+        - {x: 114, y: -104}
+        - {x: 121, y: 52}
+      - - {x: 136, y: -51}
+        - {x: 120, y: -89}
+        - {x: 121, y: 52}
+      - - {x: 137, y: 4}
+        - {x: 136, y: -51}
+        - {x: 121, y: 52}
+      - - {x: 138, y: -39}
+        - {x: 136, y: -51}
+        - {x: 137, y: 4}
+      - - {x: 99, y: 216}
+        - {x: 120, y: 209}
+        - {x: 109, y: 72}
+      - - {x: 161, y: 106}
+        - {x: 109, y: 72}
+        - {x: 120, y: 209}
+      - - {x: 142, y: 190}
+        - {x: 161, y: 106}
+        - {x: 120, y: 209}
+      - - {x: 158, y: 157}
+        - {x: 161, y: 106}
+        - {x: 142, y: 190}
+      - - {x: 161, y: 135}
+        - {x: 161, y: 106}
+        - {x: 158, y: 157}
+      - - {x: -102, y: -181}
+        - {x: -101, y: -176}
+        - {x: -100, y: -183}
+      - - {x: -91, y: -153}
+        - {x: -100, y: -183}
+        - {x: -101, y: -176}
+      - - {x: -81, y: -183}
+        - {x: -100, y: -183}
+        - {x: -91, y: -153}
+      - - {x: -168, y: -54}
+        - {x: -168, y: 26}
+        - {x: -163, y: -81}
+      - - {x: -148, y: 75}
+        - {x: -163, y: -81}
+        - {x: -168, y: 26}
+      - - {x: -150, y: -103}
+        - {x: -163, y: -81}
+        - {x: -148, y: 75}
+      - - {x: -116, y: -143}
+        - {x: -150, y: -103}
+        - {x: -148, y: 75}
+      - - {x: -128, y: 94}
+        - {x: -116, y: -143}
+        - {x: -148, y: 75}
+      - - {x: -70, y: 131}
+        - {x: -116, y: -143}
+        - {x: -128, y: 94}
+      - - {x: -91, y: -153}
+        - {x: -116, y: -143}
+        - {x: -70, y: 131}
+      - - {x: -81, y: -183}
+        - {x: -91, y: -153}
+        - {x: -70, y: 131}
+      - - {x: -71, y: -165}
+        - {x: -81, y: -183}
+        - {x: -70, y: 131}
+      - - {x: -43, y: -172}
+        - {x: -71, y: -165}
+        - {x: -70, y: 131}
+      - - {x: -42, y: 147}
+        - {x: -43, y: -172}
+        - {x: -70, y: 131}
+      - - {x: -20, y: -176}
+        - {x: -43, y: -172}
+        - {x: -42, y: 147}
+      - - {x: 164, y: -222}
+        - {x: 164, y: -221}
+        - {x: 168, y: -222}
+      - - {x: 167, y: -218}
+        - {x: 168, y: -222}
+        - {x: 164, y: -221}
+      - - {x: 168, y: -218}
+        - {x: 168, y: -222}
+        - {x: 167, y: -218}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Marksman_OffHand_01_Icon
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 446
+        width: 336
+        height: 444
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -168, y: 218}
+        - {x: -168, y: 222}
+        - {x: -167, y: 218}
+      - - {x: -164, y: 222}
+        - {x: -167, y: 218}
+        - {x: -168, y: 222}
+      - - {x: -164, y: 221}
+        - {x: -167, y: 218}
+        - {x: -164, y: 222}
+      - - {x: -73, y: -134}
+        - {x: -64, y: -81}
+        - {x: -68, y: -166}
+      - - {x: 4, y: -166}
+        - {x: -68, y: -166}
+        - {x: -64, y: -81}
+      - - {x: -44, y: -18}
+        - {x: 4, y: -166}
+        - {x: -64, y: -81}
+      - - {x: -168, y: -1}
+        - {x: -168, y: 81}
+        - {x: -115, y: -129}
+      - - {x: -164, y: 87}
+        - {x: -115, y: -129}
+        - {x: -168, y: 81}
+      - - {x: -85, y: 194}
+        - {x: -115, y: -129}
+        - {x: -164, y: 87}
+      - - {x: -94, y: -126}
+        - {x: -115, y: -129}
+        - {x: -85, y: 194}
+      - - {x: -68, y: -87}
+        - {x: -94, y: -126}
+        - {x: -85, y: 194}
+      - - {x: 6, y: 203}
+        - {x: -68, y: -87}
+        - {x: -85, y: 194}
+      - - {x: -44, y: -18}
+        - {x: -68, y: -87}
+        - {x: 6, y: 203}
+      - - {x: 4, y: -166}
+        - {x: -44, y: -18}
+        - {x: 6, y: 203}
+      - - {x: 168, y: 5}
+        - {x: 4, y: -166}
+        - {x: 6, y: 203}
+      - - {x: 62, y: 203}
+        - {x: 168, y: 5}
+        - {x: 6, y: 203}
+      - - {x: 89, y: 198}
+        - {x: 168, y: 5}
+        - {x: 62, y: 203}
+      - - {x: 121, y: 183}
+        - {x: 168, y: 5}
+        - {x: 89, y: 198}
+      - - {x: 136, y: 190}
+        - {x: 168, y: 5}
+        - {x: 121, y: 183}
+      - - {x: 168, y: 181}
+        - {x: 168, y: 5}
+        - {x: 136, y: 190}
+      - - {x: 164, y: -222}
+        - {x: 164, y: -221}
+        - {x: 168, y: -222}
+      - - {x: 167, y: -218}
+        - {x: 168, y: -222}
+        - {x: 164, y: -221}
+      - - {x: 168, y: -218}
+        - {x: 168, y: -222}
+        - {x: 167, y: -218}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Paladin_MainHand_01_Icon
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 446
+        width: 336
+        height: 444
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -168, y: 218}
+        - {x: -168, y: 222}
+        - {x: -167, y: 218}
+      - - {x: -164, y: 222}
+        - {x: -167, y: 218}
+        - {x: -168, y: 222}
+      - - {x: -164, y: 221}
+        - {x: -167, y: 218}
+        - {x: -164, y: 222}
+      - - {x: 113, y: -136}
+        - {x: 131, y: 141}
+        - {x: 135, y: -89}
+      - - {x: 142, y: 126}
+        - {x: 135, y: -89}
+        - {x: 131, y: 141}
+      - - {x: 148, y: -54}
+        - {x: 135, y: -89}
+        - {x: 142, y: 126}
+      - - {x: 163, y: 88}
+        - {x: 148, y: -54}
+        - {x: 142, y: 126}
+      - - {x: 157, y: -24}
+        - {x: 148, y: -54}
+        - {x: 163, y: 88}
+      - - {x: 168, y: -4}
+        - {x: 157, y: -24}
+        - {x: 163, y: 88}
+      - - {x: 168, y: 72}
+        - {x: 168, y: -4}
+        - {x: 163, y: 88}
+      - - {x: -142, y: -176}
+        - {x: -124, y: -154}
+        - {x: -136, y: -200}
+      - - {x: -128, y: -204}
+        - {x: -136, y: -200}
+        - {x: -124, y: -154}
+      - - {x: -94, y: -204}
+        - {x: -128, y: -204}
+        - {x: -124, y: -154}
+      - - {x: -117, y: 110}
+        - {x: -94, y: -204}
+        - {x: -124, y: -154}
+      - - {x: -92, y: 146}
+        - {x: -94, y: -204}
+        - {x: -117, y: 110}
+      - - {x: -55, y: -201}
+        - {x: -94, y: -204}
+        - {x: -92, y: 146}
+      - - {x: -71, y: 164}
+        - {x: -55, y: -201}
+        - {x: -92, y: 146}
+      - - {x: -59, y: 172}
+        - {x: -55, y: -201}
+        - {x: -71, y: 164}
+      - - {x: -21, y: 187}
+        - {x: -55, y: -201}
+        - {x: -59, y: 172}
+      - - {x: -38, y: -204}
+        - {x: -55, y: -201}
+        - {x: -21, y: 187}
+      - - {x: -19, y: -204}
+        - {x: -38, y: -204}
+        - {x: -21, y: 187}
+      - - {x: 13, y: 190}
+        - {x: -19, y: -204}
+        - {x: -21, y: 187}
+      - - {x: 30, y: -199}
+        - {x: -19, y: -204}
+        - {x: 13, y: 190}
+      - - {x: 39, y: 186}
+        - {x: 30, y: -199}
+        - {x: 13, y: 190}
+      - - {x: 58, y: -185}
+        - {x: 30, y: -199}
+        - {x: 39, y: 186}
+      - - {x: 64, y: 183}
+        - {x: 58, y: -185}
+        - {x: 39, y: 186}
+      - - {x: 92, y: -160}
+        - {x: 58, y: -185}
+        - {x: 64, y: 183}
+      - - {x: 70, y: 178}
+        - {x: 92, y: -160}
+        - {x: 64, y: 183}
+      - - {x: 73, y: 210}
+        - {x: 92, y: -160}
+        - {x: 70, y: 178}
+      - - {x: 82, y: 222}
+        - {x: 92, y: -160}
+        - {x: 73, y: 210}
+      - - {x: 131, y: 141}
+        - {x: 92, y: -160}
+        - {x: 82, y: 222}
+      - - {x: 156, y: 222}
+        - {x: 131, y: 141}
+        - {x: 82, y: 222}
+      - - {x: 113, y: -136}
+        - {x: 92, y: -160}
+        - {x: 131, y: 141}
+      - - {x: 167, y: 181}
+        - {x: 131, y: 141}
+        - {x: 156, y: 222}
+      - - {x: 168, y: 205}
+        - {x: 167, y: 181}
+        - {x: 156, y: 222}
+      - - {x: 168, y: 187}
+        - {x: 167, y: 181}
+        - {x: 168, y: 205}
+      - - {x: -161, y: -72}
+        - {x: -161, y: -27}
+        - {x: -155, y: -103}
+      - - {x: -157, y: -9}
+        - {x: -155, y: -103}
+        - {x: -161, y: -27}
+      - - {x: -145, y: 35}
+        - {x: -155, y: -103}
+        - {x: -157, y: -9}
+      - - {x: -147, y: -119}
+        - {x: -155, y: -103}
+        - {x: -145, y: 35}
+      - - {x: -134, y: -139}
+        - {x: -147, y: -119}
+        - {x: -145, y: 35}
+      - - {x: -129, y: 86}
+        - {x: -134, y: -139}
+        - {x: -145, y: 35}
+      - - {x: -124, y: -154}
+        - {x: -134, y: -139}
+        - {x: -129, y: 86}
+      - - {x: -117, y: 110}
+        - {x: -124, y: -154}
+        - {x: -129, y: 86}
+      - - {x: 164, y: -222}
+        - {x: 164, y: -221}
+        - {x: 168, y: -222}
+      - - {x: 167, y: -218}
+        - {x: 168, y: -222}
+        - {x: 164, y: -221}
+      - - {x: 168, y: -218}
+        - {x: 168, y: -222}
+        - {x: 167, y: -218}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Ranger_Back_01_Icon
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 0
+        width: 336
+        height: 444
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -168, y: 218}
+        - {x: -168, y: 222}
+        - {x: -167, y: 218}
+      - - {x: -164, y: 222}
+        - {x: -167, y: 218}
+        - {x: -168, y: 222}
+      - - {x: -164, y: 221}
+        - {x: -167, y: 218}
+        - {x: -164, y: 222}
+      - - {x: 131, y: -76}
+        - {x: 136, y: 56}
+        - {x: 166, y: -59}
+      - - {x: 154, y: 22}
+        - {x: 166, y: -59}
+        - {x: 136, y: 56}
+      - - {x: 167, y: 18}
+        - {x: 166, y: -59}
+        - {x: 154, y: 22}
+      - - {x: 168, y: -46}
+        - {x: 166, y: -59}
+        - {x: 167, y: 18}
+      - - {x: 168, y: 16}
+        - {x: 168, y: -46}
+        - {x: 167, y: 18}
+      - - {x: -143, y: -119}
+        - {x: -143, y: -77}
+        - {x: -110, y: -150}
+      - - {x: -130, y: -39}
+        - {x: -110, y: -150}
+        - {x: -143, y: -77}
+      - - {x: -125, y: 3}
+        - {x: -110, y: -150}
+        - {x: -130, y: -39}
+      - - {x: -65, y: 39}
+        - {x: -110, y: -150}
+        - {x: -125, y: 3}
+      - - {x: -102, y: -151}
+        - {x: -110, y: -150}
+        - {x: -65, y: 39}
+      - - {x: -78, y: -151}
+        - {x: -102, y: -151}
+        - {x: -65, y: 39}
+      - - {x: 9, y: -92}
+        - {x: -78, y: -151}
+        - {x: -65, y: 39}
+      - - {x: -19, y: 144}
+        - {x: 9, y: -92}
+        - {x: -65, y: 39}
+      - - {x: 20, y: 157}
+        - {x: 9, y: -92}
+        - {x: -19, y: 144}
+      - - {x: 40, y: -85}
+        - {x: 9, y: -92}
+        - {x: 20, y: 157}
+      - - {x: 53, y: 209}
+        - {x: 40, y: -85}
+        - {x: 20, y: 157}
+      - - {x: 131, y: -76}
+        - {x: 40, y: -85}
+        - {x: 53, y: 209}
+      - - {x: 78, y: 222}
+        - {x: 131, y: -76}
+        - {x: 53, y: 209}
+      - - {x: 136, y: 56}
+        - {x: 131, y: -76}
+        - {x: 78, y: 222}
+      - - {x: 148, y: 222}
+        - {x: 136, y: 56}
+        - {x: 78, y: 222}
+      - - {x: 140, y: 111}
+        - {x: 136, y: 56}
+        - {x: 148, y: 222}
+      - - {x: 168, y: 169}
+        - {x: 140, y: 111}
+        - {x: 148, y: 222}
+      - - {x: 168, y: 195}
+        - {x: 168, y: 169}
+        - {x: 148, y: 222}
+      - - {x: -65, y: 39}
+        - {x: -85, y: 110}
+        - {x: -19, y: 144}
+      - - {x: 164, y: -222}
+        - {x: 164, y: -221}
+        - {x: 168, y: -222}
+      - - {x: 167, y: -218}
+        - {x: 168, y: -222}
+        - {x: 164, y: -221}
+      - - {x: 168, y: -218}
+        - {x: 168, y: -222}
+        - {x: 167, y: -218}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_DemiGod_Head_01_Icon
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 446
+        width: 336
+        height: 444
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -168, y: 218}
+        - {x: -168, y: 222}
+        - {x: -167, y: 218}
+      - - {x: -164, y: 222}
+        - {x: -167, y: 218}
+        - {x: -168, y: 222}
+      - - {x: -164, y: 221}
+        - {x: -167, y: 218}
+        - {x: -164, y: 222}
+      - - {x: -98, y: -82}
+        - {x: -93, y: -9}
+        - {x: -89, y: -159}
+      - - {x: 28, y: -159}
+        - {x: 66, y: -58}
+        - {x: 78, y: -114}
+      - - {x: 84, y: -11}
+        - {x: 93, y: 31}
+        - {x: 121, y: 6}
+      - - {x: 121, y: 13}
+        - {x: 121, y: 6}
+        - {x: 93, y: 31}
+      - - {x: -124, y: 42}
+        - {x: -124, y: 53}
+        - {x: -93, y: -9}
+      - - {x: -71, y: 109}
+        - {x: -93, y: -9}
+        - {x: -124, y: 53}
+      - - {x: -89, y: -159}
+        - {x: -93, y: -9}
+        - {x: -71, y: 109}
+      - - {x: -58, y: -185}
+        - {x: -89, y: -159}
+        - {x: -71, y: 109}
+      - - {x: -53, y: 137}
+        - {x: -58, y: -185}
+        - {x: -71, y: 109}
+      - - {x: -48, y: -185}
+        - {x: -58, y: -185}
+        - {x: -53, y: 137}
+      - - {x: -3, y: 160}
+        - {x: -48, y: -185}
+        - {x: -53, y: 137}
+      - - {x: 28, y: -159}
+        - {x: -48, y: -185}
+        - {x: -3, y: 160}
+      - - {x: 14, y: 187}
+        - {x: 28, y: -159}
+        - {x: -3, y: 160}
+      - - {x: 81, y: 221}
+        - {x: 28, y: -159}
+        - {x: 14, y: 187}
+      - - {x: 66, y: -58}
+        - {x: 28, y: -159}
+        - {x: 81, y: 221}
+      - - {x: 84, y: -11}
+        - {x: 66, y: -58}
+        - {x: 81, y: 221}
+      - - {x: 104, y: 221}
+        - {x: 84, y: -11}
+        - {x: 81, y: 221}
+      - - {x: 93, y: 31}
+        - {x: 84, y: -11}
+        - {x: 104, y: 221}
+      - - {x: 101, y: 87}
+        - {x: 93, y: 31}
+        - {x: 104, y: 221}
+      - - {x: 109, y: 114}
+        - {x: 101, y: 87}
+        - {x: 104, y: 221}
+      - - {x: 121, y: 91}
+        - {x: 101, y: 87}
+        - {x: 109, y: 114}
+      - - {x: 106, y: 207}
+        - {x: 109, y: 114}
+        - {x: 104, y: 221}
+      - - {x: 121, y: 100}
+        - {x: 121, y: 91}
+        - {x: 109, y: 114}
+      - - {x: 106, y: 207}
+        - {x: 121, y: 199}
+        - {x: 109, y: 114}
+      - - {x: 121, y: 157}
+        - {x: 109, y: 114}
+        - {x: 121, y: 199}
+      - - {x: 164, y: -222}
+        - {x: 164, y: -221}
+        - {x: 168, y: -222}
+      - - {x: 167, y: -218}
+        - {x: 168, y: -222}
+        - {x: 164, y: -221}
+      - - {x: 168, y: -218}
+        - {x: 168, y: -222}
+        - {x: 167, y: -218}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Warrior_Torso_01_Icon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 336
+        height: 444
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -168, y: 218}
+        - {x: -168, y: 222}
+        - {x: -167, y: 218}
+      - - {x: -164, y: 222}
+        - {x: -167, y: 218}
+        - {x: -168, y: 222}
+      - - {x: -164, y: 221}
+        - {x: -167, y: 218}
+        - {x: -164, y: 222}
+      - - {x: -166, y: 21}
+        - {x: -166, y: 35}
+        - {x: -149, y: 6}
+      - - {x: -141, y: 52}
+        - {x: -149, y: 6}
+        - {x: -166, y: 35}
+      - - {x: -142, y: -31}
+        - {x: -149, y: 6}
+        - {x: -141, y: 52}
+      - - {x: -140, y: -33}
+        - {x: -142, y: -31}
+        - {x: -141, y: 52}
+      - - {x: -110, y: -161}
+        - {x: -108, y: -125}
+        - {x: -79, y: -184}
+      - - {x: -101, y: -81}
+        - {x: -79, y: -184}
+        - {x: -108, y: -125}
+      - - {x: -96, y: 214}
+        - {x: -79, y: -184}
+        - {x: -101, y: -81}
+      - - {x: -93, y: 219}
+        - {x: -79, y: -184}
+        - {x: -96, y: 214}
+      - - {x: -84, y: 215}
+        - {x: -79, y: -184}
+        - {x: -93, y: 219}
+      - - {x: -55, y: 193}
+        - {x: -79, y: -184}
+        - {x: -84, y: 215}
+      - - {x: 61, y: -184}
+        - {x: -79, y: -184}
+        - {x: -55, y: 193}
+      - - {x: -13, y: 199}
+        - {x: 61, y: -184}
+        - {x: -55, y: 193}
+      - - {x: 33, y: 188}
+        - {x: 61, y: -184}
+        - {x: -13, y: 199}
+      - - {x: 44, y: 176}
+        - {x: 61, y: -184}
+        - {x: 33, y: 188}
+      - - {x: 90, y: 201}
+        - {x: 61, y: -184}
+        - {x: 44, y: 176}
+      - - {x: 65, y: -160}
+        - {x: 61, y: -184}
+        - {x: 90, y: 201}
+      - - {x: 104, y: -138}
+        - {x: 65, y: -160}
+        - {x: 90, y: 201}
+      - - {x: 93, y: 204}
+        - {x: 104, y: -138}
+        - {x: 90, y: 201}
+      - - {x: 112, y: 195}
+        - {x: 104, y: -138}
+        - {x: 93, y: 204}
+      - - {x: 146, y: -106}
+        - {x: 104, y: -138}
+        - {x: 112, y: 195}
+      - - {x: 112, y: 199}
+        - {x: 146, y: -106}
+        - {x: 112, y: 195}
+      - - {x: 115, y: 212}
+        - {x: 146, y: -106}
+        - {x: 112, y: 199}
+      - - {x: 122, y: 221}
+        - {x: 146, y: -106}
+        - {x: 115, y: 212}
+      - - {x: 127, y: 221}
+        - {x: 146, y: -106}
+        - {x: 122, y: 221}
+      - - {x: 129, y: 216}
+        - {x: 146, y: -106}
+        - {x: 127, y: 221}
+      - - {x: 150, y: 155}
+        - {x: 146, y: -106}
+        - {x: 129, y: 216}
+      - - {x: 161, y: -87}
+        - {x: 146, y: -106}
+        - {x: 150, y: 155}
+      - - {x: 154, y: 141}
+        - {x: 161, y: -87}
+        - {x: 150, y: 155}
+      - - {x: 168, y: 79}
+        - {x: 161, y: -87}
+        - {x: 154, y: 141}
+      - - {x: 168, y: -73}
+        - {x: 161, y: -87}
+        - {x: 168, y: 79}
+      - - {x: -146, y: 92}
+        - {x: -132, y: 143}
+        - {x: -141, y: 52}
+      - - {x: -140, y: -33}
+        - {x: -141, y: 52}
+        - {x: -132, y: 143}
+      - - {x: -120, y: -57}
+        - {x: -140, y: -33}
+        - {x: -132, y: 143}
+      - - {x: -96, y: 214}
+        - {x: -120, y: -57}
+        - {x: -132, y: 143}
+      - - {x: -101, y: -81}
+        - {x: -120, y: -57}
+        - {x: -96, y: 214}
+      - - {x: -104, y: -183}
+        - {x: -104, y: -175}
+        - {x: -93, y: -183}
+      - - {x: -102, y: -174}
+        - {x: -93, y: -183}
+        - {x: -104, y: -175}
+      - - {x: -98, y: -174}
+        - {x: -93, y: -183}
+        - {x: -102, y: -174}
+      - - {x: -93, y: -179}
+        - {x: -93, y: -183}
+        - {x: -98, y: -174}
+      - - {x: 164, y: -222}
+        - {x: 164, y: -221}
+        - {x: 168, y: -222}
+      - - {x: 167, y: -218}
+        - {x: 168, y: -222}
+        - {x: 164, y: -221}
+      - - {x: 168, y: -218}
+        - {x: 168, y: -222}
+        - {x: 167, y: -218}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Wizard_Torso_02_Icon
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 892
+        width: 336
+        height: 444
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -168, y: 218}
+        - {x: -168, y: 222}
+        - {x: -167, y: 218}
+      - - {x: -164, y: 222}
+        - {x: -167, y: 218}
+        - {x: -168, y: 222}
+      - - {x: -164, y: 221}
+        - {x: -167, y: 218}
+        - {x: -164, y: 222}
+      - - {x: -119, y: -168}
+        - {x: -106, y: -34}
+        - {x: -113, y: -182}
+      - - {x: 65, y: -182}
+        - {x: -113, y: -182}
+        - {x: -106, y: -34}
+      - - {x: -51, y: 185}
+        - {x: 65, y: -182}
+        - {x: -106, y: -34}
+      - - {x: -35, y: 162}
+        - {x: 65, y: -182}
+        - {x: -51, y: 185}
+      - - {x: 51, y: -33}
+        - {x: 65, y: -182}
+        - {x: -35, y: 162}
+      - - {x: 42, y: 222}
+        - {x: 51, y: -33}
+        - {x: -35, y: 162}
+      - - {x: 60, y: -112}
+        - {x: 65, y: -182}
+        - {x: 51, y: -33}
+      - - {x: 73, y: -124}
+        - {x: 65, y: -182}
+        - {x: 60, y: -112}
+      - - {x: 85, y: -153}
+        - {x: 65, y: -182}
+        - {x: 73, y: -124}
+      - - {x: 84, y: -84}
+        - {x: 85, y: -153}
+        - {x: 73, y: -124}
+      - - {x: 92, y: -78}
+        - {x: 85, y: -153}
+        - {x: 84, y: -84}
+      - - {x: 97, y: -117}
+        - {x: 85, y: -153}
+        - {x: 92, y: -78}
+      - - {x: 42, y: 222}
+        - {x: 53, y: 222}
+        - {x: 51, y: -33}
+      - - {x: 79, y: -4}
+        - {x: 51, y: -33}
+        - {x: 53, y: 222}
+      - - {x: 72, y: 195}
+        - {x: 79, y: -4}
+        - {x: 53, y: 222}
+      - - {x: 137, y: 192}
+        - {x: 79, y: -4}
+        - {x: 72, y: 195}
+      - - {x: 105, y: -40}
+        - {x: 79, y: -4}
+        - {x: 137, y: 192}
+      - - {x: 143, y: -29}
+        - {x: 105, y: -40}
+        - {x: 137, y: 192}
+      - - {x: 151, y: 66}
+        - {x: 143, y: -29}
+        - {x: 137, y: 192}
+      - - {x: 168, y: 162}
+        - {x: 151, y: 66}
+        - {x: 137, y: 192}
+      - - {x: 168, y: 111}
+        - {x: 151, y: 66}
+        - {x: 168, y: 162}
+      - - {x: -142, y: -19}
+        - {x: -135, y: 40}
+        - {x: -138, y: -31}
+      - - {x: -106, y: -34}
+        - {x: -138, y: -31}
+        - {x: -135, y: 40}
+      - - {x: -130, y: 77}
+        - {x: -106, y: -34}
+        - {x: -135, y: 40}
+      - - {x: -128, y: 94}
+        - {x: -106, y: -34}
+        - {x: -130, y: 77}
+      - - {x: -127, y: 185}
+        - {x: -106, y: -34}
+        - {x: -128, y: 94}
+      - - {x: -51, y: 185}
+        - {x: -106, y: -34}
+        - {x: -127, y: 185}
+      - - {x: -168, y: 117}
+        - {x: -168, y: 160}
+        - {x: -128, y: 94}
+      - - {x: -127, y: 185}
+        - {x: -128, y: 94}
+        - {x: -168, y: 160}
+      - - {x: 164, y: -222}
+        - {x: 164, y: -221}
+        - {x: 168, y: -222}
+      - - {x: 167, y: -218}
+        - {x: 168, y: -222}
+        - {x: 164, y: -221}
+      - - {x: 168, y: -218}
+        - {x: 168, y: -222}
+        - {x: 167, y: -218}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Item_DemiGod_Head_01_Icon: 21300000
+      Item_Marksman_OffHand_01_Icon: 21300006
+      Item_Paladin_MainHand_01_Icon: 21300004
+      Item_Ranger_Back_01_Icon: 21300012
+      Item_Ranger_MainHand_01_Icon: 21300016
+      Item_Warlock_MainHand_01_Icon: 21300020
+      Item_Warlock_OffHand_01_Icon: 21300018
+      Item_Warrior_Torso_01_Icon: 21300008
+      Item_Wizard_Back_01_Icon: 21300014
+      Item_Wizard_MainHand_01_Icon: 21300002
+      Item_Wizard_Torso_02_Icon: 21300010
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

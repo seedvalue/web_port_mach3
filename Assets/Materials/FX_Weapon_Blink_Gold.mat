@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "FX_Weapon_Blink_Gold"
+  m_Shader: {fileID: 4800000, guid: 47834de6f0694cbab5e503cb83a78ea1, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Mask:
+        m_Texture: {fileID: 2800000, guid: 59b0131bb8b24438946ddfbb005a6d4f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Pattern:
+        m_Texture: {fileID: 2800000, guid: c07799296d3442989d22a10b287507b2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Cutoff: 0.5
+    - _Intensity: 2.12
+    - _Power: 2
+    - _U_Offset: 5.31
+    - _U_Speed: 0.245
+    - _X: -0.5
+    - _X_A: 0
+    - _Y: 0
+    - _Y_A: 0
+    - _node_7237: 3
+    - _node_7665: 0
+    - _node_8263: 0
+    - _node_8294: 0
+    m_Colors:
+    - _TintColor: {r: 0.2279412, g: 0.1461967, b: 0, a: 1}

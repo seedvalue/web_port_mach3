@@ -1,0 +1,367 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!90 &9000000
+Avatar:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "DM_Worm_01Avatar"
+  m_AvatarSize: 3752
+  m_Avatar:
+    serializedVersion: 3
+    m_AvatarSkeleton:
+      data:
+        m_Node:
+        - m_ParentId: -1
+          m_AxesId: -1
+        - m_ParentId: 0
+          m_AxesId: -1
+        - m_ParentId: 0
+          m_AxesId: -1
+        - m_ParentId: 2
+          m_AxesId: -1
+        - m_ParentId: 3
+          m_AxesId: -1
+        - m_ParentId: 4
+          m_AxesId: -1
+        - m_ParentId: 5
+          m_AxesId: -1
+        - m_ParentId: 6
+          m_AxesId: -1
+        - m_ParentId: 7
+          m_AxesId: -1
+        - m_ParentId: 8
+          m_AxesId: -1
+        - m_ParentId: 9
+          m_AxesId: -1
+        - m_ParentId: 10
+          m_AxesId: -1
+        - m_ParentId: 11
+          m_AxesId: -1
+        - m_ParentId: 12
+          m_AxesId: -1
+        - m_ParentId: 13
+          m_AxesId: -1
+        - m_ParentId: 14
+          m_AxesId: -1
+        - m_ParentId: 15
+          m_AxesId: -1
+        - m_ParentId: 14
+          m_AxesId: -1
+        - m_ParentId: 14
+          m_AxesId: -1
+        - m_ParentId: 14
+          m_AxesId: -1
+        - m_ParentId: 19
+          m_AxesId: -1
+        - m_ParentId: 13
+          m_AxesId: -1
+        - m_ParentId: 21
+          m_AxesId: -1
+        - m_ParentId: 22
+          m_AxesId: -1
+        - m_ParentId: 21
+          m_AxesId: -1
+        - m_ParentId: 13
+          m_AxesId: -1
+        - m_ParentId: 13
+          m_AxesId: -1
+        - m_ParentId: 13
+          m_AxesId: -1
+        - m_ParentId: 13
+          m_AxesId: -1
+        m_ID: 00000000d010cfe15c87fff6a3055a1ed4e4d887880fab498e9fe4a02dc5af559ac6ccc0aed403e47cc89fb861baa500aa67b3a3202e6e70f5d524a7161a8d5a14d96f8f2ea5d6a372bbfd3b0c02d78ea7b6ed5409bd2f83c4d0a0c404762916bd6b834bbe7cb708e56bbfddf5b3388ccf342925
+        m_AxesArray: []
+    m_AvatarSkeletonPose:
+      data:
+        m_X:
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -7.105427E-17, y: 6.302594E-19, z: -0.03801678}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 7.105427E-17, y: 0.4828131, z: 0.09231089}
+          q: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.51183, y: 1.136491E-16, z: 0.04019469}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.5246646, y: 1.16499E-16, z: -0.01952359}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.5356769, y: 1.189442E-16, z: -0.09338722}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.4631957, y: 1.028501E-16, z: -0.08088015}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.378698, y: 8.408785E-17, z: 0.09930216}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.1511257, y: 3.582538E-17, z: 0.05139339}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.07247267, y: 1.5531E-17, z: 0.1275016}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.03053885, y: 5.073422E-18, z: 0.1766238}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.05674236, y: 1.259933E-17, z: -0.02427623}
+          q: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 7.987217E-32, y: -0.4614288, z: 0.531037}
+          q: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: -0.008221811, z: 0.02207723}
+          q: {x: -0.570528, y: 0, z: 0, w: 0.8212782}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.259912, y: -6.997994E-05, z: -0.1693219}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.259912, y: -6.997994E-05, z: -0.1693219}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -6.227005E-16, y: -0.3432689, z: 0.3915872}
+          q: {x: -0.1833384, y: 0.6829253, z: -0.1833384, w: 0.6829253}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.1128666, y: -5.684342E-16, z: 9.305161E-17}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.5232674, y: 1.161887E-16, z: 0}
+          q: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 3.552713E-16, y: -0.4052304, z: 0.5380776}
+          q: {x: 0.5937595, y: -0.3839917, z: 0.5937595, w: -0.3839917}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -1.20877, y: 6.536993E-15, z: 2.684008E-16}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 5.028988E-32, y: -0.5735193, z: 0.5557628}
+          q: {x: 0.9952577, y: 0, z: 0, w: 0.09727385}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.005103517, y: -1.133208E-18, z: -0.6608438}
+          q: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.3393037, y: 7.534056E-17, z: -0.2301712}
+          q: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.2120625, y: -0.2399765, z: -0.2862547}
+          q: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.2120625, y: 0.2399765, z: -0.2862547}
+          q: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+    m_DefaultPose:
+      data:
+        m_X:
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -7.105427E-17, y: 6.302594E-19, z: -0.03801678}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 7.105427E-17, y: 0.4828131, z: 0.09231089}
+          q: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.51183, y: 1.136491E-16, z: 0.04019469}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.5246646, y: 1.16499E-16, z: -0.01952359}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.5356769, y: 1.189442E-16, z: -0.09338722}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.4631957, y: 1.028501E-16, z: -0.08088015}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.378698, y: 8.408785E-17, z: 0.09930216}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.1511257, y: 3.582538E-17, z: 0.05139339}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.07247267, y: 1.5531E-17, z: 0.1275016}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.03053885, y: 5.073422E-18, z: 0.1766238}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.05674236, y: 1.259933E-17, z: -0.02427623}
+          q: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 7.987217E-32, y: -0.4614288, z: 0.531037}
+          q: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: -0.008221811, z: 0.02207723}
+          q: {x: -0.570528, y: 0, z: 0, w: 0.8212782}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.259912, y: -6.997994E-05, z: -0.1693219}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.259912, y: -6.997994E-05, z: -0.1693219}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -6.227005E-16, y: -0.3432689, z: 0.3915872}
+          q: {x: -0.1833384, y: 0.6829253, z: -0.1833384, w: 0.6829253}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.1128666, y: -5.684342E-16, z: 9.305161E-17}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.5232674, y: 1.161887E-16, z: 0}
+          q: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 3.552713E-16, y: -0.4052304, z: 0.5380776}
+          q: {x: 0.5937595, y: -0.3839917, z: 0.5937595, w: -0.3839917}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -1.20877, y: 6.536993E-15, z: 2.684008E-16}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 5.028988E-32, y: -0.5735193, z: 0.5557628}
+          q: {x: 0.9952577, y: 0, z: 0, w: 0.09727385}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.005103517, y: -1.133208E-18, z: -0.6608438}
+          q: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.3393037, y: 7.534056E-17, z: -0.2301712}
+          q: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.2120625, y: -0.2399765, z: -0.2862547}
+          q: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.2120625, y: 0.2399765, z: -0.2862547}
+          q: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+    m_SkeletonNameIDArray: 00000000d010cfe15c87fff6264df37f73c69dd8497f1749e70d83cf42dedf04faeeda195f3d86d22f85001eb4bdbaa81acf2e2e4ca6eddd21f364f07272c8aad0a68524d9051b53851b30cb25e2f8c48b906c42dd9b6fd465be01a1cbcc9527666feffd6a5af75fcac5ef5d536161bb69e67012
+    m_Human:
+      data:
+        m_RootX:
+          t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        m_Skeleton:
+          data:
+            m_Node:
+            m_ID: 
+            m_AxesArray:
+        m_SkeletonPose:
+          data:
+            m_X:
+        m_LeftHand:
+          data:
+            m_HandBoneIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_RightHand:
+          data:
+            m_HandBoneIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_Handles:
+        m_ColliderArray: []
+        m_HumanBoneIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_HumanBoneMass:
+        - 0.1454546
+        - 0.1212121
+        - 0.1212121
+        - 0.04848485
+        - 0.04848485
+        - 0.009696971
+        - 0.009696971
+        - 0.03030303
+        - 0.2909091
+        - 0.01212121
+        - 0.04848485
+        - 0.006060607
+        - 0.006060607
+        - 0.02424243
+        - 0.02424243
+        - 0.01818182
+        - 0.01818182
+        - 0.006060607
+        - 0.006060607
+        - 0.002424243
+        - 0.002424243
+        - 0
+        - 0
+        - 0
+        m_ColliderIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_Scale: 1
+        m_ArmTwist: 0.5
+        m_ForeArmTwist: 0.5
+        m_UpperLegTwist: 0.5
+        m_LegTwist: 0.5
+        m_ArmStretch: 0.05
+        m_LegStretch: 0.05
+        m_FeetSpacing: 0
+        m_HasLeftHand: 0
+        m_HasRightHand: 0
+        m_HasTDoF: 0
+    m_HumanSkeletonIndexArray: 
+    m_HumanSkeletonReverseIndexArray: 
+    m_RootMotionBoneIndex: 3
+    m_RootMotionBoneX:
+      t: {x: 0, y: 0, z: 0}
+      q: {x: 0, y: 0, z: 0, w: 1}
+      s: {x: 1, y: 1, z: 1}
+    m_RootMotionSkeleton:
+      data:
+        m_Node:
+        - m_ParentId: -1
+          m_AxesId: -1
+        - m_ParentId: 0
+          m_AxesId: -1
+        - m_ParentId: 1
+          m_AxesId: -1
+        m_ID: 000000005c87fff6a3055a1e
+        m_AxesArray: []
+    m_RootMotionSkeletonPose:
+      data:
+        m_X:
+    m_RootMotionSkeletonIndexArray: 000000000200000003000000
+  m_TOS:
+    0: 
+    10861153: Worm_SHJntGrp/Worm_MAINSHJnt/Worm_ROOTSHJnt/Worm_Spine_01SHJnt/Worm_Spine_02SHJnt/Worm_Spine_03SHJnt/Worm_Spine_04SHJnt/Worm_Spine_05SHJnt/Worm_Spine_TopSHJnt/Worm_Neck_01SHJnt
+    146242750: Worm_SHJntGrp/Worm_MAINSHJnt/Worm_ROOTSHJnt/Worm_Spine_01SHJnt/Worm_Spine_02SHJnt/Worm_Spine_03SHJnt/Worm_Spine_04SHJnt/Worm_Spine_05SHJnt/Worm_Spine_TopSHJnt/Worm_Neck_01SHJnt/Worm_Neck_02SHJnt/Worm_Neck_TopSHJnt/Worm_Back_AuxSHJnt
+    371815940: Worm_SHJntGrp/Worm_MAINSHJnt/Worm_ROOTSHJnt/Worm_Spine_01SHJnt/Worm_Spine_02SHJnt/Worm_Spine_03SHJnt/Worm_Spine_04SHJnt/Worm_Spine_05SHJnt/Worm_Spine_TopSHJnt/Worm_Neck_01SHJnt/Worm_Neck_02SHJnt/Worm_Neck_TopSHJnt/Worm_Head_TopSHJnt/Worm_Whiskers_01_01SHJnt/Worm_Whiskers_01_02SHJnt
+    509216163: Worm_SHJntGrp/Worm_MAINSHJnt
+    623457487: Worm_SHJntGrp/Worm_MAINSHJnt/Worm_ROOTSHJnt/Worm_Spine_01SHJnt/Worm_Spine_02SHJnt/Worm_Spine_03SHJnt/Worm_Spine_04SHJnt/Worm_Spine_05SHJnt/Worm_Spine_TopSHJnt/Worm_Neck_01SHJnt/Worm_Neck_02SHJnt/Worm_Neck_TopSHJnt/Worm_r_Horn_AuxSHJnt
+    1006484338: Worm_SHJntGrp/Worm_MAINSHJnt/Worm_ROOTSHJnt/Worm_Spine_01SHJnt/Worm_Spine_02SHJnt/Worm_Spine_03SHJnt/Worm_Spine_04SHJnt/Worm_Spine_05SHJnt/Worm_Spine_TopSHJnt/Worm_Neck_01SHJnt/Worm_Neck_02SHJnt/Worm_Neck_TopSHJnt/Worm_Head_JawSHJnt/Worm_r_Horn_Front_AuxSHJnt
+    1235947400: Worm_SHJntGrp/Worm_MAINSHJnt/Worm_ROOTSHJnt/Worm_Spine_01SHJnt
+    1266903997: Worm_SHJntGrp/Worm_MAINSHJnt/Worm_ROOTSHJnt/Worm_Spine_01SHJnt/Worm_Spine_02SHJnt/Worm_Spine_03SHJnt/Worm_Spine_04SHJnt/Worm_Spine_05SHJnt/Worm_Spine_TopSHJnt/Worm_Neck_01SHJnt/Worm_Neck_02SHJnt/Worm_Neck_TopSHJnt/Worm_Head_TopSHJnt/Worm_TeethTop_AuxSHJnt
+    1424864935: Worm_SHJntGrp/Worm_MAINSHJnt/Worm_ROOTSHJnt/Worm_Spine_01SHJnt/Worm_Spine_02SHJnt/Worm_Spine_03SHJnt/Worm_Spine_04SHJnt/Worm_Spine_05SHJnt/Worm_Spine_TopSHJnt/Worm_Neck_01SHJnt/Worm_Neck_02SHJnt/Worm_Neck_TopSHJnt/Worm_Head_JawSHJnt/Worm_Tongue_01_01SHJnt/Worm_Tongue_01_02SHJnt
+    1437582637: Worm_SHJntGrp/Worm_MAINSHJnt/Worm_ROOTSHJnt/Worm_Spine_01SHJnt/Worm_Spine_02SHJnt/Worm_Spine_03SHJnt
+    1519196694: Worm_SHJntGrp/Worm_MAINSHJnt/Worm_ROOTSHJnt/Worm_Spine_01SHJnt/Worm_Spine_02SHJnt/Worm_Spine_03SHJnt/Worm_Spine_04SHJnt/Worm_Spine_05SHJnt/Worm_Spine_TopSHJnt/Worm_Neck_01SHJnt/Worm_Neck_02SHJnt/Worm_Neck_TopSHJnt/Worm_Head_JawSHJnt/Worm_Head_JawEndSHJnt
+    1886268960: Worm_SHJntGrp/Worm_MAINSHJnt/Worm_ROOTSHJnt/Worm_Spine_01SHJnt/Worm_Spine_02SHJnt/Worm_Spine_03SHJnt/Worm_Spine_04SHJnt/Worm_Spine_05SHJnt/Worm_Spine_TopSHJnt/Worm_Neck_01SHJnt/Worm_Neck_02SHJnt/Worm_Neck_TopSHJnt
+    2200943881: Worm_SHJntGrp/Worm_MAINSHJnt/Worm_ROOTSHJnt/Worm_Spine_01SHJnt/Worm_Spine_02SHJnt/Worm_Spine_03SHJnt/Worm_Spine_04SHJnt/Worm_Spine_05SHJnt/Worm_Spine_TopSHJnt/Worm_Neck_01SHJnt/Worm_Neck_02SHJnt/Worm_Neck_TopSHJnt/Worm_Head_TopSHJnt
+    2279138516: Worm_SHJntGrp/Worm_MAINSHJnt/Worm_ROOTSHJnt
+    2352526325: Worm_SHJntGrp/Worm_MAINSHJnt/Worm_ROOTSHJnt/Worm_Spine_01SHJnt/Worm_Spine_02SHJnt/Worm_Spine_03SHJnt/Worm_Spine_04SHJnt/Worm_Spine_05SHJnt/Worm_Spine_TopSHJnt/Worm_Neck_01SHJnt/Worm_Neck_02SHJnt/Worm_Neck_TopSHJnt/Worm_l_Horn_AuxSHJnt
+    2396455436: Worm_SHJntGrp/Worm_MAINSHJnt/Worm_ROOTSHJnt/Worm_Spine_01SHJnt/Worm_Spine_02SHJnt/Worm_Spine_03SHJnt/Worm_Spine_04SHJnt/Worm_Spine_05SHJnt/Worm_Spine_TopSHJnt/Worm_Neck_01SHJnt/Worm_Neck_02SHJnt/Worm_Neck_TopSHJnt/Worm_Head_JawSHJnt/Worm_Tongue_01_01SHJnt
+    2406471956: Worm_SHJntGrp/Worm_MAINSHJnt/Worm_ROOTSHJnt/Worm_Spine_01SHJnt/Worm_Spine_02SHJnt/Worm_Spine_03SHJnt/Worm_Spine_04SHJnt/Worm_Spine_05SHJnt/Worm_Spine_TopSHJnt/Worm_Neck_01SHJnt/Worm_Neck_02SHJnt/Worm_Neck_TopSHJnt/Worm_Head_JawSHJnt/Worm_Head_JawEndSHJnt/Worm_TeethBottom_AuxSHJnt
+    2699337614: Worm_SHJntGrp/Worm_MAINSHJnt/Worm_ROOTSHJnt/Worm_Spine_01SHJnt/Worm_Spine_02SHJnt
+    2746443690: Worm_SHJntGrp/Worm_MAINSHJnt/Worm_ROOTSHJnt/Worm_Spine_01SHJnt/Worm_Spine_02SHJnt/Worm_Spine_03SHJnt/Worm_Spine_04SHJnt/Worm_Spine_05SHJnt/Worm_Spine_TopSHJnt/Worm_Neck_01SHJnt/Worm_Neck_02SHJnt
+    2748753198: Worm_SHJntGrp/Worm_MAINSHJnt/Worm_ROOTSHJnt/Worm_Spine_01SHJnt/Worm_Spine_02SHJnt/Worm_Spine_03SHJnt/Worm_Spine_04SHJnt/Worm_Spine_05SHJnt/Worm_Spine_TopSHJnt/Worm_Neck_01SHJnt/Worm_Neck_02SHJnt/Worm_Neck_TopSHJnt/Worm_Head_JawSHJnt/Worm_l_Horn_Front_AuxSHJnt
+    2804209141: Worm_SHJntGrp/Worm_MAINSHJnt/Worm_ROOTSHJnt/Worm_Spine_01SHJnt/Worm_Spine_02SHJnt/Worm_Spine_03SHJnt/Worm_Spine_04SHJnt/Worm_Spine_05SHJnt/Worm_Spine_TopSHJnt/Worm_Neck_01SHJnt/Worm_Neck_02SHJnt/Worm_Neck_TopSHJnt/Worm_Head_JawSHJnt
+    3097479292: Worm_SHJntGrp/Worm_MAINSHJnt/Worm_ROOTSHJnt/Worm_Spine_01SHJnt/Worm_Spine_02SHJnt/Worm_Spine_03SHJnt/Worm_Spine_04SHJnt/Worm_Spine_05SHJnt/Worm_Spine_TopSHJnt
+    3234645658: Worm_SHJntGrp/Worm_MAINSHJnt/Worm_ROOTSHJnt/Worm_Spine_01SHJnt/Worm_Spine_02SHJnt/Worm_Spine_03SHJnt/Worm_Spine_04SHJnt
+    3298873540: Worm_SHJntGrp/Worm_MAINSHJnt/Worm_ROOTSHJnt/Worm_Spine_01SHJnt/Worm_Spine_02SHJnt/Worm_Spine_03SHJnt/Worm_Spine_04SHJnt/Worm_Spine_05SHJnt/Worm_Spine_TopSHJnt/Worm_Neck_01SHJnt/Worm_Neck_02SHJnt/Worm_Neck_TopSHJnt/Worm_Head_TopSHJnt/Worm_Whiskers_01_01SHJnt
+    3720309733: Worm_SHJntGrp/Worm_MAINSHJnt/Worm_ROOTSHJnt/Worm_Spine_01SHJnt/Worm_Spine_02SHJnt/Worm_Spine_03SHJnt/Worm_Spine_04SHJnt/Worm_Spine_05SHJnt/Worm_Spine_TopSHJnt/Worm_Neck_01SHJnt/Worm_Neck_02SHJnt/Worm_Neck_TopSHJnt/Worm_Horn_Center_AuxSHJnt
+    3788443856: Worm_01_Geo
+    3825456302: Worm_SHJntGrp/Worm_MAINSHJnt/Worm_ROOTSHJnt/Worm_Spine_01SHJnt/Worm_Spine_02SHJnt/Worm_Spine_03SHJnt/Worm_Spine_04SHJnt/Worm_Spine_05SHJnt
+    4143941468: Worm_SHJntGrp

@@ -1,0 +1,683 @@
+fileFormatVersion: 2
+guid: d45a30b6ecb749419e26924d4e2a6446
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: tutorial_hand_m3_anim_01
+  - first:
+      213: 21300002
+    second: tutorial_hand_m3_anim_02
+  - first:
+      213: 21300004
+    second: tutorial_hand_m3
+  - first:
+      213: 21300006
+    second: tutorial_hand_m3_wheel
+  - first:
+      213: 21300008
+    second: tutorial_battle_turn
+  - first:
+      213: 21300010
+    second: tutorial_battle_end
+  - first:
+      213: 21300012
+    second: tutorial_battle_start
+  - first:
+      213: 21300014
+    second: tutorial_battle_straight
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tutorial_hand_m3_wheel
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 405
+        width: 94
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: -28}
+        - {x: -47, y: 36}
+        - {x: -40, y: -47}
+      - - {x: -32, y: 47}
+        - {x: -40, y: -47}
+        - {x: -47, y: 36}
+      - - {x: -27, y: 19}
+        - {x: -40, y: -47}
+        - {x: -32, y: 47}
+      - - {x: 14, y: -28}
+        - {x: -40, y: -47}
+        - {x: -27, y: 19}
+      - - {x: 32, y: -47}
+        - {x: -40, y: -47}
+        - {x: 14, y: -28}
+      - - {x: 29, y: 13}
+        - {x: 32, y: -47}
+        - {x: 14, y: -28}
+      - - {x: -32, y: 47}
+        - {x: 40, y: 47}
+        - {x: -27, y: 19}
+      - - {x: 9, y: 31}
+        - {x: -27, y: 19}
+        - {x: 40, y: 47}
+      - - {x: 29, y: 13}
+        - {x: 9, y: 31}
+        - {x: 40, y: 47}
+      - - {x: 32, y: -47}
+        - {x: 29, y: 13}
+        - {x: 40, y: 47}
+      - - {x: 47, y: -36}
+        - {x: 32, y: -47}
+        - {x: 40, y: 47}
+      - - {x: 47, y: 29}
+        - {x: 47, y: -36}
+        - {x: 40, y: 47}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial_battle_end
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 0
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: -96}
+        - {x: -96, y: 96}
+        - {x: 96, y: -96}
+      - - {x: 96, y: 96}
+        - {x: 96, y: -96}
+        - {x: -96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial_battle_straight
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 699
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: -96}
+        - {x: -96, y: 96}
+        - {x: 96, y: -96}
+      - - {x: 96, y: 96}
+        - {x: 96, y: -96}
+        - {x: -96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial_battle_turn
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 194
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: -96}
+        - {x: -96, y: 96}
+        - {x: 96, y: -96}
+      - - {x: 96, y: 96}
+        - {x: 96, y: -96}
+        - {x: -96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial_hand_m3
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0
+        width: 336
+        height: 403
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 164, y: 200.5}
+        - {x: 164, y: 201.5}
+        - {x: 167, y: 197.5}
+      - - {x: 168, y: 201.5}
+        - {x: 167, y: 197.5}
+        - {x: 164, y: 201.5}
+      - - {x: 168, y: 197.5}
+        - {x: 167, y: 197.5}
+        - {x: 168, y: 201.5}
+      - - {x: -168, y: -201.5}
+        - {x: -168, y: -197.5}
+        - {x: -164, y: -201.5}
+      - - {x: -167, y: -197.5}
+        - {x: -164, y: -201.5}
+        - {x: -168, y: -197.5}
+      - - {x: -164, y: -200.5}
+        - {x: -164, y: -201.5}
+        - {x: -167, y: -197.5}
+      - - {x: -154, y: -168.5}
+        - {x: -154, y: -112.5}
+        - {x: -72, y: -168.5}
+      - - {x: -150, y: -108.5}
+        - {x: -72, y: -168.5}
+        - {x: -154, y: -112.5}
+      - - {x: -127, y: -94.5}
+        - {x: -72, y: -168.5}
+        - {x: -150, y: -108.5}
+      - - {x: -113, y: 22.5}
+        - {x: -72, y: -168.5}
+        - {x: -127, y: -94.5}
+      - - {x: -73, y: 60.5}
+        - {x: -72, y: -168.5}
+        - {x: -113, y: 22.5}
+      - - {x: -62, y: -122.5}
+        - {x: -72, y: -168.5}
+        - {x: -73, y: 60.5}
+      - - {x: 7, y: 109.5}
+        - {x: -62, y: -122.5}
+        - {x: -73, y: 60.5}
+      - - {x: -12, y: -117.5}
+        - {x: -62, y: -122.5}
+        - {x: 7, y: 109.5}
+      - - {x: 24, y: -89.5}
+        - {x: -12, y: -117.5}
+        - {x: 7, y: 109.5}
+      - - {x: 24, y: 151.5}
+        - {x: 24, y: -89.5}
+        - {x: 7, y: 109.5}
+      - - {x: 66, y: -45.5}
+        - {x: 24, y: -89.5}
+        - {x: 24, y: 151.5}
+      - - {x: 97, y: 201.5}
+        - {x: 66, y: -45.5}
+        - {x: 24, y: 151.5}
+      - - {x: 106, y: 34.5}
+        - {x: 66, y: -45.5}
+        - {x: 97, y: 201.5}
+      - - {x: 139, y: 201.5}
+        - {x: 106, y: 34.5}
+        - {x: 97, y: 201.5}
+      - - {x: 148, y: 42.5}
+        - {x: 106, y: 34.5}
+        - {x: 139, y: 201.5}
+      - - {x: 154, y: 195.5}
+        - {x: 148, y: 42.5}
+        - {x: 139, y: 201.5}
+      - - {x: 168, y: 68.5}
+        - {x: 148, y: 42.5}
+        - {x: 154, y: 195.5}
+      - - {x: 168, y: 143.5}
+        - {x: 168, y: 68.5}
+        - {x: 154, y: 195.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial_battle_start
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 0
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: -96}
+        - {x: -96, y: 96}
+        - {x: 96, y: -96}
+      - - {x: 96, y: 96}
+        - {x: 96, y: -96}
+        - {x: -96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial_hand_m3_anim_01
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 405
+        width: 336
+        height: 403
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 164, y: 200.5}
+        - {x: 164, y: 201.5}
+        - {x: 167, y: 197.5}
+      - - {x: 168, y: 201.5}
+        - {x: 167, y: 197.5}
+        - {x: 164, y: 201.5}
+      - - {x: 168, y: 197.5}
+        - {x: 167, y: 197.5}
+        - {x: 168, y: 201.5}
+      - - {x: -166, y: -173.5}
+        - {x: -166, y: -134.5}
+        - {x: -161, y: -184.5}
+      - - {x: -110, y: -73.5}
+        - {x: -161, y: -184.5}
+        - {x: -166, y: -134.5}
+      - - {x: -140, y: -189.5}
+        - {x: -161, y: -184.5}
+        - {x: -110, y: -73.5}
+      - - {x: -98, y: -189.5}
+        - {x: -140, y: -189.5}
+        - {x: -110, y: -73.5}
+      - - {x: -87, y: -182.5}
+        - {x: -75, y: -127.5}
+        - {x: -72, y: -160.5}
+      - - {x: -111, y: 22.5}
+        - {x: -73, y: 60.5}
+        - {x: -110, y: -73.5}
+      - - {x: -98, y: -189.5}
+        - {x: -110, y: -73.5}
+        - {x: -73, y: 60.5}
+      - - {x: -87, y: -182.5}
+        - {x: -98, y: -189.5}
+        - {x: -73, y: 60.5}
+      - - {x: -75, y: -127.5}
+        - {x: -87, y: -182.5}
+        - {x: -73, y: 60.5}
+      - - {x: -11, y: -121.5}
+        - {x: -75, y: -127.5}
+        - {x: -73, y: 60.5}
+      - - {x: 7, y: 109.5}
+        - {x: -11, y: -121.5}
+        - {x: -73, y: 60.5}
+      - - {x: 69, y: -47.5}
+        - {x: -11, y: -121.5}
+        - {x: 7, y: 109.5}
+      - - {x: 24, y: 151.5}
+        - {x: 69, y: -47.5}
+        - {x: 7, y: 109.5}
+      - - {x: 97, y: 201.5}
+        - {x: 69, y: -47.5}
+        - {x: 24, y: 151.5}
+      - - {x: 106, y: 34.5}
+        - {x: 69, y: -47.5}
+        - {x: 97, y: 201.5}
+      - - {x: 139, y: 201.5}
+        - {x: 106, y: 34.5}
+        - {x: 97, y: 201.5}
+      - - {x: 148, y: 42.5}
+        - {x: 106, y: 34.5}
+        - {x: 139, y: 201.5}
+      - - {x: 154, y: 195.5}
+        - {x: 148, y: 42.5}
+        - {x: 139, y: 201.5}
+      - - {x: 168, y: 68.5}
+        - {x: 148, y: 42.5}
+        - {x: 154, y: 195.5}
+      - - {x: 168, y: 143.5}
+        - {x: 168, y: 68.5}
+        - {x: 154, y: 195.5}
+      - - {x: -168, y: -201.5}
+        - {x: -168, y: -197.5}
+        - {x: -164, y: -201.5}
+      - - {x: -167, y: -197.5}
+        - {x: -164, y: -201.5}
+        - {x: -168, y: -197.5}
+      - - {x: -164, y: -200.5}
+        - {x: -164, y: -201.5}
+        - {x: -167, y: -197.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial_hand_m3_anim_02
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 0
+        width: 336
+        height: 403
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -166, y: -178.5}
+        - {x: -166, y: -136.5}
+        - {x: -145, y: -189.5}
+      - - {x: -162, y: -122.5}
+        - {x: -145, y: -189.5}
+        - {x: -166, y: -136.5}
+      - - {x: -118, y: -109.5}
+        - {x: -145, y: -189.5}
+        - {x: -162, y: -122.5}
+      - - {x: -108, y: -189.5}
+        - {x: -145, y: -189.5}
+        - {x: -118, y: -109.5}
+      - - {x: -128, y: -41.5}
+        - {x: -123, y: 11.5}
+        - {x: -118, y: -109.5}
+      - - {x: -73, y: 67.5}
+        - {x: -118, y: -109.5}
+        - {x: -123, y: 11.5}
+      - - {x: -108, y: -189.5}
+        - {x: -118, y: -109.5}
+        - {x: -73, y: 67.5}
+      - - {x: -85, y: -184.5}
+        - {x: -108, y: -189.5}
+        - {x: -73, y: 67.5}
+      - - {x: -76, y: -160.5}
+        - {x: -85, y: -184.5}
+        - {x: -73, y: 67.5}
+      - - {x: -20, y: -131.5}
+        - {x: -76, y: -160.5}
+        - {x: -73, y: 67.5}
+      - - {x: 9, y: 146.5}
+        - {x: -20, y: -131.5}
+        - {x: -73, y: 67.5}
+      - - {x: 23, y: -90.5}
+        - {x: -20, y: -131.5}
+        - {x: 9, y: 146.5}
+      - - {x: 83, y: 192.5}
+        - {x: 23, y: -90.5}
+        - {x: 9, y: 146.5}
+      - - {x: 54, y: -40.5}
+        - {x: 23, y: -90.5}
+        - {x: 83, y: 192.5}
+      - - {x: 77, y: 14.5}
+        - {x: 54, y: -40.5}
+        - {x: 83, y: 192.5}
+      - - {x: 126, y: 33.5}
+        - {x: 77, y: 14.5}
+        - {x: 83, y: 192.5}
+      - - {x: 109, y: 192.5}
+        - {x: 126, y: 33.5}
+        - {x: 83, y: 192.5}
+      - - {x: 119, y: 190.5}
+        - {x: 126, y: 33.5}
+        - {x: 109, y: 192.5}
+      - - {x: 144, y: 135.5}
+        - {x: 126, y: 33.5}
+        - {x: 119, y: 190.5}
+      - - {x: 146, y: 58.5}
+        - {x: 126, y: 33.5}
+        - {x: 144, y: 135.5}
+      - - {x: 146, y: 112.5}
+        - {x: 146, y: 58.5}
+        - {x: 144, y: 135.5}
+      - - {x: -168, y: -201.5}
+        - {x: -168, y: -197.5}
+        - {x: -164, y: -201.5}
+      - - {x: -167, y: -197.5}
+        - {x: -164, y: -201.5}
+        - {x: -168, y: -197.5}
+      - - {x: -164, y: -200.5}
+        - {x: -164, y: -201.5}
+        - {x: -167, y: -197.5}
+      - - {x: 164, y: 200.5}
+        - {x: 164, y: 201.5}
+        - {x: 167, y: 197.5}
+      - - {x: 168, y: 201.5}
+        - {x: 167, y: 197.5}
+        - {x: 164, y: 201.5}
+      - - {x: 168, y: 197.5}
+        - {x: 167, y: 197.5}
+        - {x: 168, y: 201.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tutorial_battle_end: 21300010
+      tutorial_battle_start: 21300012
+      tutorial_battle_straight: 21300014
+      tutorial_battle_turn: 21300008
+      tutorial_hand_m3: 21300004
+      tutorial_hand_m3_anim_01: 21300000
+      tutorial_hand_m3_anim_02: 21300002
+      tutorial_hand_m3_wheel: 21300006
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

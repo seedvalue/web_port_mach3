@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 165845f8ce367fcc6f29dc9a9173634a, type: 3}
+  m_Name: "Skill_HardStrike"
+  m_EditorClassIdentifier: 
+  displayName: "Hard Strike"
+  description: "Deal hero's Melee * 10 damage to two enemies. Affected by enemies'
+  Defence."
+  icon: {fileID: 21300056, guid: a9237af87afb44fca63a556cafd16ccb, type: 3}
+  cooldown: 8
+  sfxSample: {fileID: 11400000, guid: daa636149fa94d2cb70e72e5a58fb79f, type: 2}
+  fxPrefab: {fileID: 1791314569431989210, guid: a75485c956a25084a873dbe1f4b9ce7c, type: 2}
+  duration: 0.5
+  damageMultiplier: 10
+  orbType: 00000000
+  numTargets: 2
+  randomDamage: 0
+  pierceFactor: 0

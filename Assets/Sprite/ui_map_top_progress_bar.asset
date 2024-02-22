@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ui_map_top_progress_bar
+  m_Rect:
+    serializedVersion: 2
+    x: 1779
+    y: 161
+    width: 156
+    height: 54
+  m_Offset: {x: 0, y: 0}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 200
+  m_Pivot: {x: 0.5, y: 0.5}
+  m_Extrude: 1
+  m_IsPolygon: 0
+  m_AtlasName:
+  m_PackingTag:
+  m_RD:
+    texture: {fileID: 2800000, guid: 436b152b5f8a990488c8ca95cb949665, type: 3}
+    alphaTexture: {fileID: 0}
+    vertices:
+    - serializedVersion: 2
+      pos: {x: 0.39, y: 0.135, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.375, y: -0.135, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.39, y: -0.135, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.385, y: 0.135, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.39, y: 0.125, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.39, y: -0.12, z: 0}
+    indices:
+    - 5
+    - 4
+    - 1
+    - 3
+    - 1
+    - 4
+    - 0
+    - 1
+    - 3
+    - 2
+    - 1
+    - 0
+    textureRect:
+      serializedVersion: 2
+      x: 1779
+      y: 161
+      width: 156
+      height: 54
+    textureRectOffset: {x: 0, y: 0}
+    settingsRaw: 67
+    uvTransform: {x: 200, y: 1857, z: 200, w: 188}

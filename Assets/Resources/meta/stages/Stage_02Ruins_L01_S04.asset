@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9520132690e88a6394e3b46ea989cbf4, type: 3}
+  m_Name: "Stage_02Ruins_L01_S04"
+  m_EditorClassIdentifier: 
+  displayName: "Forgotten Town"
+  sceneName: "Level_Ruins_01"
+  icon: {fileID: 21300002, guid: 2f7528175f6246e3b28bcf9685043d00, type: 3}
+  location: {fileID: 11400000, guid: 7fd3cf85c8124bb396c7fc31862efc74, type: 2}
+  index: 4
+  star2: 18
+  star3: 9
+  easyExp: 10
+  easyCoinsMin: 12
+  easyCoinsMax: 26
+  easyFirstChest: {fileID: 0}
+  easyFirstChestContent: {fileID: 0}
+  easyTutorial: {fileID: 0}
+  easyFixedBoard: {fileID: 0}
+  easyChanceItem: {fileID: 11400000, guid: ddc32088e1f140f0829976f8302cecd9, type: 2}
+  easyMultipliers:
+    hp: 1
+    def: 1
+    atk: 1
+  mediumExp: 20
+  mediumCoinsMin: 17
+  mediumCoinsMax: 41
+  mediumChanceItem: {fileID: 11400000, guid: ddc32088e1f140f0829976f8302cecd9, type: 2}
+  mediumMultipliers:
+    hp: 2.5
+    def: 2
+    atk: 1.5
+  hardExp: 30
+  hardCoinsMin: 25
+  hardCoinsMax: 53
+  hardChanceItem: {fileID: 11400000, guid: ddc32088e1f140f0829976f8302cecd9, type: 2}
+  hardMultipliers:
+    hp: 5
+    def: 3
+    atk: 2

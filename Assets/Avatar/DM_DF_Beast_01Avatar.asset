@@ -1,0 +1,421 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!90 &9000000
+Avatar:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "DM_DF_Beast_01Avatar"
+  m_AvatarSize: 4416
+  m_Avatar:
+    serializedVersion: 3
+    m_AvatarSkeleton:
+      data:
+        m_Node:
+        - m_ParentId: -1
+          m_AxesId: -1
+        - m_ParentId: 0
+          m_AxesId: -1
+        - m_ParentId: 0
+          m_AxesId: -1
+        - m_ParentId: 2
+          m_AxesId: -1
+        - m_ParentId: 3
+          m_AxesId: -1
+        - m_ParentId: 4
+          m_AxesId: -1
+        - m_ParentId: 5
+          m_AxesId: -1
+        - m_ParentId: 6
+          m_AxesId: -1
+        - m_ParentId: 7
+          m_AxesId: -1
+        - m_ParentId: 8
+          m_AxesId: -1
+        - m_ParentId: 9
+          m_AxesId: -1
+        - m_ParentId: 10
+          m_AxesId: -1
+        - m_ParentId: 11
+          m_AxesId: -1
+        - m_ParentId: 7
+          m_AxesId: -1
+        - m_ParentId: 13
+          m_AxesId: -1
+        - m_ParentId: 14
+          m_AxesId: -1
+        - m_ParentId: 15
+          m_AxesId: -1
+        - m_ParentId: 16
+          m_AxesId: -1
+        - m_ParentId: 7
+          m_AxesId: -1
+        - m_ParentId: 18
+          m_AxesId: -1
+        - m_ParentId: 19
+          m_AxesId: -1
+        - m_ParentId: 18
+          m_AxesId: -1
+        - m_ParentId: 21
+          m_AxesId: -1
+        - m_ParentId: 4
+          m_AxesId: -1
+        - m_ParentId: 23
+          m_AxesId: -1
+        - m_ParentId: 24
+          m_AxesId: -1
+        - m_ParentId: 25
+          m_AxesId: -1
+        - m_ParentId: 26
+          m_AxesId: -1
+        - m_ParentId: 27
+          m_AxesId: -1
+        - m_ParentId: 4
+          m_AxesId: -1
+        - m_ParentId: 29
+          m_AxesId: -1
+        - m_ParentId: 30
+          m_AxesId: -1
+        - m_ParentId: 31
+          m_AxesId: -1
+        - m_ParentId: 32
+          m_AxesId: -1
+        - m_ParentId: 33
+          m_AxesId: -1
+        m_ID: 00000000218f77802c421d34c914a430330b4c0bccdd2bab9f324f96cd7dcd5fb8361eb0d07c430e73c6f18e22ea08994887ce67241b21375c6c58f4662556e321c0d4315f545e010fe2bce7a2662af8738d2c9919c9fb47d2cd5cae6f4afe059ae1ac3d352aafab94bad99e843175bc061ec10c8323d7a851f1d94278b4c3a9afde9f6cfa60a7ab88db7fc4
+        m_AxesArray: []
+    m_AvatarSkeletonPose:
+      data:
+        m_X:
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 8.146034E-08, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -7.105427E-17, y: 1.42131, z: -0.1900788}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 7.105427E-17, y: 0.210516, z: -0.0003748472}
+          q: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.2346849, y: 5.211052E-17, z: -0.03454713}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.3540944, y: 7.862474E-17, z: -0.01597965}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.03825258, y: -0.2438093, z: -0.01409543}
+          q: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.2208703, y: -0.1475521, z: 0.01259888}
+          q: {x: -0.01904036, y: 0.05575449, z: 0.3329284, w: 0.9411098}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.5814821, y: 0, z: -7.105427E-17}
+          q: {x: -2.325241E-15, y: 0.2132136, z: -6.806799E-16, w: 0.9770056}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.6339757, y: 1.421085E-15, z: -3.197442E-16}
+          q: {x: 0.006821784, y: 0.0827759, z: 0.08422892, w: 0.9929789}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.341912, y: -0.171479, z: -0.09908924}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.03825258, y: 0.2438093, z: -0.01409543}
+          q: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.2208703, y: -0.1475521, z: 0.01259888}
+          q: {x: -0.01904036, y: -0.05575449, z: -0.3329284, w: 0.9411098}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.5814821, y: -5.684342E-16, z: -7.105427E-17}
+          q: {x: -1.148035E-15, y: -0.2132136, z: 1.178337E-16, w: 0.9770056}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.6339757, y: 1.136868E-15, z: -3.463896E-16}
+          q: {x: 0.006821784, y: -0.0827759, z: -0.08422892, w: 0.9929789}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.341912, y: -0.171479, z: -0.09908924}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.155939, y: 6.237113E-17, z: 0.1199115}
+          q: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.1313999, y: -0.1035997, z: 0.001967641}
+          q: {x: -5.702289E-17, y: 9.344939E-17, z: 0.2425295, w: 0.970144}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.2515686, y: 0.09361579, z: 4.200142E-11}
+          q: {x: 0.5, y: -0.5, z: 0.5, w: 0.5}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.1552493, y: 0.4713209, z: 0.1014211}
+          q: {x: 0.772093, y: -0.6355096, z: -3.891374E-17, w: 4.727706E-17}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.5227165, y: -0.1777203, z: 2.842171E-16}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.1882126, y: -0.2054076, z: 0.0559252}
+          q: {x: -0.2088768, y: 0.1249799, z: 0.6577082, w: 0.7128608}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.5440513, y: 6.039613E-16, z: 0}
+          q: {x: -2.370797E-16, y: -0.6213021, z: 2.370797E-16, w: 0.7835712}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.5240936, y: -2.4869E-16, z: 1.421085E-16}
+          q: {x: 0.06295338, y: 0.6021104, z: -0.01116562, w: 0.7958487}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.2290041, y: 1.421085E-16, z: 1.065814E-16}
+          q: {x: -0.0016259, y: -0.213169, z: 0.02142018, w: 0.9767792}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.1528839, y: 0.01914568, z: 0.1051482}
+          q: {x: 5.581189E-17, y: 0.7071068, z: -5.581189E-17, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.1907946, y: -0.004227874, z: -0.01008216}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.1882126, y: -0.2054076, z: 0.0559252}
+          q: {x: -0.1249799, y: 0.2088768, z: 0.7128608, w: 0.6577082}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.5440513, y: 1.065814E-16, z: -3.552713E-16}
+          q: {x: -1.74295E-16, y: -0.6213021, z: -2.533216E-16, w: 0.7835712}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.5240936, y: 2.842171E-16, z: 1.421085E-16}
+          q: {x: -0.06295338, y: 0.6021104, z: 0.01116562, w: 0.7958487}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.2290041, y: 3.552714E-17, z: 1.776357E-16}
+          q: {x: 0.0016259, y: -0.213169, z: -0.02142018, w: 0.9767792}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.1528839, y: -0.01914568, z: 0.1124787}
+          q: {x: 6.102508E-17, y: 0.7071068, z: -6.102508E-17, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.1834641, y: 0.004227874, z: -0.01008216}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+    m_DefaultPose:
+      data:
+        m_X:
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 8.146034E-08, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -7.105427E-17, y: 1.42131, z: -0.1900788}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 7.105427E-17, y: 0.210516, z: -0.0003748472}
+          q: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.2346849, y: 5.211052E-17, z: -0.03454713}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.3540944, y: 7.862474E-17, z: -0.01597965}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.03825258, y: -0.2438093, z: -0.01409543}
+          q: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.2208703, y: -0.1475521, z: 0.01259888}
+          q: {x: -0.01904036, y: 0.05575449, z: 0.3329284, w: 0.9411098}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.5814821, y: 0, z: -7.105427E-17}
+          q: {x: -2.325241E-15, y: 0.2132136, z: -6.806799E-16, w: 0.9770056}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.6339757, y: 1.421085E-15, z: -3.197442E-16}
+          q: {x: 0.006821784, y: 0.0827759, z: 0.08422892, w: 0.9929789}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.341912, y: -0.171479, z: -0.09908924}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.03825258, y: 0.2438093, z: -0.01409543}
+          q: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.2208703, y: -0.1475521, z: 0.01259888}
+          q: {x: -0.01904036, y: -0.05575449, z: -0.3329284, w: 0.9411098}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.5814821, y: -5.684342E-16, z: -7.105427E-17}
+          q: {x: -1.148035E-15, y: -0.2132136, z: 1.178337E-16, w: 0.9770056}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.6339757, y: 1.136868E-15, z: -3.463896E-16}
+          q: {x: 0.006821784, y: -0.0827759, z: -0.08422892, w: 0.9929789}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.341912, y: -0.171479, z: -0.09908924}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.155939, y: 6.237113E-17, z: 0.1199115}
+          q: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.1313999, y: -0.1035997, z: 0.001967641}
+          q: {x: -5.702289E-17, y: 9.344939E-17, z: 0.2425295, w: 0.970144}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.2515686, y: 0.09361579, z: 4.200142E-11}
+          q: {x: 0.5, y: -0.5, z: 0.5, w: 0.5}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.1552493, y: 0.4713209, z: 0.1014211}
+          q: {x: 0.772093, y: -0.6355096, z: -3.891374E-17, w: 4.727706E-17}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.5227165, y: -0.1777203, z: 2.842171E-16}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.1882126, y: -0.2054076, z: 0.0559252}
+          q: {x: -0.2088768, y: 0.1249799, z: 0.6577082, w: 0.7128608}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.5440513, y: 6.039613E-16, z: 0}
+          q: {x: -2.370797E-16, y: -0.6213021, z: 2.370797E-16, w: 0.7835712}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.5240936, y: -2.4869E-16, z: 1.421085E-16}
+          q: {x: 0.06295338, y: 0.6021104, z: -0.01116562, w: 0.7958487}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.2290041, y: 1.421085E-16, z: 1.065814E-16}
+          q: {x: -0.0016259, y: -0.213169, z: 0.02142018, w: 0.9767792}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.1528839, y: 0.01914568, z: 0.1051482}
+          q: {x: 5.581189E-17, y: 0.7071068, z: -5.581189E-17, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.1907946, y: -0.004227874, z: -0.01008216}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.1882126, y: -0.2054076, z: 0.0559252}
+          q: {x: -0.1249799, y: 0.2088768, z: 0.7128608, w: 0.6577082}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.5440513, y: 1.065814E-16, z: -3.552713E-16}
+          q: {x: -1.74295E-16, y: -0.6213021, z: -2.533216E-16, w: 0.7835712}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.5240936, y: 2.842171E-16, z: 1.421085E-16}
+          q: {x: -0.06295338, y: 0.6021104, z: 0.01116562, w: 0.7958487}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.2290041, y: 3.552714E-17, z: 1.776357E-16}
+          q: {x: 0.0016259, y: -0.213169, z: -0.02142018, w: 0.9767792}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.1528839, y: -0.01914568, z: 0.1124787}
+          q: {x: 6.102508E-17, y: 0.7071068, z: -6.102508E-17, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.1834641, y: 0.004227874, z: -0.01008216}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+    m_SkeletonNameIDArray: 00000000218f77802c421d34dfde342f8a555a88b030fca21e426824d8248adaa66395f8a055cc3dc417d27eb0470b42e0f9eec93a4eaa7f3c78f3baf1df77b8858fae847cd4d14e3a5e4ebf942cda3924d4843fcaac808864de140e95a0445c6f88e0adc1fa742ba605cfadd5d19a24e3229b4779c96df15a40456bf432d1ed93cd6a6bef568b8d0f4bb2ea
+    m_Human:
+      data:
+        m_RootX:
+          t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        m_Skeleton:
+          data:
+            m_Node:
+            m_ID: 
+            m_AxesArray:
+        m_SkeletonPose:
+          data:
+            m_X:
+        m_LeftHand:
+          data:
+            m_HandBoneIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_RightHand:
+          data:
+            m_HandBoneIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_Handles:
+        m_ColliderArray: []
+        m_HumanBoneIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_HumanBoneMass:
+        - 0.1454546
+        - 0.1212121
+        - 0.1212121
+        - 0.04848485
+        - 0.04848485
+        - 0.009696971
+        - 0.009696971
+        - 0.03030303
+        - 0.2909091
+        - 0.01212121
+        - 0.04848485
+        - 0.006060607
+        - 0.006060607
+        - 0.02424243
+        - 0.02424243
+        - 0.01818182
+        - 0.01818182
+        - 0.006060607
+        - 0.006060607
+        - 0.002424243
+        - 0.002424243
+        - 0
+        - 0
+        - 0
+        m_ColliderIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_Scale: 1
+        m_ArmTwist: 0.5
+        m_ForeArmTwist: 0.5
+        m_UpperLegTwist: 0.5
+        m_LegTwist: 0.5
+        m_ArmStretch: 0.05
+        m_LegStretch: 0.05
+        m_FeetSpacing: 0
+        m_HasLeftHand: 0
+        m_HasRightHand: 0
+        m_HasTDoF: 0
+    m_HumanSkeletonIndexArray: 
+    m_HumanSkeletonReverseIndexArray: 
+    m_RootMotionBoneIndex: 3
+    m_RootMotionBoneX:
+      t: {x: 0, y: 0, z: 0}
+      q: {x: 0, y: 0, z: 0, w: 1}
+      s: {x: 1, y: 1, z: 1}
+    m_RootMotionSkeleton:
+      data:
+        m_Node:
+        - m_ParentId: -1
+          m_AxesId: -1
+        - m_ParentId: 0
+          m_AxesId: -1
+        - m_ParentId: 1
+          m_AxesId: -1
+        m_ID: 000000002c421d34c914a430
+        m_AxesArray: []
+    m_RootMotionSkeletonPose:
+      data:
+        m_X:
+    m_RootMotionSkeletonIndexArray: 000000000200000003000000
+  m_TOS:
+    0: 
+    22959199: Forest_Beast_SHJntGrp/Forest_Beast_MAINSHJnt/Forest_Beast_ROOTSHJnt/Forest_Beast_Spine_01SHJnt/Forest_Beast_Spine_02SHJnt/Forest_Beast_Spine_TopSHJnt/Forest_Beast_r_Arm_ClavicleSHJnt/Forest_Beast_r_Arm_ShoulderSHJnt/Forest_Beast_r_Arm_ElbowSHJnt/Forest_Beast_r_Arm_WristSHJnt/Forest_Beast_r_Weapon_01_01SHJnt
+    100551279: Forest_Beast_SHJntGrp/Forest_Beast_MAINSHJnt/Forest_Beast_ROOTSHJnt/Forest_Beast_l_Leg_HipSHJnt
+    189532979: Forest_Beast_SHJntGrp/Forest_Beast_MAINSHJnt/Forest_Beast_ROOTSHJnt
+    213982726: Forest_Beast_SHJntGrp/Forest_Beast_MAINSHJnt/Forest_Beast_ROOTSHJnt/Forest_Beast_l_Leg_HipSHJnt/Forest_Beast_l_Leg_Knee1SHJnt/Forest_Beast_l_Leg_Knee2SHJnt/Forest_Beast_l_Leg_AnkleSHJnt/Forest_Beast_l_Leg_BallSHJnt/Forest_Beast_l_Leg_ToeSHJnt
+    239303888: Forest_Beast_SHJntGrp/Forest_Beast_MAINSHJnt/Forest_Beast_ROOTSHJnt/Forest_Beast_Spine_01SHJnt/Forest_Beast_Spine_02SHJnt/Forest_Beast_Spine_TopSHJnt/Forest_Beast_l_Arm_ClavicleSHJnt/Forest_Beast_l_Arm_ShoulderSHJnt
+    816059593: Forest_Beast_SHJntGrp/Forest_Beast_MAINSHJnt
+    836026401: Forest_Beast_SHJntGrp/Forest_Beast_MAINSHJnt/Forest_Beast_ROOTSHJnt/Forest_Beast_Spine_01SHJnt/Forest_Beast_Spine_02SHJnt/Forest_Beast_Spine_TopSHJnt/Forest_Beast_r_Arm_ClavicleSHJnt/Forest_Beast_r_Arm_ShoulderSHJnt/Forest_Beast_r_Arm_ElbowSHJnt/Forest_Beast_r_Arm_WristSHJnt
+    874332716: Forest_Beast_SHJntGrp
+    924916516: Forest_Beast_SHJntGrp/Forest_Beast_MAINSHJnt/Forest_Beast_ROOTSHJnt/Forest_Beast_Spine_01SHJnt/Forest_Beast_Spine_02SHJnt/Forest_Beast_Spine_TopSHJnt/Forest_Beast_r_Arm_ClavicleSHJnt
+    1034740122: Forest_Beast_SHJntGrp/Forest_Beast_MAINSHJnt/Forest_Beast_ROOTSHJnt/Forest_Beast_l_Leg_HipSHJnt/Forest_Beast_l_Leg_Knee1SHJnt
+    1121579345: Forest_Beast_SHJntGrp/Forest_Beast_MAINSHJnt/Forest_Beast_ROOTSHJnt/Forest_Beast_r_Leg_HipSHJnt/Forest_Beast_r_Leg_Knee1SHJnt
+    1207683353: Forest_Beast_SHJntGrp/Forest_Beast_MAINSHJnt/Forest_Beast_ROOTSHJnt/Forest_Beast_Spine_01SHJnt/Forest_Beast_Spine_02SHJnt/Forest_Beast_Spine_TopSHJnt/Forest_Beast_Neck_01_01SHJnt/Forest_Beast_Twigs_01_01SHJnt
+    1607302605: Forest_Beast_SHJntGrp/Forest_Beast_MAINSHJnt/Forest_Beast_ROOTSHJnt/Forest_Beast_Spine_01SHJnt/Forest_Beast_Spine_02SHJnt/Forest_Beast_Spine_TopSHJnt
+    1741588296: Forest_Beast_SHJntGrp/Forest_Beast_MAINSHJnt/Forest_Beast_ROOTSHJnt/Forest_Beast_Spine_01SHJnt/Forest_Beast_Spine_02SHJnt/Forest_Beast_Spine_TopSHJnt/Forest_Beast_l_Arm_ClavicleSHJnt/Forest_Beast_l_Arm_ShoulderSHJnt/Forest_Beast_l_Arm_ElbowSHJnt/Forest_Beast_l_Arm_WristSHJnt/Forest_Beast_l_Weapon_01_01SHJnt
+    1822416559: Forest_Beast_SHJntGrp/Forest_Beast_MAINSHJnt/Forest_Beast_ROOTSHJnt/Forest_Beast_r_Leg_HipSHJnt/Forest_Beast_r_Leg_Knee1SHJnt/Forest_Beast_r_Leg_Knee2SHJnt/Forest_Beast_r_Leg_AnkleSHJnt
+    2155319073: Forrest_Beast_Geo
+    2398209651: Forest_Beast_SHJntGrp/Forest_Beast_MAINSHJnt/Forest_Beast_ROOTSHJnt/Forest_Beast_Spine_01SHJnt/Forest_Beast_Spine_02SHJnt/Forest_Beast_Spine_TopSHJnt/Forest_Beast_l_Arm_ClavicleSHJnt/Forest_Beast_l_Arm_ShoulderSHJnt/Forest_Beast_l_Arm_ElbowSHJnt
+    2521772703: Forest_Beast_SHJntGrp/Forest_Beast_MAINSHJnt/Forest_Beast_ROOTSHJnt/Forest_Beast_Spine_01SHJnt/Forest_Beast_Spine_02SHJnt
+    2567498274: Forest_Beast_SHJntGrp/Forest_Beast_MAINSHJnt/Forest_Beast_ROOTSHJnt/Forest_Beast_Spine_01SHJnt/Forest_Beast_Spine_02SHJnt/Forest_Beast_Spine_TopSHJnt/Forest_Beast_l_Arm_ClavicleSHJnt/Forest_Beast_l_Arm_ShoulderSHJnt/Forest_Beast_l_Arm_ElbowSHJnt/Forest_Beast_l_Arm_WristSHJnt
+    2569833843: Forest_Beast_SHJntGrp/Forest_Beast_MAINSHJnt/Forest_Beast_ROOTSHJnt/Forest_Beast_Spine_01SHJnt/Forest_Beast_Spine_02SHJnt/Forest_Beast_Spine_TopSHJnt/Forest_Beast_Neck_01_01SHJnt/Forest_Beast_Neck_01_02SHJnt/Forest_Beast_Head_TopSHJnt
+    2665069204: Forest_Beast_SHJntGrp/Forest_Beast_MAINSHJnt/Forest_Beast_ROOTSHJnt/Forest_Beast_l_Leg_HipSHJnt/Forest_Beast_l_Leg_Knee1SHJnt/Forest_Beast_l_Leg_Knee2SHJnt/Forest_Beast_l_Leg_AnkleSHJnt
+    2832671619: Forest_Beast_SHJntGrp/Forest_Beast_MAINSHJnt/Forest_Beast_ROOTSHJnt/Forest_Beast_r_Leg_HipSHJnt
+    2848175224: Forest_Beast_SHJntGrp/Forest_Beast_MAINSHJnt/Forest_Beast_ROOTSHJnt/Forest_Beast_r_Leg_HipSHJnt/Forest_Beast_r_Leg_Knee1SHJnt/Forest_Beast_r_Leg_Knee2SHJnt
+    2871778764: Forest_Beast_SHJntGrp/Forest_Beast_MAINSHJnt/Forest_Beast_ROOTSHJnt/Forest_Beast_Spine_01SHJnt
+    2879873274: Forest_Beast_SHJntGrp/Forest_Beast_MAINSHJnt/Forest_Beast_ROOTSHJnt/Forest_Beast_r_Leg_HipSHJnt/Forest_Beast_r_Leg_Knee1SHJnt/Forest_Beast_r_Leg_Knee2SHJnt/Forest_Beast_r_Leg_AnkleSHJnt/Forest_Beast_r_Leg_BallSHJnt
+    2880383541: Forest_Beast_SHJntGrp/Forest_Beast_MAINSHJnt/Forest_Beast_ROOTSHJnt/Forest_Beast_l_Leg_HipSHJnt/Forest_Beast_l_Leg_Knee1SHJnt/Forest_Beast_l_Leg_Knee2SHJnt
+    2925317586: Forest_Beast_SHJntGrp/Forest_Beast_MAINSHJnt/Forest_Beast_ROOTSHJnt/Forest_Beast_Spine_01SHJnt/Forest_Beast_Spine_02SHJnt/Forest_Beast_Spine_TopSHJnt/Forest_Beast_Neck_01_01SHJnt/Forest_Beast_Twigs_01_01SHJnt/Forest_Beast_Twigs_01_02SHJnt
+    2954770104: Forest_Beast_SHJntGrp/Forest_Beast_MAINSHJnt/Forest_Beast_ROOTSHJnt/Forest_Beast_Spine_01SHJnt/Forest_Beast_Spine_02SHJnt/Forest_Beast_Spine_TopSHJnt/Forest_Beast_l_Arm_ClavicleSHJnt
+    3161796996: Forest_Beast_SHJntGrp/Forest_Beast_MAINSHJnt/Forest_Beast_ROOTSHJnt/Forest_Beast_l_Leg_HipSHJnt/Forest_Beast_l_Leg_Knee1SHJnt/Forest_Beast_l_Leg_Knee2SHJnt/Forest_Beast_l_Leg_AnkleSHJnt/Forest_Beast_l_Leg_BallSHJnt
+    3296713608: Forest_Beast_SHJntGrp/Forest_Beast_MAINSHJnt/Forest_Beast_ROOTSHJnt/Forest_Beast_r_Leg_HipSHJnt/Forest_Beast_r_Leg_Knee1SHJnt/Forest_Beast_r_Leg_Knee2SHJnt/Forest_Beast_r_Leg_AnkleSHJnt/Forest_Beast_r_Leg_BallSHJnt/Forest_Beast_r_Leg_ToeSHJnt
+    3814073702: Forest_Beast_SHJntGrp/Forest_Beast_MAINSHJnt/Forest_Beast_ROOTSHJnt/Forest_Beast_Spine_01SHJnt/Forest_Beast_Spine_02SHJnt/Forest_Beast_Spine_TopSHJnt/Forest_Beast_r_Arm_ClavicleSHJnt/Forest_Beast_r_Arm_ShoulderSHJnt/Forest_Beast_r_Arm_ElbowSHJnt
+    3887915535: Forest_Beast_SHJntGrp/Forest_Beast_MAINSHJnt/Forest_Beast_ROOTSHJnt/Forest_Beast_Spine_01SHJnt/Forest_Beast_Spine_02SHJnt/Forest_Beast_Spine_TopSHJnt/Forest_Beast_Neck_01_01SHJnt
+    4099435612: Forest_Beast_SHJntGrp/Forest_Beast_MAINSHJnt/Forest_Beast_ROOTSHJnt/Forest_Beast_Spine_01SHJnt/Forest_Beast_Spine_02SHJnt/Forest_Beast_Spine_TopSHJnt/Forest_Beast_r_Arm_ClavicleSHJnt/Forest_Beast_r_Arm_ShoulderSHJnt
+    4163528354: Forest_Beast_SHJntGrp/Forest_Beast_MAINSHJnt/Forest_Beast_ROOTSHJnt/Forest_Beast_Spine_01SHJnt/Forest_Beast_Spine_02SHJnt/Forest_Beast_Spine_TopSHJnt/Forest_Beast_Neck_01_01SHJnt/Forest_Beast_Neck_01_02SHJnt

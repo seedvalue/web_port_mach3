@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "M_Marksman_MainHand_01"
+  m_Shader: {fileID: 4800000, guid: 157ef8e40ade44f9bec212b3e47561e4, type: 3}
+  m_ShaderKeywords: "FANCY_EMISSION_ENABLED FANCY_HIT_MASK_DISABLED FANCY_REFLECTIONS_DISABLED
+FANCY_SELECTION_ENABLED _EMISSION"
+  m_LightmapFlags: 1
+  m_EnableInstancingVariants: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Cube:
+        m_Texture: {fileID: 8900000, guid: b8f288982a6e4b90967f9b42bc28d03d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 8089dcd82dee44409575414ed6b90eef, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MiscMap:
+        m_Texture: {fileID: 2800000, guid: 2f7fa8327b18410aa137e2507d6cfac8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MiscMap2:
+        m_Texture: {fileID: 2800000, guid: 6045502e073e49baafdd74b9871e0822, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - FANCY_EMISSION: 1
+    - FANCY_HIT_MASK: 0
+    - FANCY_REFLECTIONS: 0
+    - FANCY_SELECTION: 1
+    - Fancy_EmissionIntensity: 0.447
+    - Fancy_MinReflectivity: 0.2
+    - Fancy_Reflectivity: 0
+    - Fancy_RimPower: 1.36
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0
+    - _GlossyReflections: 1
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _ZWrite: 1
+    - _hitBlend: 0
+    - _rzuk2: 0
+    - _selectionFaded: 0
+    - _selectionSelected: 0
+    m_Colors:
+    - Fancy_EmissionColor: {r: 1, g: 0.6413792, b: 0, a: 0}
+    - Fancy_ReflectionRotation: {r: 0, g: 0, b: 0, a: 1}
+    - _Color: {r: 0.2092344, g: 0.4222528, b: 0.6323529, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _hitColor: {r: 1, g: 0, b: 0, a: 0}

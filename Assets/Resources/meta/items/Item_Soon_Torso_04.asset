@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd027e2971dbb65a9c6966c0b5a12fde, type: 3}
+  m_Name: "Item_Soon_Torso_04"
+  m_EditorClassIdentifier: 
+  displayName: 
+  icon: {fileID: 0}
+  rarity: 0
+  itemType: 5
+  itemClass: 0
+  perks: []
+  skill: {fileID: 11400000, guid: 61ac15843dce424e8dca665896ec2adc, type: 2}
+  description: 
+  vis3D: {fileID: 0}
+  headVariant: 0
+  availableSoon: 1
+  baseStats:
+    HP: 0
+    Def: 0
+    Rcv: 0
+    Mel: 0
+    Rng: 0
+    Hrm: 0
+    Prm: 0
+    Vd: 0
+  basePercentStats:
+    HP: 0
+    Def: 0
+    Rcv: 0
+    Mel: 0
+    Rng: 0
+    Hrm: 0
+    Prm: 0
+    Vd: 0

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ui_chest_w_unlock_time_clock_icon
+  m_Rect:
+    serializedVersion: 2
+    x: 780.02673
+    y: 1460
+    width: 49.973248
+    height: 50
+  m_Offset: {x: -0.013374083, y: 0}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 200
+  m_Pivot: {x: 0.49973238, y: 0.5}
+  m_Extrude: 1
+  m_IsPolygon: 0
+  m_AtlasName:
+  m_PackingTag:
+  m_RD:
+    texture: {fileID: 2800000, guid: f588fd0fced1cb7448a1776b4b6bf149, type: 3}
+    alphaTexture: {fileID: 0}
+    vertices:
+    - serializedVersion: 2
+      pos: {x: -0.115, y: 0.125, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.125, y: -0.125, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.125, y: 0.125, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.12, y: -0.125, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.125, y: 0.105, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.125, y: -0.095, z: 0}
+    indices:
+    - 5
+    - 4
+    - 3
+    - 0
+    - 3
+    - 4
+    - 1
+    - 3
+    - 0
+    - 2
+    - 1
+    - 0
+    textureRect:
+      serializedVersion: 2
+      x: 780.02673
+      y: 1460
+      width: 49.973248
+      height: 50
+    textureRectOffset: {x: 0, y: 0}
+    settingsRaw: 67
+    uvTransform: {x: 200, y: 805, z: 200, w: 1485}

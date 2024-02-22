@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd027e2971dbb65a9c6966c0b5a12fde, type: 3}
+  m_Name: "Item_Druid_Head_01"
+  m_EditorClassIdentifier: 
+  displayName: "Treeant's Face"
+  icon: {fileID: 21300020, guid: 59225670875e4ad1bb7638f164f69e97, type: 3}
+  rarity: 1
+  itemType: 2
+  itemClass: 0
+  perks: []
+  skill: {fileID: 11400000, guid: 28ead4a2fe3a4e1f9014fa5ccc12993c, type: 2}
+  description: 
+  vis3D: {fileID: 1791314569431989214, guid: de658ccf155c802419c3ca038be43e12, type: 2}
+  headVariant: 1
+  availableSoon: 0
+  baseStats:
+    HP: 350
+    Def: 0
+    Rcv: 50
+    Mel: 0
+    Rng: 0
+    Hrm: 80
+    Prm: 0
+    Vd: 0
+  basePercentStats:
+    HP: 0
+    Def: 0
+    Rcv: 0
+    Mel: 0
+    Rng: 0
+    Hrm: 0
+    Prm: 0
+    Vd: 0

@@ -1,0 +1,2910 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!4 &1791314569482320859
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1791314569431989210}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1791314569431989210
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1791314569482320859}
+  - component: {fileID: 1791314571327814625}
+  - component: {fileID: 1791314571327814622}
+  - component: {fileID: 1791314571327814626}
+  - component: {fileID: 1791314571327814624}
+  - component: {fileID: 1791314571327814623}
+  - component: {fileID: 1791314571327814628}
+  - component: {fileID: 1791314571327814627}
+  - component: {fileID: 1791314571327814621}
+  - component: {fileID: 1791314571327814620}
+  m_Layer: 0
+  m_Name: "Meta"
+  m_TagString:
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1791314571327814620
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1791314569431989210}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5399d2d3edc8a7e21299129755eeca45, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1791314571327814621
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1791314569431989210}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4b0396ab2094eedfc4d1909c5e2cdc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lastLocation: {fileID: 0}
+--- !u!114 &1791314571327814622
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1791314569431989210}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9fc1d39024797d4111f48d6a24589e1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemStatsCurveData:
+  - Lvl: 1
+    Common: 1
+    Rare: 1
+    Epic: 1
+    Legendary: 1
+  - Lvl: 2
+    Common: 1.1
+    Rare: 1.1
+    Epic: 1.1
+    Legendary: 1.1
+  - Lvl: 3
+    Common: 1.21
+    Rare: 1.21
+    Epic: 1.21
+    Legendary: 1.21
+  - Lvl: 4
+    Common: 1.331
+    Rare: 1.331
+    Epic: 1.331
+    Legendary: 1.331
+  - Lvl: 5
+    Common: 1.4641
+    Rare: 1.4641
+    Epic: 1.4641
+    Legendary: 1.4641
+  - Lvl: 6
+    Common: 1.61051
+    Rare: 1.61051
+    Epic: 1.61051
+    Legendary: 1.61051
+  - Lvl: 7
+    Common: 1.771561
+    Rare: 1.771561
+    Epic: 1.771561
+    Legendary: 1.771561
+  - Lvl: 8
+    Common: 1.948717
+    Rare: 1.948717
+    Epic: 1.948717
+    Legendary: 1.948717
+  - Lvl: 9
+    Common: 2.143589
+    Rare: 2.143589
+    Epic: 2.143589
+    Legendary: 2.143589
+  - Lvl: 10
+    Common: 2.357948
+    Rare: 2.357948
+    Epic: 2.357948
+    Legendary: 2.357948
+  - Lvl: 11
+    Common: 2.593742
+    Rare: 2.593742
+    Epic: 2.593742
+    Legendary: 2.593742
+  - Lvl: 12
+    Common: 2.853117
+    Rare: 2.853117
+    Epic: 2.853117
+    Legendary: 2.853117
+  - Lvl: 13
+    Common: 3.138428
+    Rare: 3.138428
+    Epic: 3.138428
+    Legendary: 3.138428
+  - Lvl: 14
+    Common: 3.452271
+    Rare: 3.452271
+    Epic: 3.452271
+    Legendary: 3.452271
+  - Lvl: 15
+    Common: 3.797498
+    Rare: 3.797498
+    Epic: 3.797498
+    Legendary: 3.797498
+  - Lvl: 16
+    Common: 4.177248
+    Rare: 4.177248
+    Epic: 4.177248
+    Legendary: 4.177248
+  - Lvl: 17
+    Common: 4.594973
+    Rare: 4.594973
+    Epic: 4.594973
+    Legendary: 4.177248
+  - Lvl: 18
+    Common: 5.05447
+    Rare: 5.05447
+    Epic: 5.05447
+    Legendary: 4.177248
+  - Lvl: 19
+    Common: 5.559917
+    Rare: 5.559917
+    Epic: 5.559917
+    Legendary: 4.177248
+  - Lvl: 20
+    Common: 6.115909
+    Rare: 6.115909
+    Epic: 5.559917
+    Legendary: 4.177248
+  - Lvl: 21
+    Common: 6.7275
+    Rare: 6.7275
+    Epic: 5.559917
+    Legendary: 4.177248
+  - Lvl: 22
+    Common: 7.40025
+    Rare: 7.40025
+    Epic: 5.559917
+    Legendary: 4.177248
+  - Lvl: 23
+    Common: 8.140275
+    Rare: 8.140275
+    Epic: 5.559917
+    Legendary: 4.177248
+  - Lvl: 24
+    Common: 8.954303
+    Rare: 8.954303
+    Epic: 5.559917
+    Legendary: 4.177248
+  - Lvl: 25
+    Common: 9.849732
+    Rare: 8.954303
+    Epic: 5.559917
+    Legendary: 4.177248
+  - Lvl: 26
+    Common: 10.83471
+    Rare: 8.954303
+    Epic: 5.559917
+    Legendary: 4.177248
+  - Lvl: 27
+    Common: 11.91818
+    Rare: 8.954303
+    Epic: 5.559917
+    Legendary: 4.177248
+  - Lvl: 28
+    Common: 13.10999
+    Rare: 8.954303
+    Epic: 5.559917
+    Legendary: 4.177248
+  - Lvl: 29
+    Common: 14.42099
+    Rare: 8.954303
+    Epic: 5.559917
+    Legendary: 4.177248
+  - Lvl: 30
+    Common: 15.86309
+    Rare: 8.954303
+    Epic: 5.559917
+    Legendary: 4.177248
+  itemsUpgradeCostData:
+  - Lvl: 2
+    Common: 10
+    Rare: 50
+    Epic: 200
+    Legendary: 700
+  - Lvl: 3
+    Common: 25
+    Rare: 150
+    Epic: 500
+    Legendary: 1300
+  - Lvl: 4
+    Common: 50
+    Rare: 350
+    Epic: 1000
+    Legendary: 2200
+  - Lvl: 5
+    Common: 100
+    Rare: 650
+    Epic: 1700
+    Legendary: 3400
+  - Lvl: 6
+    Common: 200
+    Rare: 1000
+    Epic: 2500
+    Legendary: 4700
+  - Lvl: 7
+    Common: 400
+    Rare: 1500
+    Epic: 3500
+    Legendary: 6200
+  - Lvl: 8
+    Common: 700
+    Rare: 2100
+    Epic: 4600
+    Legendary: 8000
+  - Lvl: 9
+    Common: 1000
+    Rare: 2750
+    Epic: 5800
+    Legendary: 10000
+  - Lvl: 10
+    Common: 1400
+    Rare: 3500
+    Epic: 7200
+    Legendary: 12200
+  - Lvl: 11
+    Common: 1800
+    Rare: 4300
+    Epic: 8800
+    Legendary: 14500
+  - Lvl: 12
+    Common: 2250
+    Rare: 5200
+    Epic: 10500
+    Legendary: 17100
+  - Lvl: 13
+    Common: 2750
+    Rare: 6200
+    Epic: 12300
+    Legendary: 20000
+  - Lvl: 14
+    Common: 3300
+    Rare: 7300
+    Epic: 14200
+    Legendary: 23000
+  - Lvl: 15
+    Common: 3900
+    Rare: 8500
+    Epic: 16300
+    Legendary: 26400
+  - Lvl: 16
+    Common: 4600
+    Rare: 9700
+    Epic: 18500
+    Legendary: 30000
+  - Lvl: 17
+    Common: 5400
+    Rare: 11000
+    Epic: 21000
+    Legendary: 0
+  - Lvl: 18
+    Common: 6250
+    Rare: 12500
+    Epic: 23500
+    Legendary: 0
+  - Lvl: 19
+    Common: 7100
+    Rare: 14000
+    Epic: 26000
+    Legendary: 0
+  - Lvl: 20
+    Common: 8000
+    Rare: 15600
+    Epic: 0
+    Legendary: 0
+  - Lvl: 21
+    Common: 9000
+    Rare: 17300
+    Epic: 0
+    Legendary: 0
+  - Lvl: 22
+    Common: 10000
+    Rare: 19000
+    Epic: 0
+    Legendary: 0
+  - Lvl: 23
+    Common: 11000
+    Rare: 21000
+    Epic: 0
+    Legendary: 0
+  - Lvl: 24
+    Common: 12100
+    Rare: 23000
+    Epic: 0
+    Legendary: 0
+  - Lvl: 25
+    Common: 13200
+    Rare: 0
+    Epic: 0
+    Legendary: 0
+  - Lvl: 26
+    Common: 14400
+    Rare: 0
+    Epic: 0
+    Legendary: 0
+  - Lvl: 27
+    Common: 15700
+    Rare: 0
+    Epic: 0
+    Legendary: 0
+  - Lvl: 28
+    Common: 17100
+    Rare: 0
+    Epic: 0
+    Legendary: 0
+  - Lvl: 29
+    Common: 18500
+    Rare: 0
+    Epic: 0
+    Legendary: 0
+  - Lvl: 30
+    Common: 20000
+    Rare: 0
+    Epic: 0
+    Legendary: 0
+  itemsLevelUpRequirementsData:
+  - Lvl: 2
+    Common: 2
+    Rare: 2
+    Epic: 1
+    Legendary: 1
+  - Lvl: 3
+    Common: 4
+    Rare: 3
+    Epic: 2
+    Legendary: 1
+  - Lvl: 4
+    Common: 8
+    Rare: 5
+    Epic: 3
+    Legendary: 2
+  - Lvl: 5
+    Common: 15
+    Rare: 8
+    Epic: 4
+    Legendary: 2
+  - Lvl: 6
+    Common: 25
+    Rare: 13
+    Epic: 5
+    Legendary: 3
+  - Lvl: 7
+    Common: 40
+    Rare: 18
+    Epic: 7
+    Legendary: 3
+  - Lvl: 8
+    Common: 60
+    Rare: 24
+    Epic: 9
+    Legendary: 4
+  - Lvl: 9
+    Common: 80
+    Rare: 32
+    Epic: 12
+    Legendary: 5
+  - Lvl: 10
+    Common: 100
+    Rare: 40
+    Epic: 15
+    Legendary: 7
+  - Lvl: 11
+    Common: 120
+    Rare: 50
+    Epic: 19
+    Legendary: 9
+  - Lvl: 12
+    Common: 145
+    Rare: 60
+    Epic: 23
+    Legendary: 11
+  - Lvl: 13
+    Common: 170
+    Rare: 70
+    Epic: 27
+    Legendary: 13
+  - Lvl: 14
+    Common: 200
+    Rare: 80
+    Epic: 32
+    Legendary: 15
+  - Lvl: 15
+    Common: 230
+    Rare: 95
+    Epic: 37
+    Legendary: 17
+  - Lvl: 16
+    Common: 270
+    Rare: 110
+    Epic: 42
+    Legendary: 20
+  - Lvl: 17
+    Common: 310
+    Rare: 125
+    Epic: 48
+    Legendary: 0
+  - Lvl: 18
+    Common: 350
+    Rare: 140
+    Epic: 54
+    Legendary: 0
+  - Lvl: 19
+    Common: 390
+    Rare: 155
+    Epic: 60
+    Legendary: 0
+  - Lvl: 20
+    Common: 430
+    Rare: 170
+    Epic: 0
+    Legendary: 0
+  - Lvl: 21
+    Common: 480
+    Rare: 190
+    Epic: 0
+    Legendary: 0
+  - Lvl: 22
+    Common: 530
+    Rare: 210
+    Epic: 0
+    Legendary: 0
+  - Lvl: 23
+    Common: 580
+    Rare: 230
+    Epic: 0
+    Legendary: 0
+  - Lvl: 24
+    Common: 630
+    Rare: 250
+    Epic: 0
+    Legendary: 0
+  - Lvl: 25
+    Common: 680
+    Rare: 0
+    Epic: 0
+    Legendary: 0
+  - Lvl: 26
+    Common: 740
+    Rare: 0
+    Epic: 0
+    Legendary: 0
+  - Lvl: 27
+    Common: 800
+    Rare: 0
+    Epic: 0
+    Legendary: 0
+  - Lvl: 28
+    Common: 860
+    Rare: 0
+    Epic: 0
+    Legendary: 0
+  - Lvl: 29
+    Common: 930
+    Rare: 0
+    Epic: 0
+    Legendary: 0
+  - Lvl: 30
+    Common: 1000
+    Rare: 0
+    Epic: 0
+    Legendary: 0
+  stageBattlesData:
+  - Stage: {fileID: 11400000, guid: d9b06b3940504d399f5e77010f6be31f, type: 2}
+    BattleIndex: 1
+    Mobs:
+    - "Mob_Skeleton_Tribal_Melee_01"
+    Multipliers:
+      hp: 0.75
+      def: 1
+      atk: 1
+  - Stage: {fileID: 11400000, guid: d9b06b3940504d399f5e77010f6be31f, type: 2}
+    BattleIndex: 2
+    Mobs:
+    - "Mob_Skeleton_Tribal_Melee_01"
+    Multipliers:
+      hp: 1.2
+      def: 1
+      atk: 1
+  - Stage: {fileID: 11400000, guid: d9b06b3940504d399f5e77010f6be31f, type: 2}
+    BattleIndex: 3
+    Mobs:
+    - "Mob_Beast_Forest_01"
+    Multipliers:
+      hp: 1.1
+      def: 1
+      atk: 0.8
+  - Stage: {fileID: 11400000, guid: f58f99b1d1e241b7af4a328acd11894b, type: 2}
+    BattleIndex: 1
+    Mobs:
+    - "Mob_Goblin_Melee_01"
+    Multipliers:
+      hp: 0.6
+      def: 0.6
+      atk: 1.4
+  - Stage: {fileID: 11400000, guid: f58f99b1d1e241b7af4a328acd11894b, type: 2}
+    BattleIndex: 2
+    Mobs:
+    - "Mob_Skeleton_Tribal_Melee_01"
+    - "Mob_Skeleton_Tribal_Ranged_01"
+    Multipliers:
+      hp: 0.4
+      def: 0.5
+      atk: 1
+  - Stage: {fileID: 11400000, guid: f58f99b1d1e241b7af4a328acd11894b, type: 2}
+    BattleIndex: 3
+    Mobs:
+    - "Mob_Skeleton_Tribal_Melee_02"
+    - "Mob_Skeleton_Tribal_Melee_03"
+    Multipliers:
+      hp: 0.6
+      def: 0.6
+      atk: 1
+  - Stage: {fileID: 11400000, guid: 1909c38cb31246da9fa5604f8f31bfc6, type: 2}
+    BattleIndex: 1
+    Mobs:
+    - "Mob_Goblin_Melee_01"
+    - "Mob_Goblin_Ranged_01"
+    Multipliers:
+      hp: 0.7
+      def: 0.7
+      atk: 1
+  - Stage: {fileID: 11400000, guid: 1909c38cb31246da9fa5604f8f31bfc6, type: 2}
+    BattleIndex: 2
+    Mobs:
+    - "Mob_Skeleton_Tribal_Melee_03"
+    Multipliers:
+      hp: 0.7
+      def: 0.7
+      atk: 1
+  - Stage: {fileID: 11400000, guid: 1909c38cb31246da9fa5604f8f31bfc6, type: 2}
+    BattleIndex: 3
+    Mobs:
+    - "Mob_Skeleton_Tribal_Wizard_01"
+    - "Mob_Skeleton_Tribal_Melee_03"
+    - "Mob_Skeleton_Tribal_Ranged_01"
+    Multipliers:
+      hp: 0.7
+      def: 0.7
+      atk: 1
+  - Stage: {fileID: 11400000, guid: 2ee23f75f82e4d978529a3de1394e596, type: 2}
+    BattleIndex: 1
+    Mobs:
+    - "Mob_Skeleton_Tribal_Melee_01"
+    - "Mob_Skeleton_Tribal_Melee_02"
+    Multipliers:
+      hp: 1.1
+      def: 0.8
+      atk: 1
+  - Stage: {fileID: 11400000, guid: 2ee23f75f82e4d978529a3de1394e596, type: 2}
+    BattleIndex: 2
+    Mobs:
+    - "Mob_Skeleton_Poison_Melee_01"
+    Multipliers:
+      hp: 1.1
+      def: 0.8
+      atk: 1
+  - Stage: {fileID: 11400000, guid: 2ee23f75f82e4d978529a3de1394e596, type: 2}
+    BattleIndex: 3
+    Mobs:
+    - "Mob_Beast_Forest_01"
+    - "Mob_Goblin_Ranged_01"
+    - "Mob_Goblin_Melee_01"
+    Multipliers:
+      hp: 1.1
+      def: 0.8
+      atk: 1
+  - Stage: {fileID: 11400000, guid: c90ad89d1f68478790cd3dd7bf9550c9, type: 2}
+    BattleIndex: 1
+    Mobs:
+    - "Mob_Skeleton_Poison_Melee_01"
+    - "Mob_Skeleton_Poison_Ranged_01"
+    Multipliers:
+      hp: 1.2
+      def: 0.9
+      atk: 1.1
+  - Stage: {fileID: 11400000, guid: c90ad89d1f68478790cd3dd7bf9550c9, type: 2}
+    BattleIndex: 2
+    Mobs:
+    - "Mob_Goblin_Melee_01"
+    Multipliers:
+      hp: 1.2
+      def: 0.9
+      atk: 1.1
+  - Stage: {fileID: 11400000, guid: c90ad89d1f68478790cd3dd7bf9550c9, type: 2}
+    BattleIndex: 3
+    Mobs:
+    - "Mob_Skeleton_Tribal_Wizard_01"
+    - "Mob_Skeleton_Tribal_Wizard_01"
+    - "Mob_Skeleton_Tribal_Wizard_01"
+    Multipliers:
+      hp: 1.2
+      def: 0.9
+      atk: 1.1
+  - Stage: {fileID: 11400000, guid: 55cd921db85c4204be1806bba8e91766, type: 2}
+    BattleIndex: 1
+    Mobs:
+    - "Mob_Goblin_Ranged_01"
+    - "Mob_Goblin_Melee_01"
+    - "Mob_Goblin_Melee_01"
+    Multipliers:
+      hp: 1.3
+      def: 1
+      atk: 1.2
+  - Stage: {fileID: 11400000, guid: 55cd921db85c4204be1806bba8e91766, type: 2}
+    BattleIndex: 2
+    Mobs:
+    - "Mob_Skeleton_Poison_Ranged_01"
+    - "Mob_Skeleton_Poison_Melee_01"
+    Multipliers:
+      hp: 1.3
+      def: 1
+      atk: 1.2
+  - Stage: {fileID: 11400000, guid: 55cd921db85c4204be1806bba8e91766, type: 2}
+    BattleIndex: 3
+    Mobs:
+    - "Mob_Goblin_Ranged_01"
+    Multipliers:
+      hp: 1.3
+      def: 1
+      atk: 1.2
+  - Stage: {fileID: 11400000, guid: 55cd921db85c4204be1806bba8e91766, type: 2}
+    BattleIndex: 4
+    Mobs:
+    - "Mob_Beast_Forest_01"
+    - "Mob_Skeleton_Tribal_Wizard_01"
+    - "Mob_Skeleton_Tribal_Wizard_01"
+    Multipliers:
+      hp: 1.3
+      def: 1
+      atk: 1.2
+  - Stage: {fileID: 11400000, guid: 4cf6cee56ba64eb095dde0545cc1713a, type: 2}
+    BattleIndex: 1
+    Mobs:
+    - "Mob_Skeleton_Melee_01"
+    - "Mob_Skeleton_Melee_01"
+    Multipliers:
+      hp: 1.5
+      def: 1.1
+      atk: 1.3
+  - Stage: {fileID: 11400000, guid: 4cf6cee56ba64eb095dde0545cc1713a, type: 2}
+    BattleIndex: 2
+    Mobs:
+    - "Mob_Global_Slayer_01"
+    Multipliers:
+      hp: 1.5
+      def: 1.1
+      atk: 1.3
+  - Stage: {fileID: 11400000, guid: 4cf6cee56ba64eb095dde0545cc1713a, type: 2}
+    BattleIndex: 3
+    Mobs:
+    - "Mob_Goblin_Ranged_01"
+    - "Mob_Goblin_Melee_01"
+    - "Mob_Global_Slayer_01"
+    - "Mob_Goblin_Ranged_01"
+    - "Mob_Goblin_Melee_01"
+    Multipliers:
+      hp: 1.5
+      def: 1.1
+      atk: 1.3
+  - Stage: {fileID: 11400000, guid: 95dc5e4d03f54041a3e770fbec1261e8, type: 2}
+    BattleIndex: 1
+    Mobs:
+    - "Mob_Skeleton_Poison_Melee_01"
+    - "Mob_Global_Slayer_01"
+    - "Mob_Skeleton_Tribal_Melee_03"
+    Multipliers:
+      hp: 1.7
+      def: 1.1
+      atk: 1.4
+  - Stage: {fileID: 11400000, guid: 95dc5e4d03f54041a3e770fbec1261e8, type: 2}
+    BattleIndex: 2
+    Mobs:
+    - "Mob_Skeleton_Melee_01"
+    - "Mob_Skeleton_Melee_01"
+    - "Mob_Skeleton_Melee_01"
+    - "Mob_Skeleton_Melee_01"
+    - "Mob_Skeleton_Melee_01"
+    Multipliers:
+      hp: 1.7
+      def: 1.1
+      atk: 1.4
+  - Stage: {fileID: 11400000, guid: 95dc5e4d03f54041a3e770fbec1261e8, type: 2}
+    BattleIndex: 3
+    Mobs:
+    - "Mob_Skeleton_Fire_Melee_01"
+    Multipliers:
+      hp: 1.7
+      def: 1.1
+      atk: 1.4
+  - Stage: {fileID: 11400000, guid: 1b12b6d564e347f2b5b4c62b53ef19b0, type: 2}
+    BattleIndex: 1
+    Mobs:
+    - "Mob_Global_Slayer_01"
+    - "Mob_Global_Slayer_01"
+    - "Mob_Goblin_Ranged_01"
+    Multipliers:
+      hp: 2
+      def: 1.1
+      atk: 1.5
+  - Stage: {fileID: 11400000, guid: 1b12b6d564e347f2b5b4c62b53ef19b0, type: 2}
+    BattleIndex: 2
+    Mobs:
+    - "Mob_Skeleton_Poison_Melee_01"
+    - "Mob_Skeleton_Melee_01"
+    - "Mob_Skeleton_Tribal_Melee_01"
+    - "Mob_Skeleton_Poison_Ranged_01"
+    - "Mob_Skeleton_Tribal_Ranged_01"
+    Multipliers:
+      hp: 2
+      def: 1.1
+      atk: 1.5
+  - Stage: {fileID: 11400000, guid: 1b12b6d564e347f2b5b4c62b53ef19b0, type: 2}
+    BattleIndex: 3
+    Mobs:
+    - "Mob_Global_Slayer_01"
+    - "Mob_Global_Slayer_01"
+    - "Mob_Global_Slayer_01"
+    Multipliers:
+      hp: 2
+      def: 1.1
+      atk: 1.5
+  - Stage: {fileID: 11400000, guid: a5baaba293d04034a1ed5617e4350919, type: 2}
+    BattleIndex: 1
+    Mobs:
+    - "Mob_Skeleton_Melee_02"
+    - "Mob_Global_Slayer_01"
+    - "Mob_Global_Slayer_01"
+    - "Mob_Skeleton_Melee_01"
+    Multipliers:
+      hp: 2.3
+      def: 1.2
+      atk: 1.6
+  - Stage: {fileID: 11400000, guid: a5baaba293d04034a1ed5617e4350919, type: 2}
+    BattleIndex: 2
+    Mobs:
+    - "Mob_Beast_Forest_01"
+    Multipliers:
+      hp: 2.3
+      def: 1.2
+      atk: 1.6
+  - Stage: {fileID: 11400000, guid: a5baaba293d04034a1ed5617e4350919, type: 2}
+    BattleIndex: 3
+    Mobs:
+    - "Mob_Global_Slayer_01"
+    - "Mob_Skeleton_Tribal_Wizard_01"
+    - "Mob_Skeleton_Poison_Ranged_01"
+    Multipliers:
+      hp: 2.3
+      def: 1.2
+      atk: 1.6
+  - Stage: {fileID: 11400000, guid: a5baaba293d04034a1ed5617e4350919, type: 2}
+    BattleIndex: 4
+    Mobs:
+    - "Mob_Berserker_01"
+    Multipliers:
+      hp: 2.3
+      def: 1.2
+      atk: 1.6
+  - Stage: {fileID: 11400000, guid: 06512c7afbbd4c73a5688d58e79e09dc, type: 2}
+    BattleIndex: 1
+    Mobs:
+    - "Mob_Skeleton_Melee_01"
+    - "Mob_Global_Slayer_01"
+    Multipliers:
+      hp: 2.6
+      def: 1.2
+      atk: 1.7
+  - Stage: {fileID: 11400000, guid: 06512c7afbbd4c73a5688d58e79e09dc, type: 2}
+    BattleIndex: 2
+    Mobs:
+    - "Mob_Skeleton_Tribal_Wizard_01"
+    Multipliers:
+      hp: 2.6
+      def: 1.2
+      atk: 1.7
+  - Stage: {fileID: 11400000, guid: 06512c7afbbd4c73a5688d58e79e09dc, type: 2}
+    BattleIndex: 3
+    Mobs:
+    - "Mob_Skeleton_Poison_Ranged_01"
+    - "Mob_Goblin_Melee_01"
+    - "Mob_Global_Slayer_01"
+    - "Mob_Global_Slayer_01"
+    Multipliers:
+      hp: 2.6
+      def: 1.2
+      atk: 1.7
+  - Stage: {fileID: 11400000, guid: 39d9aecb014e4eaf88b01be5ea54bab9, type: 2}
+    BattleIndex: 1
+    Mobs:
+    - "Mob_Global_Slayer_01"
+    - "Mob_Global_Slayer_01"
+    Multipliers:
+      hp: 2.9
+      def: 1.2
+      atk: 1.8
+  - Stage: {fileID: 11400000, guid: 39d9aecb014e4eaf88b01be5ea54bab9, type: 2}
+    BattleIndex: 2
+    Mobs:
+    - "Mob_Skeleton_Poison_Melee_01"
+    - "Mob_Skeleton_Melee_01"
+    - "Mob_Skeleton_Tribal_Ranged_01"
+    Multipliers:
+      hp: 2.9
+      def: 1.2
+      atk: 1.8
+  - Stage: {fileID: 11400000, guid: 39d9aecb014e4eaf88b01be5ea54bab9, type: 2}
+    BattleIndex: 3
+    Mobs:
+    - "Mob_Global_Slayer_01"
+    - "Mob_Goblin_Ranged_01"
+    - "Mob_Global_Slayer_01"
+    - "Mob_Goblin_Melee_01"
+    - "Mob_Goblin_Melee_01"
+    Multipliers:
+      hp: 2.9
+      def: 1.2
+      atk: 1.8
+  - Stage: {fileID: 11400000, guid: 0849c715fe34490fb794d78e9feac8fb, type: 2}
+    BattleIndex: 1
+    Mobs:
+    - "Mob_Skeleton_Melee_02"
+    - "Mob_Skeleton_Melee_02"
+    Multipliers:
+      hp: 3.2
+      def: 1.3
+      atk: 1.9
+  - Stage: {fileID: 11400000, guid: 0849c715fe34490fb794d78e9feac8fb, type: 2}
+    BattleIndex: 2
+    Mobs:
+    - "Mob_Skeleton_Tribal_Wizard_01"
+    - "Mob_Global_Slayer_01"
+    - "Mob_Global_Slayer_01"
+    Multipliers:
+      hp: 3.2
+      def: 1.3
+      atk: 1.9
+  - Stage: {fileID: 11400000, guid: 0849c715fe34490fb794d78e9feac8fb, type: 2}
+    BattleIndex: 3
+    Mobs:
+    - "Mob_Skeleton_Fire_Melee_01"
+    - "Mob_Global_Slayer_01"
+    - "Mob_Global_Slayer_01"
+    Multipliers:
+      hp: 3.2
+      def: 1.3
+      atk: 1.9
+  - Stage: {fileID: 11400000, guid: c3f49ca80d4f4a098f0963358176ae5e, type: 2}
+    BattleIndex: 1
+    Mobs:
+    - "Mob_Skeleton_Melee_02"
+    - "Mob_Skeleton_Melee_02"
+    - "Mob_Skeleton_Melee_01"
+    - "Mob_Skeleton_Melee_01"
+    - "Mob_Skeleton_Melee_01"
+    Multipliers:
+      hp: 3.5
+      def: 1.3
+      atk: 2
+  - Stage: {fileID: 11400000, guid: c3f49ca80d4f4a098f0963358176ae5e, type: 2}
+    BattleIndex: 2
+    Mobs:
+    - "Mob_Beast_Forest_01"
+    Multipliers:
+      hp: 3.5
+      def: 1.3
+      atk: 2
+  - Stage: {fileID: 11400000, guid: c3f49ca80d4f4a098f0963358176ae5e, type: 2}
+    BattleIndex: 3
+    Mobs:
+    - "Mob_Global_Slayer_01"
+    - "Mob_Global_Slayer_01"
+    - "Mob_Global_Slayer_01"
+    Multipliers:
+      hp: 3.5
+      def: 1.3
+      atk: 2
+  - Stage: {fileID: 11400000, guid: c3f49ca80d4f4a098f0963358176ae5e, type: 2}
+    BattleIndex: 4
+    Mobs:
+    - "Mob_Berserker_01"
+    - "Mob_Skeleton_Tribal_Wizard_01"
+    - "Mob_Global_Slayer_01"
+    Multipliers:
+      hp: 3.5
+      def: 1.3
+      atk: 2
+  - Stage: {fileID: 11400000, guid: 881e012463e549afb9dfb9428752c918, type: 2}
+    BattleIndex: 1
+    Mobs:
+    - "Mob_Bandit_Desert_01"
+    - "Mob_Bandit_Desert_01"
+    Multipliers:
+      hp: 3.8
+      def: 1.3
+      atk: 2.1
+  - Stage: {fileID: 11400000, guid: 881e012463e549afb9dfb9428752c918, type: 2}
+    BattleIndex: 2
+    Mobs:
+    - "Mob_Bandit_Desert_01"
+    - "Mob_Bandit_Desert_02"
+    Multipliers:
+      hp: 3.8
+      def: 1.3
+      atk: 2.1
+  - Stage: {fileID: 11400000, guid: 881e012463e549afb9dfb9428752c918, type: 2}
+    BattleIndex: 3
+    Mobs:
+    - "Mob_Bandit_Desert_03"
+    - "Mob_Bandit_Desert_02"
+    - "Mob_Bandit_Desert_01"
+    Multipliers:
+      hp: 3.8
+      def: 1.3
+      atk: 2.1
+  - Stage: {fileID: 11400000, guid: b5ed128b060b49309d682cbe12eae178, type: 2}
+    BattleIndex: 1
+    Mobs:
+    - "Mob_Bandit_Desert_01"
+    - "Mob_Bandit_Desert_01"
+    - "Mob_Bandit_Desert_01"
+    - "Mob_Bandit_Desert_01"
+    Multipliers:
+      hp: 4.1
+      def: 1.4
+      atk: 2.2
+  - Stage: {fileID: 11400000, guid: b5ed128b060b49309d682cbe12eae178, type: 2}
+    BattleIndex: 2
+    Mobs:
+    - "Mob_Skeleton_Tribal_Melee_03"
+    Multipliers:
+      hp: 4.1
+      def: 1.4
+      atk: 2.2
+  - Stage: {fileID: 11400000, guid: b5ed128b060b49309d682cbe12eae178, type: 2}
+    BattleIndex: 3
+    Mobs:
+    - "Mob_Bandit_Desert_04"
+    - "Mob_Bandit_Desert_01"
+    - "Mob_Bandit_Desert_01"
+    Multipliers:
+      hp: 4.1
+      def: 1.4
+      atk: 2.2
+  - Stage: {fileID: 11400000, guid: f19ee0de218e424c9333de6660f77cdf, type: 2}
+    BattleIndex: 1
+    Mobs:
+    - "Mob_Bandit_Desert_03"
+    Multipliers:
+      hp: 4.4
+      def: 1.4
+      atk: 2.3
+  - Stage: {fileID: 11400000, guid: f19ee0de218e424c9333de6660f77cdf, type: 2}
+    BattleIndex: 2
+    Mobs:
+    - "Mob_Bandit_Desert_02"
+    - "Mob_Bandit_Desert_02"
+    - "Mob_Goblin_Ranged_01"
+    Multipliers:
+      hp: 4.4
+      def: 1.4
+      atk: 2.3
+  - Stage: {fileID: 11400000, guid: f19ee0de218e424c9333de6660f77cdf, type: 2}
+    BattleIndex: 3
+    Mobs:
+    - "Mob_Bandit_Desert_04"
+    - "Mob_Skeleton_Tribal_Melee_02"
+    - "Mob_Skeleton_Tribal_Melee_02"
+    Multipliers:
+      hp: 4.4
+      def: 1.4
+      atk: 2.3
+  - Stage: {fileID: 11400000, guid: f19ee0de218e424c9333de6660f77cdf, type: 2}
+    BattleIndex: 4
+    Mobs:
+    - "Mob_Beast_Forest_01"
+    - "Mob_Bandit_Desert_01"
+    Multipliers:
+      hp: 4.4
+      def: 1.4
+      atk: 2.3
+  - Stage: {fileID: 11400000, guid: ea2e80f13fcc46c9ba9a2cea06fcd2c3, type: 2}
+    BattleIndex: 1
+    Mobs:
+    - "Mob_Bandit_Desert_01"
+    - "Mob_Bandit_Desert_02"
+    - "Mob_Bandit_Desert_03"
+    - "Mob_Bandit_Desert_04"
+    Multipliers:
+      hp: 4.7
+      def: 1.4
+      atk: 2.4
+  - Stage: {fileID: 11400000, guid: ea2e80f13fcc46c9ba9a2cea06fcd2c3, type: 2}
+    BattleIndex: 2
+    Mobs:
+    - "Mob_Goblin_Ranged_01"
+    - "Mob_Goblin_Melee_01"
+    Multipliers:
+      hp: 4.7
+      def: 1.4
+      atk: 2.4
+  - Stage: {fileID: 11400000, guid: ea2e80f13fcc46c9ba9a2cea06fcd2c3, type: 2}
+    BattleIndex: 3
+    Mobs:
+    - "Mob_Skeleton_Fire_Melee_01"
+    - "Mob_Bandit_Desert_01"
+    - "Mob_Bandit_Desert_02"
+    Multipliers:
+      hp: 4.7
+      def: 1.4
+      atk: 2.4
+  - Stage: {fileID: 11400000, guid: 5231cc418c0f4796aca1dbde56ffe529, type: 2}
+    BattleIndex: 1
+    Mobs:
+    - "Mob_Bandit_Desert_01"
+    Multipliers:
+      hp: 5
+      def: 1.5
+      atk: 2.5
+  - Stage: {fileID: 11400000, guid: 5231cc418c0f4796aca1dbde56ffe529, type: 2}
+    BattleIndex: 2
+    Mobs:
+    - "Mob_Goblin_Ranged_01"
+    - "Mob_Bandit_Desert_03"
+    - "Mob_Skeleton_Melee_01"
+    - "Mob_Skeleton_Tribal_Ranged_01"
+    Multipliers:
+      hp: 5
+      def: 1.5
+      atk: 2.5
+  - Stage: {fileID: 11400000, guid: 5231cc418c0f4796aca1dbde56ffe529, type: 2}
+    BattleIndex: 3
+    Mobs:
+    - "Mob_Skeleton_Fire_Melee_01"
+    Multipliers:
+      hp: 5
+      def: 1.5
+      atk: 2.5
+  - Stage: {fileID: 11400000, guid: 5231cc418c0f4796aca1dbde56ffe529, type: 2}
+    BattleIndex: 4
+    Mobs:
+    - "Mob_Bandit_Desert_04"
+    - "Mob_Skeleton_Tribal_Wizard_01"
+    - "Mob_Skeleton_Tribal_Wizard_01"
+    Multipliers:
+      hp: 5
+      def: 1.5
+      atk: 2.5
+  - Stage: {fileID: 11400000, guid: 5231cc418c0f4796aca1dbde56ffe529, type: 2}
+    BattleIndex: 5
+    Mobs:
+    - "Mob_Worm_01"
+    Multipliers:
+      hp: 5
+      def: 1.5
+      atk: 2.5
+  - Stage: {fileID: 11400000, guid: adc8feca6710414baa114afc681c0463, type: 2}
+    BattleIndex: 1
+    Mobs:
+    - "Mob_Bandit_Desert_01"
+    - "Mob_Bandit_Desert_01"
+    - "Mob_Bandit_Desert_01"
+    Multipliers:
+      hp: 5.3
+      def: 1.5
+      atk: 2.6
+  - Stage: {fileID: 11400000, guid: adc8feca6710414baa114afc681c0463, type: 2}
+    BattleIndex: 2
+    Mobs:
+    - "Mob_Bandit_Desert_04"
+    Multipliers:
+      hp: 5.3
+      def: 1.5
+      atk: 2.6
+  - Stage: {fileID: 11400000, guid: adc8feca6710414baa114afc681c0463, type: 2}
+    BattleIndex: 3
+    Mobs:
+    - "Mob_Bandit_Desert_03"
+    - "Mob_Goblin_Melee_01"
+    - "Mob_Goblin_Melee_01"
+    Multipliers:
+      hp: 5.3
+      def: 1.5
+      atk: 2.6
+  - Stage: {fileID: 11400000, guid: 4d727cc76c9b4737b1a3b17fc05e12ca, type: 2}
+    BattleIndex: 1
+    Mobs:
+    - "Mob_Bandit_Desert_01"
+    - "Mob_Bandit_Desert_01"
+    - "Mob_Bandit_Desert_01"
+    - "Mob_Bandit_Desert_01"
+    Multipliers:
+      hp: 5.6
+      def: 1.5
+      atk: 2.7
+  - Stage: {fileID: 11400000, guid: 4d727cc76c9b4737b1a3b17fc05e12ca, type: 2}
+    BattleIndex: 2
+    Mobs:
+    - "Mob_Skeleton_Fire_Melee_01"
+    Multipliers:
+      hp: 5.6
+      def: 1.5
+      atk: 2.7
+  - Stage: {fileID: 11400000, guid: 4d727cc76c9b4737b1a3b17fc05e12ca, type: 2}
+    BattleIndex: 3
+    Mobs:
+    - "Mob_Skeleton_Tribal_Melee_03"
+    - "Mob_Skeleton_Tribal_Ranged_01"
+    - "Mob_Skeleton_Tribal_Wizard_01"
+    - "Mob_Skeleton_Tribal_Melee_03"
+    Multipliers:
+      hp: 5.6
+      def: 1.5
+      atk: 2.7
+  - Stage: {fileID: 11400000, guid: fa5f0a8d76804cb5b35d2cea3c2c6a04, type: 2}
+    BattleIndex: 1
+    Mobs:
+    - "Mob_Bandit_Desert_02"
+    - "Mob_Bandit_Desert_02"
+    Multipliers:
+      hp: 5.9
+      def: 1.5
+      atk: 2.8
+  - Stage: {fileID: 11400000, guid: fa5f0a8d76804cb5b35d2cea3c2c6a04, type: 2}
+    BattleIndex: 2
+    Mobs:
+    - "Mob_Bandit_Desert_01"
+    - "Mob_Bandit_Desert_02"
+    - "Mob_Bandit_Desert_03"
+    - "Mob_Bandit_Desert_04"
+    Multipliers:
+      hp: 5.9
+      def: 1.5
+      atk: 2.8
+  - Stage: {fileID: 11400000, guid: fa5f0a8d76804cb5b35d2cea3c2c6a04, type: 2}
+    BattleIndex: 3
+    Mobs:
+    - "Mob_Bandit_Desert_04"
+    - "Mob_Skeleton_Poison_Melee_01"
+    - "Mob_Skeleton_Poison_Ranged_01"
+    - "Mob_Goblin_Melee_01"
+    Multipliers:
+      hp: 5.9
+      def: 1.5
+      atk: 2.8
+  - Stage: {fileID: 11400000, guid: fa5f0a8d76804cb5b35d2cea3c2c6a04, type: 2}
+    BattleIndex: 4
+    Mobs:
+    - "Mob_Skeleton_Fire_Melee_01"
+    - "Mob_Bandit_Desert_04"
+    Multipliers:
+      hp: 5.9
+      def: 1.5
+      atk: 2.8
+  - Stage: {fileID: 11400000, guid: c65ded5c5014459bbece2d52ae5771c3, type: 2}
+    BattleIndex: 1
+    Mobs:
+    - "Mob_Bandit_Desert_01"
+    - "Mob_Bandit_Desert_02"
+    Multipliers:
+      hp: 6.2
+      def: 1.5
+      atk: 2.9
+  - Stage: {fileID: 11400000, guid: c65ded5c5014459bbece2d52ae5771c3, type: 2}
+    BattleIndex: 2
+    Mobs:
+    - "Mob_Goblin_Ranged_01"
+    - "Mob_Goblin_Melee_01"
+    - "Mob_Goblin_Ranged_01"
+    - "Mob_Goblin_Melee_01"
+    Multipliers:
+      hp: 6.2
+      def: 1.5
+      atk: 2.9
+  - Stage: {fileID: 11400000, guid: c65ded5c5014459bbece2d52ae5771c3, type: 2}
+    BattleIndex: 3
+    Mobs:
+    - "Mob_Worm_01"
+    - "Mob_Skeleton_Tribal_Ranged_01"
+    - "Mob_Skeleton_Tribal_Wizard_01"
+    Multipliers:
+      hp: 6.2
+      def: 1.5
+      atk: 2.9
+  - Stage: {fileID: 11400000, guid: 8f5195cc2db5471a870148a1eb32d868, type: 2}
+    BattleIndex: 1
+    Mobs:
+    - "Mob_Bandit_Desert_04"
+    Multipliers:
+      hp: 6.5
+      def: 1.6
+      atk: 3
+  - Stage: {fileID: 11400000, guid: 8f5195cc2db5471a870148a1eb32d868, type: 2}
+    BattleIndex: 2
+    Mobs:
+    - "Mob_Skeleton_Tribal_Wizard_01"
+    - "Mob_Bandit_Desert_03"
+    - "Mob_Skeleton_Melee_01"
+    - "Mob_Skeleton_Tribal_Ranged_01"
+    Multipliers:
+      hp: 6.5
+      def: 1.6
+      atk: 3
+  - Stage: {fileID: 11400000, guid: 8f5195cc2db5471a870148a1eb32d868, type: 2}
+    BattleIndex: 3
+    Mobs:
+    - "Mob_Bandit_Desert_02"
+    Multipliers:
+      hp: 6.5
+      def: 1.6
+      atk: 3
+  - Stage: {fileID: 11400000, guid: 8f5195cc2db5471a870148a1eb32d868, type: 2}
+    BattleIndex: 4
+    Mobs:
+    - "Mob_Bandit_Desert_04"
+    - "Mob_Skeleton_Poison_Ranged_01"
+    Multipliers:
+      hp: 6.5
+      def: 1.6
+      atk: 3
+  - Stage: {fileID: 11400000, guid: 8f5195cc2db5471a870148a1eb32d868, type: 2}
+    BattleIndex: 5
+    Mobs:
+    - "Mob_Beast_Forest_01"
+    - "Mob_Beast_Forest_01"
+    Multipliers:
+      hp: 6.5
+      def: 1.6
+      atk: 3
+  - Stage: {fileID: 11400000, guid: 6158e6f16c514978af6ea17bb0b65b14, type: 2}
+    BattleIndex: 1
+    Mobs:
+    - "Mob_Bandit_Desert_01"
+    Multipliers:
+      hp: 6.8
+      def: 1.6
+      atk: 3.1
+  - Stage: {fileID: 11400000, guid: 6158e6f16c514978af6ea17bb0b65b14, type: 2}
+    BattleIndex: 2
+    Mobs:
+    - "Mob_Bandit_Desert_04"
+    - "Mob_Bandit_Desert_04"
+    Multipliers:
+      hp: 6.8
+      def: 1.6
+      atk: 3.1
+  - Stage: {fileID: 11400000, guid: 6158e6f16c514978af6ea17bb0b65b14, type: 2}
+    BattleIndex: 3
+    Mobs:
+    - "Mob_Bandit_Desert_03"
+    - "Mob_Goblin_Melee_01"
+    - "Mob_Goblin_Melee_01"
+    - "Mob_Goblin_Ranged_01"
+    - "Mob_Skeleton_Melee_01"
+    Multipliers:
+      hp: 6.8
+      def: 1.6
+      atk: 3.1
+  - Stage: {fileID: 11400000, guid: e5406038b93a4e7ab0ff1eee7dfe8ee3, type: 2}
+    BattleIndex: 1
+    Mobs:
+    - "Mob_Bandit_Desert_02"
+    - "Mob_Bandit_Desert_02"
+    - "Mob_Bandit_Desert_02"
+    Multipliers:
+      hp: 7.1
+      def: 1.6
+      atk: 3.2
+  - Stage: {fileID: 11400000, guid: e5406038b93a4e7ab0ff1eee7dfe8ee3, type: 2}
+    BattleIndex: 2
+    Mobs:
+    - "Mob_Skeleton_Melee_02"
+    Multipliers:
+      hp: 7.1
+      def: 1.6
+      atk: 3.2
+  - Stage: {fileID: 11400000, guid: e5406038b93a4e7ab0ff1eee7dfe8ee3, type: 2}
+    BattleIndex: 3
+    Mobs:
+    - "Mob_Bandit_Desert_01"
+    - "Mob_Bandit_Desert_02"
+    - "Mob_Bandit_Desert_03"
+    - "Mob_Bandit_Desert_04"
+    Multipliers:
+      hp: 7.1
+      def: 1.6
+      atk: 3.2
+  - Stage: {fileID: 11400000, guid: 8d6f547da51f4775866bbfafd4d89491, type: 2}
+    BattleIndex: 1
+    Mobs:
+    - "Mob_Bandit_Desert_03"
+    Multipliers:
+      hp: 7.4
+      def: 1.6
+      atk: 3.3
+  - Stage: {fileID: 11400000, guid: 8d6f547da51f4775866bbfafd4d89491, type: 2}
+    BattleIndex: 2
+    Mobs:
+    - "Mob_Skeleton_Tribal_Wizard_01"
+    - "Mob_Bandit_Desert_03"
+    - "Mob_Bandit_Desert_03"
+    - "Mob_Skeleton_Tribal_Wizard_01"
+    Multipliers:
+      hp: 7.4
+      def: 1.6
+      atk: 3.3
+  - Stage: {fileID: 11400000, guid: 8d6f547da51f4775866bbfafd4d89491, type: 2}
+    BattleIndex: 3
+    Mobs:
+    - "Mob_Bandit_Desert_04"
+    Multipliers:
+      hp: 7.4
+      def: 1.6
+      atk: 3.3
+  - Stage: {fileID: 11400000, guid: 8d6f547da51f4775866bbfafd4d89491, type: 2}
+    BattleIndex: 4
+    Mobs:
+    - "Mob_Worm_01"
+    - "Mob_Bandit_Desert_01"
+    - "Mob_Bandit_Desert_01"
+    Multipliers:
+      hp: 7.4
+      def: 1.6
+      atk: 3.3
+  - Stage: {fileID: 11400000, guid: ebb449c8e5774aa483554a4936d9cb60, type: 2}
+    BattleIndex: 1
+    Mobs:
+    - "Mob_Bandit_Desert_03"
+    - "Mob_Bandit_Desert_03"
+    - "Mob_Skeleton_Tribal_Ranged_01"
+    Multipliers:
+      hp: 7.7
+      def: 1.6
+      atk: 3.4
+  - Stage: {fileID: 11400000, guid: ebb449c8e5774aa483554a4936d9cb60, type: 2}
+    BattleIndex: 2
+    Mobs:
+    - "Mob_Goblin_Melee_01"
+    Multipliers:
+      hp: 7.7
+      def: 1.6
+      atk: 3.4
+  - Stage: {fileID: 11400000, guid: ebb449c8e5774aa483554a4936d9cb60, type: 2}
+    BattleIndex: 3
+    Mobs:
+    - "Mob_Skeleton_Tribal_Melee_01"
+    - "Mob_Skeleton_Tribal_Melee_02"
+    - "Mob_Skeleton_Tribal_Melee_03"
+    - "Mob_Skeleton_Tribal_Ranged_01"
+    - "Mob_Skeleton_Tribal_Wizard_01"
+    Multipliers:
+      hp: 7.7
+      def: 1.6
+      atk: 3.4
+  - Stage: {fileID: 11400000, guid: a52e32c5df5f41a69e4dba1044dcc553, type: 2}
+    BattleIndex: 1
+    Mobs:
+    - "Mob_Bandit_Desert_02"
+    - "Mob_Bandit_Desert_03"
+    - "Mob_Bandit_Desert_04"
+    Multipliers:
+      hp: 8
+      def: 1.7
+      atk: 3.5
+  - Stage: {fileID: 11400000, guid: a52e32c5df5f41a69e4dba1044dcc553, type: 2}
+    BattleIndex: 2
+    Mobs:
+    - "Mob_Skeleton_Poison_Ranged_01"
+    - "Mob_Bandit_Desert_02"
+    - "Mob_Bandit_Desert_01"
+    Multipliers:
+      hp: 8
+      def: 1.7
+      atk: 3.5
+  - Stage: {fileID: 11400000, guid: a52e32c5df5f41a69e4dba1044dcc553, type: 2}
+    BattleIndex: 3
+    Mobs:
+    - "Mob_Bandit_Desert_04"
+    - "Mob_Skeleton_Melee_01"
+    Multipliers:
+      hp: 8
+      def: 1.7
+      atk: 3.5
+  - Stage: {fileID: 11400000, guid: a52e32c5df5f41a69e4dba1044dcc553, type: 2}
+    BattleIndex: 4
+    Mobs:
+    - "Mob_Skeleton_Fire_Melee_01"
+    Multipliers:
+      hp: 8
+      def: 1.7
+      atk: 3.5
+  - Stage: {fileID: 11400000, guid: a52e32c5df5f41a69e4dba1044dcc553, type: 2}
+    BattleIndex: 5
+    Mobs:
+    - "Mob_Worm_01"
+    - "Mob_Worm_01"
+    Multipliers:
+      hp: 8
+      def: 1.7
+      atk: 3.5
+  playerLevelData:
+  - Level: 1
+    ExpTotal: 0
+    BaseStats:
+      HP: 10
+      Def: 0
+      Rcv: 2
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 2
+    ExpTotal: 20
+    BaseStats:
+      HP: 20
+      Def: 0
+      Rcv: 4
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 3
+    ExpTotal: 50
+    BaseStats:
+      HP: 30
+      Def: 0
+      Rcv: 6
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 4
+    ExpTotal: 90
+    BaseStats:
+      HP: 40
+      Def: 0
+      Rcv: 8
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 5
+    ExpTotal: 150
+    BaseStats:
+      HP: 50
+      Def: 0
+      Rcv: 10
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 6
+    ExpTotal: 240
+    BaseStats:
+      HP: 60
+      Def: 0
+      Rcv: 12
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 7
+    ExpTotal: 360
+    BaseStats:
+      HP: 70
+      Def: 0
+      Rcv: 14
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 8
+    ExpTotal: 510
+    BaseStats:
+      HP: 80
+      Def: 0
+      Rcv: 16
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 9
+    ExpTotal: 700
+    BaseStats:
+      HP: 90
+      Def: 0
+      Rcv: 18
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 10
+    ExpTotal: 940
+    BaseStats:
+      HP: 100
+      Def: 0
+      Rcv: 20
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 11
+    ExpTotal: 1230
+    BaseStats:
+      HP: 110
+      Def: 0
+      Rcv: 22
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 12
+    ExpTotal: 1570
+    BaseStats:
+      HP: 120
+      Def: 0
+      Rcv: 24
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 13
+    ExpTotal: 1970
+    BaseStats:
+      HP: 130
+      Def: 0
+      Rcv: 26
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 14
+    ExpTotal: 2430
+    BaseStats:
+      HP: 140
+      Def: 0
+      Rcv: 28
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 15
+    ExpTotal: 2960
+    BaseStats:
+      HP: 150
+      Def: 0
+      Rcv: 30
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 16
+    ExpTotal: 3570
+    BaseStats:
+      HP: 160
+      Def: 0
+      Rcv: 32
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 17
+    ExpTotal: 4250
+    BaseStats:
+      HP: 170
+      Def: 0
+      Rcv: 34
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 18
+    ExpTotal: 5020
+    BaseStats:
+      HP: 180
+      Def: 0
+      Rcv: 36
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 19
+    ExpTotal: 5870
+    BaseStats:
+      HP: 190
+      Def: 0
+      Rcv: 38
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 20
+    ExpTotal: 6820
+    BaseStats:
+      HP: 200
+      Def: 0
+      Rcv: 40
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 21
+    ExpTotal: 7860
+    BaseStats:
+      HP: 210
+      Def: 0
+      Rcv: 42
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 22
+    ExpTotal: 9000
+    BaseStats:
+      HP: 220
+      Def: 0
+      Rcv: 44
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 23
+    ExpTotal: 10250
+    BaseStats:
+      HP: 230
+      Def: 0
+      Rcv: 46
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 24
+    ExpTotal: 11610
+    BaseStats:
+      HP: 240
+      Def: 0
+      Rcv: 48
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 25
+    ExpTotal: 13090
+    BaseStats:
+      HP: 250
+      Def: 0
+      Rcv: 50
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 26
+    ExpTotal: 14680
+    BaseStats:
+      HP: 260
+      Def: 0
+      Rcv: 52
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 27
+    ExpTotal: 16400
+    BaseStats:
+      HP: 270
+      Def: 0
+      Rcv: 54
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 28
+    ExpTotal: 18250
+    BaseStats:
+      HP: 280
+      Def: 0
+      Rcv: 56
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 29
+    ExpTotal: 20230
+    BaseStats:
+      HP: 290
+      Def: 0
+      Rcv: 58
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 30
+    ExpTotal: 22350
+    BaseStats:
+      HP: 300
+      Def: 0
+      Rcv: 60
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 31
+    ExpTotal: 24610
+    BaseStats:
+      HP: 310
+      Def: 0
+      Rcv: 62
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 32
+    ExpTotal: 27020
+    BaseStats:
+      HP: 320
+      Def: 0
+      Rcv: 64
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 33
+    ExpTotal: 29580
+    BaseStats:
+      HP: 330
+      Def: 0
+      Rcv: 66
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 34
+    ExpTotal: 32290
+    BaseStats:
+      HP: 340
+      Def: 0
+      Rcv: 68
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 35
+    ExpTotal: 35160
+    BaseStats:
+      HP: 350
+      Def: 0
+      Rcv: 70
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 36
+    ExpTotal: 38190
+    BaseStats:
+      HP: 360
+      Def: 0
+      Rcv: 72
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 37
+    ExpTotal: 41390
+    BaseStats:
+      HP: 370
+      Def: 0
+      Rcv: 74
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 38
+    ExpTotal: 44760
+    BaseStats:
+      HP: 380
+      Def: 0
+      Rcv: 76
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 39
+    ExpTotal: 48310
+    BaseStats:
+      HP: 390
+      Def: 0
+      Rcv: 78
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 40
+    ExpTotal: 52040
+    BaseStats:
+      HP: 400
+      Def: 0
+      Rcv: 80
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 41
+    ExpTotal: 55960
+    BaseStats:
+      HP: 410
+      Def: 0
+      Rcv: 82
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 42
+    ExpTotal: 60060
+    BaseStats:
+      HP: 420
+      Def: 0
+      Rcv: 84
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 43
+    ExpTotal: 64360
+    BaseStats:
+      HP: 430
+      Def: 0
+      Rcv: 86
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 44
+    ExpTotal: 68860
+    BaseStats:
+      HP: 440
+      Def: 0
+      Rcv: 88
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 45
+    ExpTotal: 73560
+    BaseStats:
+      HP: 450
+      Def: 0
+      Rcv: 90
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 46
+    ExpTotal: 78460
+    BaseStats:
+      HP: 460
+      Def: 0
+      Rcv: 92
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 47
+    ExpTotal: 83570
+    BaseStats:
+      HP: 470
+      Def: 0
+      Rcv: 94
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 48
+    ExpTotal: 88900
+    BaseStats:
+      HP: 480
+      Def: 0
+      Rcv: 96
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 49
+    ExpTotal: 94440
+    BaseStats:
+      HP: 490
+      Def: 0
+      Rcv: 98
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 50
+    ExpTotal: 100210
+    BaseStats:
+      HP: 500
+      Def: 0
+      Rcv: 100
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 51
+    ExpTotal: 106200
+    BaseStats:
+      HP: 510
+      Def: 0
+      Rcv: 102
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 52
+    ExpTotal: 112420
+    BaseStats:
+      HP: 520
+      Def: 0
+      Rcv: 104
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 53
+    ExpTotal: 118880
+    BaseStats:
+      HP: 530
+      Def: 0
+      Rcv: 106
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 54
+    ExpTotal: 125570
+    BaseStats:
+      HP: 540
+      Def: 0
+      Rcv: 108
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 55
+    ExpTotal: 132510
+    BaseStats:
+      HP: 550
+      Def: 0
+      Rcv: 110
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 56
+    ExpTotal: 139690
+    BaseStats:
+      HP: 560
+      Def: 0
+      Rcv: 112
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 57
+    ExpTotal: 147120
+    BaseStats:
+      HP: 570
+      Def: 0
+      Rcv: 114
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 58
+    ExpTotal: 154810
+    BaseStats:
+      HP: 580
+      Def: 0
+      Rcv: 116
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 59
+    ExpTotal: 162750
+    BaseStats:
+      HP: 590
+      Def: 0
+      Rcv: 118
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 60
+    ExpTotal: 170950
+    BaseStats:
+      HP: 600
+      Def: 0
+      Rcv: 120
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 61
+    ExpTotal: 179420
+    BaseStats:
+      HP: 610
+      Def: 0
+      Rcv: 122
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 62
+    ExpTotal: 188160
+    BaseStats:
+      HP: 620
+      Def: 0
+      Rcv: 124
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 63
+    ExpTotal: 197170
+    BaseStats:
+      HP: 630
+      Def: 0
+      Rcv: 126
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 64
+    ExpTotal: 206460
+    BaseStats:
+      HP: 640
+      Def: 0
+      Rcv: 128
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 65
+    ExpTotal: 216030
+    BaseStats:
+      HP: 650
+      Def: 0
+      Rcv: 130
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 66
+    ExpTotal: 225880
+    BaseStats:
+      HP: 660
+      Def: 0
+      Rcv: 132
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 67
+    ExpTotal: 236020
+    BaseStats:
+      HP: 670
+      Def: 0
+      Rcv: 134
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 68
+    ExpTotal: 246450
+    BaseStats:
+      HP: 680
+      Def: 0
+      Rcv: 136
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 69
+    ExpTotal: 257180
+    BaseStats:
+      HP: 690
+      Def: 0
+      Rcv: 138
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 70
+    ExpTotal: 268210
+    BaseStats:
+      HP: 700
+      Def: 0
+      Rcv: 140
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 71
+    ExpTotal: 279540
+    BaseStats:
+      HP: 710
+      Def: 0
+      Rcv: 142
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 72
+    ExpTotal: 291180
+    BaseStats:
+      HP: 720
+      Def: 0
+      Rcv: 144
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 73
+    ExpTotal: 303130
+    BaseStats:
+      HP: 730
+      Def: 0
+      Rcv: 146
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 74
+    ExpTotal: 315390
+    BaseStats:
+      HP: 740
+      Def: 0
+      Rcv: 148
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 75
+    ExpTotal: 327970
+    BaseStats:
+      HP: 750
+      Def: 0
+      Rcv: 150
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 76
+    ExpTotal: 340870
+    BaseStats:
+      HP: 760
+      Def: 0
+      Rcv: 152
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 77
+    ExpTotal: 354100
+    BaseStats:
+      HP: 770
+      Def: 0
+      Rcv: 154
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 78
+    ExpTotal: 367650
+    BaseStats:
+      HP: 780
+      Def: 0
+      Rcv: 156
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 79
+    ExpTotal: 381540
+    BaseStats:
+      HP: 790
+      Def: 0
+      Rcv: 158
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 80
+    ExpTotal: 395760
+    BaseStats:
+      HP: 800
+      Def: 0
+      Rcv: 160
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 81
+    ExpTotal: 410320
+    BaseStats:
+      HP: 810
+      Def: 0
+      Rcv: 162
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 82
+    ExpTotal: 425220
+    BaseStats:
+      HP: 820
+      Def: 0
+      Rcv: 164
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 83
+    ExpTotal: 440470
+    BaseStats:
+      HP: 830
+      Def: 0
+      Rcv: 166
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 84
+    ExpTotal: 456070
+    BaseStats:
+      HP: 840
+      Def: 0
+      Rcv: 168
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 85
+    ExpTotal: 472020
+    BaseStats:
+      HP: 850
+      Def: 0
+      Rcv: 170
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 86
+    ExpTotal: 488330
+    BaseStats:
+      HP: 860
+      Def: 0
+      Rcv: 172
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 87
+    ExpTotal: 505000
+    BaseStats:
+      HP: 870
+      Def: 0
+      Rcv: 174
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 88
+    ExpTotal: 522030
+    BaseStats:
+      HP: 880
+      Def: 0
+      Rcv: 176
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 89
+    ExpTotal: 539430
+    BaseStats:
+      HP: 890
+      Def: 0
+      Rcv: 178
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 90
+    ExpTotal: 557200
+    BaseStats:
+      HP: 900
+      Def: 0
+      Rcv: 180
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 91
+    ExpTotal: 575340
+    BaseStats:
+      HP: 910
+      Def: 0
+      Rcv: 182
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 92
+    ExpTotal: 593860
+    BaseStats:
+      HP: 920
+      Def: 0
+      Rcv: 184
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 93
+    ExpTotal: 612760
+    BaseStats:
+      HP: 930
+      Def: 0
+      Rcv: 186
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 94
+    ExpTotal: 632050
+    BaseStats:
+      HP: 940
+      Def: 0
+      Rcv: 188
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 95
+    ExpTotal: 651720
+    BaseStats:
+      HP: 950
+      Def: 0
+      Rcv: 190
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 96
+    ExpTotal: 671780
+    BaseStats:
+      HP: 960
+      Def: 0
+      Rcv: 192
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 97
+    ExpTotal: 692240
+    BaseStats:
+      HP: 970
+      Def: 0
+      Rcv: 194
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 98
+    ExpTotal: 713090
+    BaseStats:
+      HP: 980
+      Def: 0
+      Rcv: 196
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 99
+    ExpTotal: 734340
+    BaseStats:
+      HP: 990
+      Def: 0
+      Rcv: 198
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+  - Level: 100
+    ExpTotal: 756000
+    BaseStats:
+      HP: 1000
+      Def: 0
+      Rcv: 200
+      Mel: 0
+      Rng: 0
+      Hrm: 0
+      Prm: 0
+      Vd: 0
+--- !u!114 &1791314571327814623
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1791314569431989210}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0845d38f5dcae759e301ea907e9f927b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1791314571327814624
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1791314569431989210}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3ad55289d6763dbd2b9c09cbeda6b81, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sequence:
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: dfc10907598c4ffc948d6587fa130feb, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fa31ebe9ea7449e7a7a711384e5767fa, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: dfc10907598c4ffc948d6587fa130feb, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: dfc10907598c4ffc948d6587fa130feb, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fa31ebe9ea7449e7a7a711384e5767fa, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fa31ebe9ea7449e7a7a711384e5767fa, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: dfc10907598c4ffc948d6587fa130feb, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fa31ebe9ea7449e7a7a711384e5767fa, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: fba0f9b060a6486cbae35bb62fdbd134, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+  - Chest: {fileID: 11400000, guid: 501c0c9669a04173a3a471e31473e272, type: 2}
+--- !u!114 &1791314571327814625
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1791314569431989210}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8d4198d336576e9220d16e18e563c63, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  workbook: "Assets\x2fbalance.xlsx"
+  assetsPath: "Assets\x2fResources\x2fMeta"
+  resourcesPath: "Meta"
+--- !u!114 &1791314571327814626
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1791314569431989210}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aedc192972efeca976064983604f6436, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1791314571327814627
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1791314569431989210}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b87474850e8f28ece71c07a8b928519a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scrollArmory: 1
+  showAttacStats: 0
+--- !u!114 &1791314571327814628
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1791314569431989210}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9abd2569067623abb5e71ac146152912, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bkgByRarity:
+  - {fileID: 21300002, guid: 34c62871a4de4ff091f04e3b4791e843, type: 3}
+  - {fileID: 21300006, guid: 34c62871a4de4ff091f04e3b4791e843, type: 3}
+  - {fileID: 21300004, guid: 34c62871a4de4ff091f04e3b4791e843, type: 3}
+  - {fileID: 21300000, guid: 34c62871a4de4ff091f04e3b4791e843, type: 3}
+  bkgLvlByRarity:
+  - {fileID: 21300000, guid: 0a830b641229405194f0c0b7005f250c, type: 3}
+  - {fileID: 21300002, guid: 0a830b641229405194f0c0b7005f250c, type: 3}
+  - {fileID: 21300004, guid: 0a830b641229405194f0c0b7005f250c, type: 3}
+  - {fileID: 21300006, guid: 0a830b641229405194f0c0b7005f250c, type: 3}
+  textColorByRarity:
+  - {r: 0.9411765, g: 0.9411765, b: 0.9411765, a: 1}
+  - {r: 1, g: 1, b: 0.6196079, a: 1}
+  - {r: 0.9215686, g: 0.7843137, b: 0.9882353, a: 1}
+  - {r: 0.9852941, g: 0.9207902, b: 0.6375433, a: 1}
+  iconSlotIcon:
+  - {fileID: 21300000, guid: dde1a15630b846bf9734a9bc89ee6e37, type: 3}
+  - {fileID: 21300000, guid: 8ada57cdf8544c4bbc27865dd5d0c069, type: 3}
+  - {fileID: 21300000, guid: 1ec82cfb0e314d4da32623bb44c96d02, type: 3}
+  - {fileID: 21300000, guid: 093471c355674e6f8c9dc395e9f3982d, type: 3}
+  - {fileID: 21300000, guid: e371cc8b4db9497eae908b9c207e9db1, type: 3}
+  - {fileID: 21300000, guid: 71a0a37c48004dcb92dda1a057ca12d7, type: 3}
+  - {fileID: 21300000, guid: 7fe01671e27a43969b4fcff2ec03a6bb, type: 3}
+  - {fileID: 21300000, guid: 3a9f42b5d1544016a8b3aa64b4f2c785, type: 3}
+  questionMarkIcon: {fileID: 21300000, guid: af3fba09d9204f08a7168f67d5c73b0c, type: 3}
+  elitarismByRarity: 
+  - 1
+  - 10
+  - 100
+  - 2000
+  shopUnlockLevel: 2
+  pvpUnlockLevel: 99
+  guildsUnlockLevel: 99

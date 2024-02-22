@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de5cf7cfb78b73aecdeb0ccf7459c267, type: 3}
+  m_Name: "ChestContent_Forest_L01_S02"
+  m_EditorClassIdentifier: 
+  entries:
+  - metaObject: {fileID: 11400000, guid: 558c98d41c7146cc9780abde5fc0e4c5, type: 2}
+    count: 12
+  - metaObject: {fileID: 11400000, guid: 4f2496bf732c4fadbf5ff2ed92c37a41, type: 2}
+    count: 1
+  - metaObject: {fileID: 11400000, guid: d6a585a2b3794297bc9191237093d549, type: 2}
+    count: 1
+  - metaObject: {fileID: 11400000, guid: 1f9632ca5fc34b2da698c916350f2a74, type: 2}
+    count: 1

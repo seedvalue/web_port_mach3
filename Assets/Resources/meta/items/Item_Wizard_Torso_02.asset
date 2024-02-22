@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd027e2971dbb65a9c6966c0b5a12fde, type: 3}
+  m_Name: "Item_Wizard_Torso_02"
+  m_EditorClassIdentifier: 
+  displayName: "Omnimagic Robe"
+  icon: {fileID: 21300010, guid: 64eaefb036fb456a9b7e37793d6e7a22, type: 3}
+  rarity: 1
+  itemType: 5
+  itemClass: 0
+  perks: []
+  skill: {fileID: 11400000, guid: 046d981477954cb68240bf651b8646a9, type: 2}
+  description: 
+  vis3D: {fileID: 1791314569431989279, guid: 33cfdd505c362be4e84719cd4866905a, type: 2}
+  headVariant: 0
+  availableSoon: 0
+  baseStats:
+    HP: 1000
+    Def: 30
+    Rcv: 60
+    Mel: 0
+    Rng: 0
+    Hrm: 0
+    Prm: 0
+    Vd: 0
+  basePercentStats:
+    HP: 0
+    Def: 0
+    Rcv: 0
+    Mel: 0
+    Rng: 10
+    Hrm: 10
+    Prm: 10
+    Vd: 10

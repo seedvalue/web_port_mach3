@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd2aaad5a7dd78cc48505dae757f60b5, type: 3}
+  m_Name: "Chest_Huge"
+  m_EditorClassIdentifier: 
+  displayName: "Huge Chest"
+  icon: {fileID: 21300014, guid: c3a83fc073f24d4187a2a49c340300fa, type: 3}
+  vis3D: {fileID: 1791314569431989221, guid: 979df80a3c8d5e94095a678cdc4f72d1, type: 2}
+  forcedInSequence: 0
+  openTimeHours: 12
+  openGems: 72
+  priceMul: 5.23
+  goldMul: 25
+  cardMul: 14
+  rareMul: 1.5
+  epicMul: 0.2
+  legendMul: 0.2
+  goldXMul: 1
+  goldDisp: 5
+  goldBase: 1.05
+  goldDiv: 0.2
+  cardXMul: 0.1
+  cardDisp: 1.5
+  cardBase: 1.1
+  rareProb: 0.1
+  epicProb: 0.01
+  legendProb: 0.001

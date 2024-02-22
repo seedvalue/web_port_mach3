@@ -1,0 +1,283 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!4 &1791314569482320859
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1791314569431989210}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1791314569431989210
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1791314569482320859}
+  - component: {fileID: 1791314571327814621}
+  - component: {fileID: 1791314571327814620}
+  m_Layer: 0
+  m_Name: "EffectOnHarmony"
+  m_TagString:
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1791314571327814620
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1791314569431989210}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a24dbef9db4e7d385b47871a24ee8640, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fxPrefabOnHitMob: {fileID: 1791314569431989218, guid: 8d4ac38dc5486484db11d35452117592, type: 2}
+  sfxOnHitMob: {fileID: 11400000, guid: ea1e53a63ad840afabbffa9be3326586, type: 2}
+  fxOnNoTarget:
+    fxPrefab: {fileID: 1791314569431989216, guid: b8bf1a6f78b03cf469d42c860b094720, type: 2}
+    posFromPlayer: {x: 0, y: 1.5, z: 3}
+    cameraChild: 0
+  fxPowerTransfer:
+    fxPrefab: {fileID: 1791314571327814635, guid: 85010a5921bbff844bb31ac5a3b0c45c, type: 2}
+    sfxPowerTransfer: {fileID: 11400000, guid: b41bfff710e343bcb9619a248b609e6b, type: 2}
+    startPoint: {fileID: 0}
+  effectMaxDuration: 1
+  effectYieldAfter: 0
+  destroyAfter: 1
+--- !u!114 &1791314571327814621
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1791314569431989210}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a4823bf5b804e607e8b26f53eac3fe0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  amplitudeX:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0.002274174
+      value: -0.000326001
+      inSlope: 0.003482637
+      outSlope: 0.003482637
+    - serializedVersion: 2
+      time: 0.03682059
+      value: 0
+      inSlope: 0.006209203
+      outSlope: 0.006209203
+    - serializedVersion: 2
+      time: 0.1039184
+      value: 0.12
+      inSlope: -0.000250875
+      outSlope: -0.000250875
+    - serializedVersion: 2
+      time: 0.4504741
+      value: -0.0005011933
+      inSlope: 0.003609353
+      outSlope: 0.003609353
+    - serializedVersion: 2
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  amplitudeY:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0.002274174
+      value: -0.000326001
+      inSlope: 0.003482637
+      outSlope: 0.003482637
+    - serializedVersion: 2
+      time: 0.03419844
+      value: 0
+      inSlope: 0.006209203
+      outSlope: 0.006209203
+    - serializedVersion: 2
+      time: 0.1026073
+      value: 0.12
+      inSlope: -0.000250875
+      outSlope: -0.000250875
+    - serializedVersion: 2
+      time: 0.4504741
+      value: -0.0005011933
+      inSlope: 0.003609353
+      outSlope: 0.003609353
+    - serializedVersion: 2
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  amplitudeZ:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+    - serializedVersion: 2
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  yaw:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+    - serializedVersion: 2
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  pitch:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+    - serializedVersion: 2
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  roll:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0.006209203
+      outSlope: 0.006209203
+    - serializedVersion: 2
+      time: 0.07265292
+      value: -4.999962
+      inSlope: 0.003482637
+      outSlope: 0.003482637
+    - serializedVersion: 2
+      time: 0.1665037
+      value: -4.992691
+      inSlope: 3.844393
+      outSlope: 3.844393
+    - serializedVersion: 2
+      time: 0.3664187
+      value: 0.0234512
+      inSlope: -0.000250875
+      outSlope: -0.000250875
+    - serializedVersion: 2
+      time: 0.5989629
+      value: -0.0007697656
+      inSlope: 0.003609353
+      outSlope: 0.003609353
+    - serializedVersion: 2
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  posX:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+    - serializedVersion: 2
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  posY:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+    - serializedVersion: 2
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  posZ:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+    - serializedVersion: 2
+      time: 0.1512249
+      value: 0.4007874
+      inSlope: 0.1821239
+      outSlope: 0.1821239
+    - serializedVersion: 2
+      time: 0.2476927
+      value: 0.4021501
+      inSlope: -0.1794169
+      outSlope: -0.1794169
+    - serializedVersion: 2
+      time: 0.4511763
+      value: -0.001242071
+      inSlope: -0.03101812
+      outSlope: -0.03101812
+    - serializedVersion: 2
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  shakePowerMultiplier: 1
+  perlinNoiseSampleFrequency: 12
+  movementTime: 1
+  shakeDelay: 0

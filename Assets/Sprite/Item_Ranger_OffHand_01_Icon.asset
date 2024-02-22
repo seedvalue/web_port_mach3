@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Item_Ranger_OffHand_01_Icon
+  m_Rect:
+    serializedVersion: 2
+    x: 1014
+    y: 1338
+    width: 336
+    height: 444
+  m_Offset: {x: 0, y: 0}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 200
+  m_Pivot: {x: 0.5, y: 0.5}
+  m_Extrude: 1
+  m_IsPolygon: 0
+  m_AtlasName:
+  m_PackingTag:
+  m_RD:
+    texture: {fileID: 2800000, guid: 117e237df5a7980479c2a8921af544d5, type: 3}
+    alphaTexture: {fileID: 0}
+    vertices:
+    - serializedVersion: 2
+      pos: {x: 0.835, y: -1.09, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.84, y: -1.11, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.84, y: -1.09, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.82, y: -1.105, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.82, y: -1.11, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.645, y: 1.09, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.815, y: 0.96, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.815, y: 1.09, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.4, y: -0.11, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.13, y: 0.865, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.15, y: 0.905, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.47, y: -0.91, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.65, y: 0.055, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.705, y: -0.455, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.705, y: -0.91, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.82, y: 1.11, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.835, y: 1.09, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.82, y: 1.105, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.84, y: 1.11, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.84, y: 1.09, z: 0}
+    indices:
+    - 19
+    - 18
+    - 16
+    - 15
+    - 16
+    - 18
+    - 17
+    - 16
+    - 15
+    - 14
+    - 13
+    - 11
+    - 12
+    - 11
+    - 13
+    - 10
+    - 11
+    - 12
+    - 8
+    - 11
+    - 10
+    - 9
+    - 8
+    - 10
+    - 5
+    - 8
+    - 9
+    - 6
+    - 8
+    - 5
+    - 7
+    - 6
+    - 5
+    - 4
+    - 3
+    - 1
+    - 0
+    - 1
+    - 3
+    - 2
+    - 1
+    - 0
+    textureRect:
+      serializedVersion: 2
+      x: 1014
+      y: 1338
+      width: 336
+      height: 444
+    textureRectOffset: {x: 0, y: 0}
+    settingsRaw: 67
+    uvTransform: {x: 200, y: 1182, z: 200, w: 1560}

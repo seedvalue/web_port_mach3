@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e65131c1e7f4950a7ce230f0ceb797fc, type: 3}
+  m_Name: "ChestSlot_Free"
+  m_EditorClassIdentifier: 
+  connectedChest: {fileID: 11400000, guid: 76507ed57c2f4cfebd4dcca2f090c998, type: 2}
+  maxChests: 2
+  generationHours: 4

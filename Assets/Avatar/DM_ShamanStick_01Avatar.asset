@@ -1,0 +1,271 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!90 &9000000
+Avatar:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "DM_ShamanStick_01Avatar"
+  m_AvatarSize: 2508
+  m_Avatar:
+    serializedVersion: 3
+    m_AvatarSkeleton:
+      data:
+        m_Node:
+        - m_ParentId: -1
+          m_AxesId: -1
+        - m_ParentId: 0
+          m_AxesId: -1
+        - m_ParentId: 0
+          m_AxesId: -1
+        - m_ParentId: 2
+          m_AxesId: -1
+        - m_ParentId: 3
+          m_AxesId: -1
+        - m_ParentId: 4
+          m_AxesId: -1
+        - m_ParentId: 5
+          m_AxesId: -1
+        - m_ParentId: 6
+          m_AxesId: -1
+        - m_ParentId: 7
+          m_AxesId: -1
+        - m_ParentId: 8
+          m_AxesId: -1
+        - m_ParentId: 9
+          m_AxesId: -1
+        - m_ParentId: 10
+          m_AxesId: -1
+        - m_ParentId: 9
+          m_AxesId: -1
+        - m_ParentId: 6
+          m_AxesId: -1
+        - m_ParentId: 13
+          m_AxesId: -1
+        - m_ParentId: 14
+          m_AxesId: -1
+        - m_ParentId: 6
+          m_AxesId: -1
+        - m_ParentId: 16
+          m_AxesId: -1
+        - m_ParentId: 17
+          m_AxesId: -1
+        m_ID: 0000000061b43fa9ef57c7676d84f7ae95eae084430faf09a62a67eb3a78b6dd4849e33e2e05f72a68de7708d06dc13194b67c2c1743ae3068330bef4caefa9ffc22db66239116c966ea3641
+        m_AxesArray: []
+    m_AvatarSkeletonPose:
+      data:
+        m_X:
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -1.84413, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -7.105427E-17, y: 1.584547, z: -2.621437E-06}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 7.105427E-17, y: 1.069876, z: 2.621437E-06}
+          q: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.1007291, y: 2.236635E-17, z: 6.310887E-32}
+          q: {x: 0, y: 0, z: -1.110223E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.0984417, y: -4.85355E-33, z: 8.881784E-18}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.13239, y: -4.485577E-19, z: -0.03735019}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.09590365, y: 4.593444E-19, z: -0.02474758}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.06374768, y: -1.07867E-20, z: 0.02293153}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.002006037, y: -2.435426E-35, z: 0.02384405}
+          q: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 2.354623E-17, y: -0.1060428, z: 0.2195055}
+          q: {x: 0.7071068, y: 7.850463E-17, z: 7.850463E-17, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.101046, y: -1.272554E-31, z: -1.776357E-17}
+          q: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.01527741, y: -0.1204729, z: -0.02378613}
+          q: {x: 0.006550866, y: -0.003954592, z: 0.8560768, w: 0.5167919}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.3144943, y: 7.389644E-15, z: 2.664535E-17}
+          q: {x: 0.3913961, y: 0.09911441, z: 0.03236344, w: 0.9142965}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.4089596, y: 5.115907E-15, z: -1.421085E-15}
+          q: {x: 1.110223E-16, y: 1.700029E-15, z: 7.008283E-15, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.01527741, y: 0.12047, z: -0.02378613}
+          q: {x: -0.003954592, y: 0.006550866, z: 0.5167919, w: 0.8560768}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.3144943, y: -1.705303E-15, z: 4.174439E-16}
+          q: {x: 0.3913961, y: -0.09911441, z: -0.03236344, w: 0.9142965}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.4089596, y: 1.023181E-14, z: -6.536993E-15}
+          q: {x: -2.775558E-15, y: -3.268219E-15, z: -9.34669E-15, w: 1}
+          s: {x: 1, y: 1, z: 1}
+    m_DefaultPose:
+      data:
+        m_X:
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -1.84413, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -7.105427E-17, y: 1.584547, z: -2.621437E-06}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 7.105427E-17, y: 1.069876, z: 2.621437E-06}
+          q: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.1007291, y: 2.236635E-17, z: 6.310887E-32}
+          q: {x: 0, y: 0, z: -1.110223E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.0984417, y: -4.85355E-33, z: 8.881784E-18}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.13239, y: -4.485577E-19, z: -0.03735019}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.09590365, y: 4.593444E-19, z: -0.02474758}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.06374768, y: -1.07867E-20, z: 0.02293153}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.002006037, y: -2.435426E-35, z: 0.02384405}
+          q: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 2.354623E-17, y: -0.1060428, z: 0.2195055}
+          q: {x: 0.7071068, y: 7.850463E-17, z: 7.850463E-17, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.101046, y: -1.272554E-31, z: -1.776357E-17}
+          q: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.01527741, y: -0.1204729, z: -0.02378613}
+          q: {x: 0.006550866, y: -0.003954592, z: 0.8560768, w: 0.5167919}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.3144943, y: 7.389644E-15, z: 2.664535E-17}
+          q: {x: 0.3913961, y: 0.09911441, z: 0.03236344, w: 0.9142965}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.4089596, y: 5.115907E-15, z: -1.421085E-15}
+          q: {x: 1.110223E-16, y: 1.700029E-15, z: 7.008283E-15, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.01527741, y: 0.12047, z: -0.02378613}
+          q: {x: -0.003954592, y: 0.006550866, z: 0.5167919, w: 0.8560768}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.3144943, y: -1.705303E-15, z: 4.174439E-16}
+          q: {x: 0.3913961, y: -0.09911441, z: -0.03236344, w: 0.9142965}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.4089596, y: 1.023181E-14, z: -6.536993E-15}
+          q: {x: -2.775558E-15, y: -3.268219E-15, z: -9.34669E-15, w: 1}
+          s: {x: 1, y: 1, z: 1}
+    m_SkeletonNameIDArray: 0000000061b43fa9ef57c767951c648a67bb067ac9c992fc2499e5c2d97663ba7704f73c6262fcee0f3775c3132b3d5df35f7ee79083fb1e3ef16f989b2233537be28e48d5901ace70434605
+    m_Human:
+      data:
+        m_RootX:
+          t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        m_Skeleton:
+          data:
+            m_Node:
+            m_ID: 
+            m_AxesArray:
+        m_SkeletonPose:
+          data:
+            m_X:
+        m_LeftHand:
+          data:
+            m_HandBoneIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_RightHand:
+          data:
+            m_HandBoneIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_Handles:
+        m_ColliderArray: []
+        m_HumanBoneIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_HumanBoneMass:
+        - 0.1454546
+        - 0.1212121
+        - 0.1212121
+        - 0.04848485
+        - 0.04848485
+        - 0.009696971
+        - 0.009696971
+        - 0.03030303
+        - 0.2909091
+        - 0.01212121
+        - 0.04848485
+        - 0.006060607
+        - 0.006060607
+        - 0.02424243
+        - 0.02424243
+        - 0.01818182
+        - 0.01818182
+        - 0.006060607
+        - 0.006060607
+        - 0.002424243
+        - 0.002424243
+        - 0
+        - 0
+        - 0
+        m_ColliderIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_Scale: 1
+        m_ArmTwist: 0.5
+        m_ForeArmTwist: 0.5
+        m_UpperLegTwist: 0.5
+        m_LegTwist: 0.5
+        m_ArmStretch: 0.05
+        m_LegStretch: 0.05
+        m_FeetSpacing: 0
+        m_HasLeftHand: 0
+        m_HasRightHand: 0
+        m_HasTDoF: 0
+    m_HumanSkeletonIndexArray: 
+    m_HumanSkeletonReverseIndexArray: 
+    m_RootMotionBoneIndex: -1
+    m_RootMotionBoneX:
+      t: {x: 0, y: 0, z: 0}
+      q: {x: 0, y: 0, z: 0, w: 1}
+      s: {x: 1, y: 1, z: 1}
+    m_RootMotionSkeleton:
+      data:
+        m_Node:
+        m_ID: 
+        m_AxesArray: []
+    m_RootMotionSkeletonPose:
+      data:
+        m_X:
+    m_RootMotionSkeletonIndexArray: 
+  m_TOS:
+    0: 
+    142073448: ShamanStick_SHJntGrp/ShamanStick_ROOTSHJnt/ShamanStick_Spine_01SHJnt/ShamanStick_Spine_02SHJnt/ShamanStick_Spine_TopSHJnt/ShamanStick_Neck_01SHJnt/ShamanStick_Neck_02SHJnt/ShamanStick_Neck_TopSHJnt/ShamanStick_Head_JawSHJnt
+    162467651: ShamanStick_SHJntGrp/ShamanStick_ROOTSHJnt/ShamanStick_Spine_01SHJnt/ShamanStick_Spine_02SHJnt
+    720831790: ShamanStick_SHJntGrp/ShamanStick_ROOTSHJnt/ShamanStick_Spine_01SHJnt/ShamanStick_Spine_02SHJnt/ShamanStick_Spine_TopSHJnt/ShamanStick_Neck_01SHJnt/ShamanStick_Neck_02SHJnt/ShamanStick_Neck_TopSHJnt
+    746370708: ShamanStick_SHJntGrp/ShamanStick_ROOTSHJnt/ShamanStick_Spine_01SHJnt/ShamanStick_Spine_02SHJnt/ShamanStick_Spine_TopSHJnt/ShamanStick_Neck_01SHJnt/ShamanStick_Neck_02SHJnt/ShamanStick_Neck_TopSHJnt/ShamanStick_Head_TopSHJnt
+    816726807: ShamanStick_SHJntGrp/ShamanStick_ROOTSHJnt/ShamanStick_Spine_01SHJnt/ShamanStick_Spine_02SHJnt/ShamanStick_Spine_TopSHJnt/ShamanStick_l_Wing_01_01SHJnt
+    834760144: ShamanStick_SHJntGrp/ShamanStick_ROOTSHJnt/ShamanStick_Spine_01SHJnt/ShamanStick_Spine_02SHJnt/ShamanStick_Spine_TopSHJnt/ShamanStick_Neck_01SHJnt/ShamanStick_Neck_02SHJnt/ShamanStick_Neck_TopSHJnt/ShamanStick_Head_JawSHJnt/ShamanStick_Head_JawEndSHJnt
+    1055082824: ShamanStick_SHJntGrp/ShamanStick_ROOTSHJnt/ShamanStick_Spine_01SHJnt/ShamanStick_Spine_02SHJnt/ShamanStick_Spine_TopSHJnt/ShamanStick_Neck_01SHJnt/ShamanStick_Neck_02SHJnt
+    1094117990: ShamanStick_SHJntGrp/ShamanStick_ROOTSHJnt/ShamanStick_Spine_01SHJnt/ShamanStick_Spine_02SHJnt/ShamanStick_Spine_TopSHJnt/ShamanStick_r_Wing_01_01SHJnt/ShamanStick_r_Wing_01_02SHJnt/ShamanStick_r_Wing_01_03SHJnt
+    1725637372: ShamanStick_SHJntGrp/ShamanStick_ROOTSHJnt/ShamanStick_Spine_01SHJnt/ShamanStick_Spine_02SHJnt/ShamanStick_Spine_TopSHJnt/ShamanStick_r_Wing_01_01SHJnt
+    1741117423: ShamanStick_SHJntGrp
+    2229332629: ShamanStick_SHJntGrp/ShamanStick_ROOTSHJnt/ShamanStick_Spine_01SHJnt
+    2684005964: ShamanStick_SHJntGrp/ShamanStick_ROOTSHJnt/ShamanStick_Spine_01SHJnt/ShamanStick_Spine_02SHJnt/ShamanStick_Spine_TopSHJnt/ShamanStick_l_Wing_01_01SHJnt/ShamanStick_l_Wing_01_02SHJnt/ShamanStick_l_Wing_01_03SHJnt
+    2839524449: Skeleton_Forest_Shaman_01_Geo
+    2935456877: ShamanStick_SHJntGrp/ShamanStick_ROOTSHJnt
+    3373699363: ShamanStick_SHJntGrp/ShamanStick_ROOTSHJnt/ShamanStick_Spine_01SHJnt/ShamanStick_Spine_02SHJnt/ShamanStick_Spine_TopSHJnt/ShamanStick_r_Wing_01_01SHJnt/ShamanStick_r_Wing_01_02SHJnt
+    3719723066: ShamanStick_SHJntGrp/ShamanStick_ROOTSHJnt/ShamanStick_Spine_01SHJnt/ShamanStick_Spine_02SHJnt/ShamanStick_Spine_TopSHJnt/ShamanStick_Neck_01SHJnt
+    3949406886: ShamanStick_SHJntGrp/ShamanStick_ROOTSHJnt/ShamanStick_Spine_01SHJnt/ShamanStick_Spine_02SHJnt/ShamanStick_Spine_TopSHJnt
+    4010488680: ShamanStick_SHJntGrp/ShamanStick_ROOTSHJnt/ShamanStick_Spine_01SHJnt/ShamanStick_Spine_02SHJnt/ShamanStick_Spine_TopSHJnt/ShamanStick_l_Wing_01_01SHJnt/ShamanStick_l_Wing_01_02SHJnt

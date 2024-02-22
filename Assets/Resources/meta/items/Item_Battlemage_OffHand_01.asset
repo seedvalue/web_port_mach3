@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd027e2971dbb65a9c6966c0b5a12fde, type: 3}
+  m_Name: "Item_Battlemage_OffHand_01"
+  m_EditorClassIdentifier: 
+  displayName: "Anguine Aegis"
+  icon: {fileID: 21300000, guid: 59225670875e4ad1bb7638f164f69e97, type: 3}
+  rarity: 2
+  itemType: 4
+  itemClass: 6
+  perks: []
+  skill: {fileID: 11400000, guid: 1d2bc4c6cbe94091b616e8b4e27afd1f, type: 2}
+  description: 
+  vis3D: {fileID: 1791314569431989268, guid: 697dafe379be8ac43a2f763ff4f244df, type: 2}
+  headVariant: 0
+  availableSoon: 0
+  baseStats:
+    HP: 0
+    Def: 30
+    Rcv: 30
+    Mel: 0
+    Rng: 0
+    Hrm: 0
+    Prm: 0
+    Vd: 0
+  basePercentStats:
+    HP: 0
+    Def: 0
+    Rcv: 0
+    Mel: 45
+    Rng: 0
+    Hrm: 0
+    Prm: 45
+    Vd: 0
